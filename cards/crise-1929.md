@@ -20,7 +20,7 @@ Quelle est la lecture marxiste/keynésienne de 1929, et quelle objection sérieu
 ## Agricultural Adjustment Act, 1933 : les chiffres
 type: chiffre
 
-Quel exemple concret de destruction de surplus pendant que la faim sévissait ?
+États-Unis, Grande Dépression : quels sont les deux chiffres à retenir de l'Agricultural Adjustment Act, et dans quel but ces destructions ?
 
 ---
 
@@ -36,7 +36,7 @@ Objectif : **faire remonter les prix agricoles** en réduisant l'offre — penda
 type: piège
 tags: rhétorique
 
-Pourquoi ne pas présenter l'AAA comme un « caprice patronal » ?
+On serait tenté de raconter l'Agricultural Adjustment Act — la destruction de récoltes et de bétail en 1933 — comme un « caprice patronal ». Pourquoi c'est faux, et pourquoi la vraie réponse rend l'argument **plus** fort ?
 
 ---
 
@@ -51,7 +51,7 @@ Et c'est précisément ce qui rend l'argument **plus fort, pas moins** : si mêm
 type: citation
 tags: auteur:marx
 
-Où Marx décrit-il ce mécanisme, et dans quels termes ?
+Où Marx décrit-il la destruction massive de forces productives comme le mode de sortie de crise du capitalisme, en quelle année, et dans quels termes exacts ?
 
 ---
 

@@ -6,7 +6,7 @@ tags: philosophie, politique, source:débat-rn-confus
 type: concept
 tags: rhétorique
 
-Sur quoi porte *exactement* le clivage ? (Indice : pas sur le contenu des idées.)
+Sur quoi porte *exactement* le clivage — sachant que ce n'est pas sur le contenu des idées ? Et quel test en tirer face à un adversaire ?
 
 ---
 

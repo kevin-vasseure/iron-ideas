@@ -6,7 +6,7 @@ tags: marxisme, économie, politique, auteur:marx, source:débat-rn-confus
 type: piège
 tags: rhétorique
 
-Pourquoi cette équivalence est-elle fausse, et pourquoi est-elle dangereuse à laisser passer ?
+Pourquoi cette équivalence est-elle fausse **historiquement**, et quelle réplique facile offre-t-elle à l'adversaire si on la laisse passer ?
 
 ---
 
@@ -20,7 +20,7 @@ Il y a eu des marchés pendant des millénaires sans capitalisme.
 ## A-M-A' : la définition du capital
 type: concept
 
-Qu'est-ce qui définit le capitalisme au niveau de la circulation ?
+Que veut dire la formule A-M-A', en quoi renverse-t-elle le cycle M-A-M de la production marchande simple — et qu'est-ce que ce renversement change à la finalité de la production ?
 
 ---
 
@@ -35,7 +35,7 @@ La finalité n'est plus l'usage (qui clôt le cycle M-A-M) mais la **valorisatio
 type: argument
 tags: sociologie
 
-Au-delà de A-M-A', qu'est-ce qui définit le capitalisme comme mode de production ?
+Au-delà de la circulation (A-M-A'), quel critère fait du capitalisme un mode de production à part entière ? Ce qu'il suppose — et pourquoi ce n'est ni le marché, ni la cupidité, ni l'inégalité.
 
 ---
 
@@ -63,7 +63,7 @@ Le refus est **assumé et argumenté**. Marx raille les « **recettes pour les m
 type: concept
 tags: philosophie
 
-Quels éléments positifs se dégagent tout de même chez Marx ?
+Marx refuse d'écrire les « recettes pour les marmites de l'avenir ». Quels éléments positifs sur la société post-capitaliste peut-on malgré tout tirer de ses textes, dans quel ordre — et quel fil directeur les relie ?
 
 ---
 

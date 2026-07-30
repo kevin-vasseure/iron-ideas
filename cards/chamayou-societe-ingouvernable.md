@@ -5,7 +5,7 @@ tags: politique, histoire, sociologie, auteur:chamayou, source:débat-rn-confus
 ## La thèse de Chamayou
 type: concept
 
-À quoi répond la stratégie patronale décrite par Chamayou, quand, et quels en sont les volets ?
+Dans *La société ingouvernable* (2018), Grégoire Chamayou décrit une contre-offensive patronale : à quoi répond-elle, à quelle époque, quels en sont les volets — et qu'est-ce qui fait la valeur de la démonstration ?
 
 ---
 
@@ -22,7 +22,7 @@ type: concept
 type: argument
 tags: économie
 
-Comment l'insécurité extérieure remplace-t-elle la discipline intérieure ?
+Comment l'insécurité *à l'extérieur* de l'entreprise (chômage, protection sociale trouée) remplace-t-elle la discipline *dans* l'entreprise — et qu'est-ce que ça change au sens de l'affaiblissement des filets sociaux ?
 
 ---
 
@@ -37,7 +37,7 @@ La discipline est donc **externalisée** : au lieu de dispositifs coercitifs co�
 type: piège
 tags: économie, rhétorique
 
-Quel épisode correspond le mieux à la création délibérée de chômage par la politique monétaire ?
+Pour illustrer un chômage de masse délibérément provoqué par la politique monétaire : quel épisode, quelles dates, sous quels présidents — et qu'avait fait Nixon en 1971, qu'on lui attribue à tort ?
 
 ---
 

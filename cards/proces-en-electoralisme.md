@@ -42,7 +42,7 @@ La nuance qui tient en débat : **le mobile n'est pas toujours hors sujet**. Il 
 ## Le miroir : et le vote des ultra-riches ?
 type: argument
 
-Comment retourner le procès en électoralisme, et sur quoi repose exactement la symétrie ?
+Face à « la gauche drague le vote musulman par électoralisme » : comment retourner le procès d'intention contre la droite, et sur quoi repose exactement la symétrie ?
 
 ---
 
@@ -61,7 +61,7 @@ Et le miroir est ici **plus facile à documenter** que l'original : la propriét
 type: argument
 tags: sociologie
 
-Quel biais le miroir met-il au jour ?
+Le miroir — appliquer à la droite le même soupçon d'électoralisme qu'elle applique à la gauche — met au jour un biais. Lequel, et quelle alternative impose-t-il à l'adversaire ?
 
 ---
 
@@ -77,7 +77,7 @@ Le miroir ne dit donc pas « vous aussi vous êtes intéressés ». Il dit : **v
 ## Le miroir ne prouve pas la sincérité de la gauche
 type: piège
 
-Quelle est la limite logique du miroir — celle qu'il faut poser *soi-même* avant qu'on te la serve ?
+Le miroir (« et vous, vous défendez les ultra-riches pour leur argent ») a une limite logique, à poser *soi-même* avant qu'on te la serve. Laquelle — ce qu'il établit vraiment, et ce qu'il reste à établir autrement ?
 
 ---
 
@@ -93,7 +93,7 @@ Ce qu'il n'établit pas : que la gauche est sincère. Cette question reste ouver
 ## « Mais nous, c'est une vraie doctrine » : la contre-attaque
 type: piège
 
-On te répond que la défense de la propriété et de la libre entreprise relève d'une tradition intellectuelle ancienne, pas d'un calcul. Que faire ?
+Tu viens de renvoyer à la droite le soupçon d'électoralisme. On te répond que la défense de la propriété et de la libre entreprise relève d'une tradition intellectuelle ancienne et sincère, pas d'un calcul. Que faire ?
 
 ---
 
@@ -109,7 +109,7 @@ D'où la seule question qui reste : **pourquoi accorder à une tradition ce qu'o
 ## Le test de symétrie
 type: question
 
-Une seule question à poser pour désamorcer n'importe quel procès en électoralisme.
+Une seule question à poser pour désamorcer n'importe quel procès en électoralisme — laquelle, et quelles sont ses trois issues possibles ?
 
 ---
 
@@ -128,7 +128,7 @@ Trois issues, toutes bonnes :
 type: piège
 tags: sociologie
 
-Avant même la question du mobile — que suppose l'expression « aller chercher le vote musulman » ?
+Avant même de discuter du mobile prêté à la gauche : quels présupposés l'expression « aller chercher le vote musulman » fait-elle passer en contrebande ?
 
 ---
 
@@ -144,7 +144,7 @@ Trois présupposés, aucun établi :
 ## Qui possède les grands médias français
 type: chiffre
 
-Le socle factuel du miroir — à connaître de tête, et à vérifier avant usage.
+Le socle factuel du miroir : quels milliardaires possèdent quels journaux et quelles chaînes — et quelle précaution prendre avant de balancer un nom en débat ?
 
 ---
 

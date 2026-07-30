@@ -6,7 +6,7 @@ tags: politique, rhétorique, auteur:padu, source:débat-rn-confus
 type: concept
 tags: sociologie
 
-Que désigne « les confus » chez Padu ? Est-ce une catégorie **sociologique** ou **stratégique** ?
+« Les confus », dans le vocabulaire de Padu, désigne une partie de l'électorat RN. Laquelle — et est-ce une catégorie **sociologique** ou **stratégique** ?
 
 ---
 
@@ -34,7 +34,7 @@ Désigne le moment où une personne **« rouge-brune »** — mélange d'idées 
 ## La moïsation est-elle une manœuvre de LFI ?
 type: argument
 
-« La moïsation, c'est une stratégie de LFI pour forcer les gens à se ranger. » — Que répondre ?
+« La moïsation — acculer les *rouges-bruns* à choisir un camp — c'est une stratégie de LFI pour forcer les gens à se ranger. » Que répondre, et sur quel mécanisme s'appuyer ?
 
 ---
 
@@ -49,7 +49,7 @@ Le mécanisme est l'**érosion structurelle du bloc central macroniste** : quand
 type: piège
 tags: marxisme
 
-Existe-t-il un néologisme PaduTeam dédié à « la pénurie » ?
+Existe-t-il, dans le vocabulaire de la PaduTeam, un néologisme dédié à « la pénurie » ? Sinon, sur quoi s'appuient-ils ?
 
 ---
 

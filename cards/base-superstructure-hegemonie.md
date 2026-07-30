@@ -6,7 +6,7 @@ tags: marxisme, philosophie, politique, source:débat-rn-confus
 type: citation
 tags: auteur:marx
 
-Quelle thèse Marx pose-t-il dans la Préface de 1859, et contre qui ?
+De quel ouvrage la « Préface de 1859 » est-elle la préface, quelle thèse Marx y pose-t-il — et contre quel philosophe ?
 
 ---
 
@@ -21,7 +21,7 @@ C'est un **renversement explicite de Hegel** : ce n'est pas l'Esprit qui se dép
 type: argument
 tags: auteur:engels, rhétorique
 
-Qu'est-ce qu'Engels corrige dans les années 1890, et pourquoi c'est décisif en débat ?
+Le modèle base / superstructure passe pour un déterminisme économique à sens unique. Qu'est-ce qu'Engels y corrige dans les années 1890, dans quels textes — et pourquoi c'est l'objection à avoir prête en débat ?
 
 ---
 
@@ -38,7 +38,7 @@ Dans ses **lettres des années 1890** (à Conrad Schmidt, Franz Mehring, Borgius
 type: concept
 tags: auteur:gramsci, sociologie
 
-Qu'ajoute Gramsci au modèle de la domination ?
+Dans le modèle marxiste classique, la classe dominante tient le pouvoir par l'appareil d'État et sa coercition. Qu'est-ce que Gramsci ajoute, où cela se joue-t-il — et qu'est-ce que ça change à la nature de la domination ?
 
 ---
 
@@ -51,7 +51,7 @@ Conséquence : on peut perdre le pouvoir culturel tout en tenant l'appareil d'É
 type: concept
 tags: auteur:gramsci, histoire
 
-Que désignent ces deux termes chez Gramsci, et lequel privilégie-t-il en Occident ?
+Que désignent ces deux termes empruntés au vocabulaire militaire, et lequel Gramsci juge-t-il être la voie dans les sociétés occidentales — pourquoi ?
 
 ---
 
@@ -65,7 +65,7 @@ Dans les sociétés occidentales, où la société civile est dense et l'hégém
 type: piège
 tags: auteur:gramsci, sociologie, rhétorique
 
-Que veut dire « intellectuel organique » — et l'erreur à ne pas commettre ?
+Que veut dire « intellectuel organique » chez Gramsci, à quelle autre figure d'intellectuel s'oppose-t-il — et quelle erreur de sens ne pas commettre ?
 
 ---
 
@@ -97,7 +97,7 @@ Point de départ solide, mais insuffisant : il ne dit ni *comment* l'idéologie 
 type: concept
 tags: auteur:marx
 
-Comment Marx affine-t-il la notion d'idéologie ?
+Au-delà de la définition minimale (un système d'idées qui justifie des rapports de production), quels deux apports Marx ajoute-t-il dans *L'Idéologie allemande* — et quelle image optique y emploie-t-il ?
 
 ---
 
@@ -111,7 +111,7 @@ Deux apports (**L'Idéologie allemande**, 1845-46) :
 type: concept
 tags: auteur:gramsci
 
-Que corrige Gramsci dans une conception purement « mystificatrice » de l'idéologie ?
+Si l'idéologie n'était qu'un voile qui trompe, que manquerait-on ? Ce que Gramsci corrige dans cette conception — et la conséquence pratique quand on cherche à la démonter.
 
 ---
 
@@ -124,7 +124,7 @@ L'idéologie n'est pas seulement un voile qui trompe : elle a une **fonction org
 type: argument
 tags: auteur:althusser, rhétorique
 
-Pourquoi « il suffit d'expliquer les faits » échoue-t-il systématiquement ?
+Pourquoi la pédagogie pure — « il suffit d'expliquer les faits » — ne défait-elle presque jamais une adhésion idéologique ? Ce qu'en dit Althusser, et dans quel texte.
 
 ---
 
