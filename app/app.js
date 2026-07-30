@@ -20,6 +20,22 @@ const TYPES = {
 const typeLabel = (t) => (TYPES[t] || [t, 'var(--muted)'])[0];
 const typeColor = (t) => (TYPES[t] || [t, 'var(--muted)'])[1];
 
+/* Niveau = complexité intrinsèque du sujet, portée par un tag « niveau:… ».
+   À ne pas confondre avec la boîte de Leitner, qui mesure *ta* mémoire : une
+   fiche « base » peut très bien croupir en boîte 1. Une fiche sans tag niveau
+   s'affiche simplement sans jauge. */
+const LEVEL_NS = 'niveau:';
+const LEVELS = {
+  '1-base': ['Base', 1],
+  '2-intermédiaire': ['Intermédiaire', 2],
+  '3-avancé': ['Avancé', 3],
+};
+const levelOf = (c) => {
+  const t = c.tags.find((t) => t.startsWith(LEVEL_NS));
+  return (t && LEVELS[t.slice(LEVEL_NS.length)]) || null;
+};
+const levelN = (c) => (levelOf(c) || ['', 0])[1];
+
 /** Boîtes de Leitner : délai en jours avant la prochaine révision. */
 const BOX_DAYS = [0, 1, 2, 4, 9, 21];
 const MAX_BOX = 5;
@@ -87,6 +103,10 @@ for (const c of CARDS) typeCount.set(c.type, (typeCount.get(c.type) || 0) + 1);
 /** Éclate « ns:valeur » ; les tags sans namespace tombent dans le groupe ''. */
 const nsOf = (t) => (t.includes(':') ? t.slice(0, t.indexOf(':')) : '');
 const tagLabel = (t) => (t.includes(':') ? t.slice(t.indexOf(':') + 1) : t);
+/* Les niveaux sont préfixés d'un chiffre pour se trier dans l'ordre ; on ne
+   l'affiche pas. Le tri, lui, continue de passer par tagLabel(). */
+const chipLabel = (t) =>
+  t.startsWith(LEVEL_NS) && LEVELS[tagLabel(t)] ? LEVELS[tagLabel(t)][0] : tagLabel(t);
 
 const TAG_GROUPS = (() => {
   const g = new Map();
@@ -224,6 +244,16 @@ function rate(v) {
 const typeBadge = (c) =>
   `<span class="type" style="--tc:${typeColor(c.type)}">${esc(typeLabel(c.type))}</span>`;
 
+/** Jauge à trois barres ; `bare` = sans le libellé, pour la liste. */
+const levelBadge = (c, bare) => {
+  const l = levelOf(c);
+  if (!l) return '';
+  return `<span class="level${bare ? ' bare' : ''}" data-n="${l[1]}"
+                title="Complexité du sujet : ${esc(l[0].toLowerCase())}">
+            <i><b></b><b></b><b></b></i>${bare ? '' : esc(l[0])}
+          </span>`;
+};
+
 const tagList = (c) =>
   `<ul class="tags">${c.tags
     .map(
@@ -234,8 +264,8 @@ const tagList = (c) =>
 
 function renderCard(c, revealed) {
   return `
-    <article class="card">
-      <div class="card-head">${typeBadge(c)}<span class="card-file">${esc(c.file)}</span></div>
+    <article class="card" data-n="${levelN(c)}">
+      <div class="card-head">${typeBadge(c)}${levelBadge(c)}<span class="card-file">${esc(c.file)}</span></div>
       <h2 class="card-title">${inline(c.title)}</h2>
       <div class="face recto">${md(c.recto)}</div>
       ${
@@ -362,10 +392,11 @@ function renderBrowse() {
         ? `<div class="list">${pool
             .map((c) => {
               const s = stateOf(c);
-              return `<details class="row">
+              return `<details class="row" data-n="${levelN(c)}">
                 <summary>
                   ${typeBadge(c)}
                   <span class="row-title">${inline(c.title)}</span>
+                  ${levelBadge(c, true)}
                   <span class="row-box">${s.box ? 'b' + s.box : '—'}</span>
                 </summary>
                 <div class="row-body">
@@ -411,8 +442,9 @@ function renderChrome() {
         <h3>${esc(ns || 'Thèmes')}</h3>
         ${tags
           .map(
-            (t) => `<button class="chip ${filter.tags.has(t) ? 'is-on' : ''}" data-act="tag" data-tag="${esc(t)}">
-                      ${esc(tagLabel(t))}<span class="n">${tagCount.get(t)}</span>
+            (t) => `<button class="chip ${filter.tags.has(t) ? 'is-on' : ''}" data-act="tag" data-tag="${esc(t)}"
+                            ${t.startsWith(LEVEL_NS) && LEVELS[tagLabel(t)] ? `data-n="${LEVELS[tagLabel(t)][1]}"` : ''}>
+                      ${esc(chipLabel(t))}<span class="n">${tagCount.get(t)}</span>
                     </button>`,
           )
           .join('')}

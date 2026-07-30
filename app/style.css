@@ -22,6 +22,11 @@
   --t-piege: #a83c22;
   --t-chiffre: #6a5891;
   --t-citation: #3a7178;
+
+  /* Niveaux : une progression d'intensité, pas six couleurs de plus. */
+  --n1: #6f8f76;
+  --n2: #b3822f;
+  --n3: #a5382c;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -43,7 +48,23 @@
     --t-piege: #e58163;
     --t-chiffre: #a595cd;
     --t-citation: #6fb2b8;
+
+    --n1: #89b191;
+    --n2: #d5a55c;
+    --n3: #dd7c62;
   }
+}
+
+/* Un seul point d'entrée pour la couleur de niveau : tout ce qui porte
+   data-n s'en sert (jauge, liseré de fiche, pastille de filtre). */
+[data-n='1'] {
+  --lc: var(--n1);
+}
+[data-n='2'] {
+  --lc: var(--n2);
+}
+[data-n='3'] {
+  --lc: var(--n3);
 }
 
 *,
@@ -219,6 +240,15 @@ button {
   background: var(--accent-soft);
   color: var(--accent);
   font-weight: 500;
+}
+.chip[data-n]::before {
+  content: '';
+  display: inline-block;
+  width: 0.4375rem;
+  height: 0.4375rem;
+  margin-right: 0.35rem;
+  border-radius: 50%;
+  background: var(--lc);
 }
 .chip .n {
   margin-left: 0.35rem;
@@ -427,6 +457,12 @@ main {
   box-shadow: var(--shadow);
 }
 
+/* Liseré de complexité : lisible avant même d'avoir lu le titre. */
+.card[data-n]:not([data-n='0']) {
+  border-left-width: 3px;
+  border-left-color: var(--lc);
+}
+
 .card-head {
   display: flex;
   align-items: center;
@@ -449,6 +485,46 @@ main {
   height: 0.4375rem;
   border-radius: 50%;
   background: currentColor;
+}
+
+/* Jauge de complexité : trois barres croissantes, les non atteintes en creux. */
+.level {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font: 600 0.625rem/1 var(--sans);
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--lc, var(--muted));
+}
+.level > i {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 2px;
+  height: 0.5625rem;
+}
+.level b {
+  width: 3px;
+  border-radius: 1px;
+  background: currentColor;
+  opacity: 0.25;
+}
+.level b:nth-child(1) {
+  height: 40%;
+}
+.level b:nth-child(2) {
+  height: 70%;
+}
+.level b:nth-child(3) {
+  height: 100%;
+}
+.level[data-n='1'] b:nth-child(-n + 1),
+.level[data-n='2'] b:nth-child(-n + 2),
+.level[data-n='3'] b:nth-child(-n + 3) {
+  opacity: 1;
+}
+.level.bare {
+  gap: 0;
 }
 
 .card-file {
@@ -676,6 +752,10 @@ kbd {
 }
 .row > summary:hover {
   background: var(--rule-soft);
+}
+.row:not([data-n='0']) > summary {
+  padding-left: 0.6rem;
+  border-left: 2px solid var(--lc);
 }
 .row .row-title {
   flex: 1;

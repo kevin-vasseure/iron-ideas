@@ -44,7 +44,7 @@ tags: politique, rhétorique          # hérités par toutes les fiches du fichi
 
 ## L'intellectuel organique
 type: piège
-tags: auteur:gramsci, sociologie     # s'ajoutent aux tags hérités
+tags: auteur:gramsci, niveau:2-intermédiaire   # s'ajoutent aux tags hérités
 
 Que veut dire « intellectuel organique » — et l'erreur à ne pas commettre ?
 
@@ -92,6 +92,29 @@ Un tag est un mot libre, en minuscules. Deux conventions utiles :
 Le filtrage croise **n'importe lequel** (union) ou **tous** (intersection) —
 `marxisme` + `rhétorique` en mode « tous » sort les fiches directement
 utilisables en débat.
+
+### Niveau
+
+Un tag `niveau:` par fiche, sur trois crans, mesurant la **complexité du
+sujet** — pas ta mémoire :
+
+| Tag | Sens | Couleur |
+| --- | --- | --- |
+| `niveau:1-base` | compréhensible sans prérequis | vert |
+| `niveau:2-intermédiaire` | suppose une ou deux notions du corpus | ambre |
+| `niveau:3-avancé` | plusieurs notions enchaînées, ou une lecture technique | rouille |
+
+Le niveau apparaît en jauge à trois barres à côté du type, et en liseré sur le
+bord gauche de la fiche. Le chiffre du préfixe ne sert qu'à trier les crans
+dans le bon ordre — l'interface affiche « Base », « Intermédiaire », « Avancé ».
+
+Ne pas confondre avec la **boîte de Leitner** : le niveau est une propriété du
+sujet, identique pour tout le monde et versionnée dans le repo ; la boîte
+mesure *ton* rappel et vit dans le `localStorage`. Une fiche `1-base` peut
+très bien croupir en boîte 1.
+
+Une fiche sans tag `niveau:` s'affiche simplement sans jauge ni liseré — le
+niveau est facultatif, on peut le poser après coup.
 
 ## Réviser
 

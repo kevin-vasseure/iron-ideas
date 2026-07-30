@@ -8,6 +8,7 @@ window.CARDS = [
   "tags": [
    "auteur:marx",
    "marxisme",
+   "niveau:1-base",
    "philosophie",
    "politique",
    "source:débat-rn-confus"
@@ -24,6 +25,7 @@ window.CARDS = [
   "tags": [
    "auteur:engels",
    "marxisme",
+   "niveau:2-intermédiaire",
    "philosophie",
    "politique",
    "rhétorique",
@@ -41,6 +43,7 @@ window.CARDS = [
   "tags": [
    "auteur:gramsci",
    "marxisme",
+   "niveau:2-intermédiaire",
    "philosophie",
    "politique",
    "sociologie",
@@ -59,6 +62,7 @@ window.CARDS = [
    "auteur:gramsci",
    "histoire",
    "marxisme",
+   "niveau:2-intermédiaire",
    "philosophie",
    "politique",
    "source:débat-rn-confus"
@@ -75,6 +79,7 @@ window.CARDS = [
   "tags": [
    "auteur:gramsci",
    "marxisme",
+   "niveau:2-intermédiaire",
    "philosophie",
    "politique",
    "rhétorique",
@@ -92,6 +97,7 @@ window.CARDS = [
   "type": "concept",
   "tags": [
    "marxisme",
+   "niveau:1-base",
    "philosophie",
    "politique",
    "sociologie",
@@ -109,6 +115,7 @@ window.CARDS = [
   "tags": [
    "auteur:marx",
    "marxisme",
+   "niveau:2-intermédiaire",
    "philosophie",
    "politique",
    "source:débat-rn-confus"
@@ -125,6 +132,7 @@ window.CARDS = [
   "tags": [
    "auteur:gramsci",
    "marxisme",
+   "niveau:3-avancé",
    "philosophie",
    "politique",
    "source:débat-rn-confus"
@@ -141,6 +149,7 @@ window.CARDS = [
   "tags": [
    "auteur:althusser",
    "marxisme",
+   "niveau:3-avancé",
    "philosophie",
    "politique",
    "rhétorique",
@@ -158,6 +167,7 @@ window.CARDS = [
   "tags": [
    "auteur:chamayou",
    "histoire",
+   "niveau:1-base",
    "politique",
    "sociologie",
    "source:débat-rn-confus"
@@ -175,6 +185,7 @@ window.CARDS = [
    "auteur:chamayou",
    "économie",
    "histoire",
+   "niveau:2-intermédiaire",
    "politique",
    "sociologie",
    "source:débat-rn-confus"
@@ -192,6 +203,7 @@ window.CARDS = [
    "auteur:chamayou",
    "économie",
    "histoire",
+   "niveau:2-intermédiaire",
    "politique",
    "rhétorique",
    "sociologie",
@@ -211,6 +223,7 @@ window.CARDS = [
    "économie",
    "histoire",
    "marxisme",
+   "niveau:3-avancé",
    "rhétorique",
    "source:débat-rn-confus"
   ],
@@ -227,6 +240,7 @@ window.CARDS = [
    "économie",
    "histoire",
    "marxisme",
+   "niveau:1-base",
    "source:débat-rn-confus"
   ],
   "source": "",
@@ -242,6 +256,7 @@ window.CARDS = [
    "économie",
    "histoire",
    "marxisme",
+   "niveau:2-intermédiaire",
    "rhétorique",
    "source:débat-rn-confus"
   ],
@@ -259,6 +274,7 @@ window.CARDS = [
    "économie",
    "histoire",
    "marxisme",
+   "niveau:2-intermédiaire",
    "source:débat-rn-confus"
   ],
   "source": "",
@@ -271,6 +287,7 @@ window.CARDS = [
   "title": "Le critère du clivage matérialisme / idéalisme",
   "type": "concept",
   "tags": [
+   "niveau:2-intermédiaire",
    "philosophie",
    "politique",
    "rhétorique",
@@ -286,6 +303,7 @@ window.CARDS = [
   "title": "« Matérialiste = de gauche, idéaliste = de droite »",
   "type": "piege",
   "tags": [
+   "niveau:3-avancé",
    "philosophie",
    "politique",
    "rhétorique",
@@ -305,6 +323,7 @@ window.CARDS = [
    "auteur:marx",
    "économie",
    "marxisme",
+   "niveau:2-intermédiaire",
    "rhétorique",
    "source:débat-rn-confus"
   ],
@@ -321,6 +340,7 @@ window.CARDS = [
    "auteur:marx",
    "économie",
    "marxisme",
+   "niveau:2-intermédiaire",
    "source:débat-rn-confus"
   ],
   "source": "",
@@ -336,6 +356,7 @@ window.CARDS = [
    "auteur:marx",
    "économie",
    "marxisme",
+   "niveau:2-intermédiaire",
    "source:débat-rn-confus"
   ],
   "source": "",
@@ -351,6 +372,7 @@ window.CARDS = [
    "auteur:marx",
    "économie",
    "marxisme",
+   "niveau:3-avancé",
    "source:débat-rn-confus"
   ],
   "source": "",
@@ -363,6 +385,7 @@ window.CARDS = [
   "title": "« La gauche drague le vote musulman par électoralisme »",
   "type": "piege",
   "tags": [
+   "niveau:1-base",
    "politique",
    "rhétorique"
   ],
@@ -376,6 +399,7 @@ window.CARDS = [
   "title": "L'ad hominem circonstanciel",
   "type": "concept",
   "tags": [
+   "niveau:2-intermédiaire",
    "philosophie",
    "politique",
    "rhétorique"
@@ -390,6 +414,7 @@ window.CARDS = [
   "title": "Le miroir : et le vote des ultra-riches ?",
   "type": "argument",
   "tags": [
+   "niveau:1-base",
    "politique",
    "rhétorique"
   ],
@@ -403,6 +428,7 @@ window.CARDS = [
   "title": "Pourquoi le miroir mord : l'asymétrie de la sincérité",
   "type": "argument",
   "tags": [
+   "niveau:2-intermédiaire",
    "politique",
    "rhétorique",
    "sociologie"
@@ -417,6 +443,7 @@ window.CARDS = [
   "title": "Le miroir ne prouve pas la sincérité de la gauche",
   "type": "piege",
   "tags": [
+   "niveau:3-avancé",
    "politique",
    "rhétorique"
   ],
@@ -430,6 +457,7 @@ window.CARDS = [
   "title": "« Mais nous, c'est une vraie doctrine » : la contre-attaque",
   "type": "piege",
   "tags": [
+   "niveau:2-intermédiaire",
    "politique",
    "rhétorique"
   ],
@@ -443,6 +471,7 @@ window.CARDS = [
   "title": "Le test de symétrie",
   "type": "question",
   "tags": [
+   "niveau:2-intermédiaire",
    "politique",
    "rhétorique"
   ],
@@ -456,6 +485,7 @@ window.CARDS = [
   "title": "« Le vote musulman » : la prémisse factuelle",
   "type": "piege",
   "tags": [
+   "niveau:2-intermédiaire",
    "politique",
    "rhétorique",
    "sociologie"
@@ -470,6 +500,7 @@ window.CARDS = [
   "title": "Qui possède les grands médias français",
   "type": "chiffre",
   "tags": [
+   "niveau:1-base",
    "politique",
    "rhétorique"
   ],
@@ -486,6 +517,7 @@ window.CARDS = [
    "auteur:marx",
    "économie",
    "marxisme",
+   "niveau:2-intermédiaire",
    "politique",
    "rhétorique",
    "source:débat-rn-confus"
@@ -503,6 +535,7 @@ window.CARDS = [
    "auteur:marx",
    "économie",
    "marxisme",
+   "niveau:2-intermédiaire",
    "politique",
    "source:débat-rn-confus"
   ],
@@ -519,6 +552,7 @@ window.CARDS = [
    "auteur:marx",
    "économie",
    "marxisme",
+   "niveau:2-intermédiaire",
    "politique",
    "sociologie",
    "source:débat-rn-confus"
@@ -536,6 +570,7 @@ window.CARDS = [
    "auteur:marx",
    "économie",
    "marxisme",
+   "niveau:1-base",
    "philosophie",
    "politique",
    "rhétorique",
@@ -554,6 +589,7 @@ window.CARDS = [
    "auteur:marx",
    "économie",
    "marxisme",
+   "niveau:3-avancé",
    "philosophie",
    "politique",
    "source:débat-rn-confus"
@@ -569,6 +605,7 @@ window.CARDS = [
   "type": "concept",
   "tags": [
    "auteur:padu",
+   "niveau:1-base",
    "politique",
    "rhétorique",
    "sociologie",
@@ -585,6 +622,7 @@ window.CARDS = [
   "type": "concept",
   "tags": [
    "auteur:padu",
+   "niveau:1-base",
    "politique",
    "rhétorique",
    "source:débat-rn-confus"
@@ -600,6 +638,7 @@ window.CARDS = [
   "type": "argument",
   "tags": [
    "auteur:padu",
+   "niveau:2-intermédiaire",
    "politique",
    "rhétorique",
    "source:débat-rn-confus"
@@ -616,6 +655,7 @@ window.CARDS = [
   "tags": [
    "auteur:padu",
    "marxisme",
+   "niveau:2-intermédiaire",
    "politique",
    "rhétorique",
    "source:débat-rn-confus"

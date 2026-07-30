@@ -4,6 +4,7 @@ tags: politique, histoire, sociologie, auteur:chamayou, source:débat-rn-confus
 
 ## La thèse de Chamayou
 type: concept
+tags: niveau:1-base
 
 Dans *La société ingouvernable* (2018), Grégoire Chamayou décrit une contre-offensive patronale : à quoi répond-elle, à quelle époque, quels en sont les volets — et qu'est-ce qui fait la valeur de la démonstration ?
 
@@ -20,7 +21,7 @@ Dans *La société ingouvernable* (2018), Grégoire Chamayou décrit une contre-
 
 ## « L'insécurité sociale » : le mécanisme
 type: argument
-tags: économie
+tags: économie, niveau:2-intermédiaire
 
 Comment l'insécurité *à l'extérieur* de l'entreprise (chômage, protection sociale trouée) remplace-t-elle la discipline *dans* l'entreprise — et qu'est-ce que ça change au sens de l'affaiblissement des filets sociaux ?
 
@@ -35,7 +36,7 @@ La discipline est donc **externalisée** : au lieu de dispositifs coercitifs co�
 
 ## Chômage délibéré : Volcker, pas Nixon
 type: piège
-tags: économie, rhétorique
+tags: économie, rhétorique, niveau:2-intermédiaire
 
 Pour illustrer un chômage de masse délibérément provoqué par la politique monétaire : quel épisode, quelles dates, sous quels présidents — et qu'avait fait Nixon en 1971, qu'on lui attribue à tort ?
 

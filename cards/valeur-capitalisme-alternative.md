@@ -4,7 +4,7 @@ tags: marxisme, économie, politique, auteur:marx, source:débat-rn-confus
 
 ## « Critiquer le capitalisme, c'est critiquer le marché »
 type: piège
-tags: rhétorique
+tags: rhétorique, niveau:2-intermédiaire
 
 Pourquoi cette équivalence est-elle fausse **historiquement**, et quelle réplique facile offre-t-elle à l'adversaire si on la laisse passer ?
 
@@ -19,6 +19,7 @@ Il y a eu des marchés pendant des millénaires sans capitalisme.
 
 ## A-M-A' : la définition du capital
 type: concept
+tags: niveau:2-intermédiaire
 
 Que veut dire la formule A-M-A', en quoi renverse-t-elle le cycle M-A-M de la production marchande simple — et qu'est-ce que ce renversement change à la finalité de la production ?
 
@@ -33,7 +34,7 @@ La finalité n'est plus l'usage (qui clôt le cycle M-A-M) mais la **valorisatio
 
 ## Le critère décisif : la généralisation du salariat
 type: argument
-tags: sociologie
+tags: sociologie, niveau:2-intermédiaire
 
 Au-delà de la circulation (A-M-A'), quel critère fait du capitalisme un mode de production à part entière ? Ce qu'il suppose — et pourquoi ce n'est ni le marché, ni la cupidité, ni l'inégalité.
 
@@ -48,7 +49,7 @@ Cela suppose une classe de producteurs **séparés des moyens de production** �
 
 ## Pourquoi Marx ne décrit pas la société future
 type: argument
-tags: rhétorique, philosophie
+tags: rhétorique, philosophie, niveau:1-base
 
 « Vous critiquez, mais vous ne proposez rien. » — Que répondre ?
 
@@ -61,7 +62,7 @@ Le refus est **assumé et argumenté**. Marx raille les « **recettes pour les m
 
 ## Les éléments de l'alternative malgré tout
 type: concept
-tags: philosophie
+tags: philosophie, niveau:3-avancé
 
 Marx refuse d'écrire les « recettes pour les marmites de l'avenir ». Quels éléments positifs sur la société post-capitaliste peut-on malgré tout tirer de ses textes, dans quel ordre — et quel fil directeur les relie ?
 

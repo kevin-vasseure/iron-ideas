@@ -4,7 +4,7 @@ tags: philosophie, politique, source:débat-rn-confus
 
 ## Le critère du clivage matérialisme / idéalisme
 type: concept
-tags: rhétorique
+tags: rhétorique, niveau:2-intermédiaire
 
 Sur quoi porte *exactement* le clivage — sachant que ce n'est pas sur le contenu des idées ? Et quel test en tirer face à un adversaire ?
 
@@ -20,7 +20,7 @@ Sur le **sens de la causalité**.
 
 ## « Matérialiste = de gauche, idéaliste = de droite »
 type: piège
-tags: rhétorique, sociologie
+tags: rhétorique, sociologie, niveau:3-avancé
 
 Où est l'erreur dans cette équivalence ?
 

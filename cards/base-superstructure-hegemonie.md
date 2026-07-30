@@ -4,7 +4,7 @@ tags: marxisme, philosophie, politique, source:débat-rn-confus
 
 ## Marx, Préface de 1859
 type: citation
-tags: auteur:marx
+tags: auteur:marx, niveau:1-base
 
 De quel ouvrage la « Préface de 1859 » est-elle la préface, quelle thèse Marx y pose-t-il — et contre quel philosophe ?
 
@@ -19,7 +19,7 @@ C'est un **renversement explicite de Hegel** : ce n'est pas l'Esprit qui se dép
 
 ## Engels et « en dernière instance »
 type: argument
-tags: auteur:engels, rhétorique
+tags: auteur:engels, rhétorique, niveau:2-intermédiaire
 
 Le modèle base / superstructure passe pour un déterminisme économique à sens unique. Qu'est-ce qu'Engels y corrige dans les années 1890, dans quels textes — et pourquoi c'est l'objection à avoir prête en débat ?
 
@@ -36,7 +36,7 @@ Dans ses **lettres des années 1890** (à Conrad Schmidt, Franz Mehring, Borgius
 
 ## Gramsci : l'hégémonie
 type: concept
-tags: auteur:gramsci, sociologie
+tags: auteur:gramsci, sociologie, niveau:2-intermédiaire
 
 Dans le modèle marxiste classique, la classe dominante tient le pouvoir par l'appareil d'État et sa coercition. Qu'est-ce que Gramsci ajoute, où cela se joue-t-il — et qu'est-ce que ça change à la nature de la domination ?
 
@@ -49,7 +49,7 @@ Conséquence : on peut perdre le pouvoir culturel tout en tenant l'appareil d'É
 
 ## Guerre de position / guerre de mouvement
 type: concept
-tags: auteur:gramsci, histoire
+tags: auteur:gramsci, histoire, niveau:2-intermédiaire
 
 Que désignent ces deux termes empruntés au vocabulaire militaire, et lequel Gramsci juge-t-il être la voie dans les sociétés occidentales — pourquoi ?
 
@@ -63,7 +63,7 @@ Dans les sociétés occidentales, où la société civile est dense et l'hégém
 
 ## L'intellectuel organique
 type: piège
-tags: auteur:gramsci, sociologie, rhétorique
+tags: auteur:gramsci, sociologie, rhétorique, niveau:2-intermédiaire
 
 Que veut dire « intellectuel organique » chez Gramsci, à quelle autre figure d'intellectuel s'oppose-t-il — et quelle erreur de sens ne pas commettre ?
 
@@ -80,7 +80,7 @@ C'est un intellectuel **produit organiquement par une classe** pour élaborer, s
 
 ## Idéologie : la définition de départ
 type: concept
-tags: sociologie
+tags: sociologie, niveau:1-base
 
 Quelle est la définition fonctionnaliste minimale de l'idéologie ? Un exemple. Sa limite ?
 
@@ -95,7 +95,7 @@ Point de départ solide, mais insuffisant : il ne dit ni *comment* l'idéologie 
 
 ## Idéologie chez Marx : l'inversion
 type: concept
-tags: auteur:marx
+tags: auteur:marx, niveau:2-intermédiaire
 
 Au-delà de la définition minimale (un système d'idées qui justifie des rapports de production), quels deux apports Marx ajoute-t-il dans *L'Idéologie allemande* — et quelle image optique y emploie-t-il ?
 
@@ -109,7 +109,7 @@ Deux apports (**L'Idéologie allemande**, 1845-46) :
 
 ## Idéologie chez Gramsci : la fonction organisatrice
 type: concept
-tags: auteur:gramsci
+tags: auteur:gramsci, niveau:3-avancé
 
 Si l'idéologie n'était qu'un voile qui trompe, que manquerait-on ? Ce que Gramsci corrige dans cette conception — et la conséquence pratique quand on cherche à la démonter.
 
@@ -122,7 +122,7 @@ L'idéologie n'est pas seulement un voile qui trompe : elle a une **fonction org
 
 ## Idéologie chez Althusser : vécue matériellement
 type: argument
-tags: auteur:althusser, rhétorique
+tags: auteur:althusser, rhétorique, niveau:3-avancé
 
 Pourquoi la pédagogie pure — « il suffit d'expliquer les faits » — ne défait-elle presque jamais une adhésion idéologique ? Ce qu'en dit Althusser, et dans quel texte.
 

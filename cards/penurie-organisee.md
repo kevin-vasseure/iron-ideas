@@ -4,7 +4,7 @@ tags: marxisme, économie, auteur:marx, source:débat-rn-confus
 
 ## « La pénurie organisée » est-elle un concept de Marx ?
 type: piège
-tags: rhétorique
+tags: rhétorique, niveau:2-intermédiaire
 
 Peut-on lui attribuer l'expression telle quelle — et sinon, sur quels mécanismes de son œuvre la fonder ?
 
@@ -21,6 +21,7 @@ Peut-on lui attribuer l'expression telle quelle — et sinon, sur quels mécanis
 
 ## L'armée industrielle de réserve
 type: concept
+tags: niveau:2-intermédiaire
 
 Dans quel livre et quel chapitre du *Capital* Marx développe-t-il l'armée industrielle de réserve — et à quoi sert le chômage structurel dans son analyse ?
 
@@ -33,6 +34,7 @@ Le chômage n'est pas un dysfonctionnement mais une **fonction** : une populatio
 
 ## Crises de surproduction : le paradoxe
 type: argument
+tags: niveau:2-intermédiaire
 
 Quel paradoxe les crises de surproduction rendent-elles visible — et comment l'expliquer sans invoquer ni l'absurdité ni la malveillance ?
 
@@ -47,6 +49,7 @@ L'explication n'est ni l'absurdité ni la malveillance : on produit **pour le pr
 
 ## Le fragment sur les machines
 type: concept
+tags: niveau:3-avancé
 
 Que montre le « fragment sur les machines » des *Grundrisse* sur l'automatisation — et quel paradoxe contemporain éclaire-t-il ?
 

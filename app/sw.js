@@ -7,7 +7,7 @@
  *
  * Bump VERSION pour purger tous les caches précédents.
  */
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = `iron-ideas-${VERSION}`;
 
 /* Chemins relatifs : ils se résolvent depuis la portée du worker, donc ça
