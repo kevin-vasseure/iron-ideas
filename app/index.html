@@ -4,7 +4,12 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#f5f2ea" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#16151a" media="(prefers-color-scheme: dark)" />
     <title>Iron Ideas</title>
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" href="icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="icon.svg" />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -28,6 +33,11 @@
     <main id="view"></main>
 
     <footer class="keys" id="keys"></footer>
+
+    <div class="toast" id="toast" role="status" hidden>
+      <span>Fiches mises à jour</span>
+      <button data-act="reload">recharger</button>
+    </div>
 
     <script src="cards.js"></script>
     <script src="app.js"></script>

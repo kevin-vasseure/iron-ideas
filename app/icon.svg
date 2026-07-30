@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Iron Ideas">
+  <rect width="512" height="512" rx="104" fill="#9e3a20" />
+  <g transform="translate(256 262)">
+    <!-- fiche du dessous, légèrement pivotée -->
+    <rect x="-116" y="-94" width="232" height="174" rx="20" fill="#fffdf7" opacity=".42"
+          transform="rotate(-9)" />
+    <!-- fiche du dessus -->
+    <rect x="-116" y="-86" width="232" height="174" rx="20" fill="#fffdf7" />
+    <!-- le trait recto / verso, puis deux lignes de texte -->
+    <rect x="-82" y="-40" width="164" height="16" rx="8" fill="#9e3a20" />
+    <rect x="-82" y="6" width="116" height="12" rx="6" fill="#9e3a20" opacity=".42" />
+    <rect x="-82" y="40" width="88" height="12" rx="6" fill="#9e3a20" opacity=".42" />
+  </g>
+</svg>

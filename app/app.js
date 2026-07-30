@@ -511,6 +511,9 @@ document.addEventListener('click', (e) => {
       saveFilters();
       render();
       break;
+    case 'reload':
+      location.reload();
+      break;
   }
 });
 
@@ -536,6 +539,24 @@ document.addEventListener('keydown', (e) => {
     rate(Number(e.key));
   }
 });
+
+/* ------------------------------------------------- hors-ligne / installable */
+
+/* Le service worker sert l'app depuis un cache : elle s'ouvre sans réseau, et
+   s'installe sur l'écran d'accueil. Inopérant en file:// (HTTPS ou localhost
+   requis), auquel cas l'app fonctionne simplement sans. */
+if ('serviceWorker' in navigator && location.protocol !== 'file:') {
+  addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').catch(() => {
+      /* pas de hors-ligne, rien de bloquant */
+    });
+  });
+
+  // Le worker signale que cards.js a changé : les fiches affichées sont périmées.
+  navigator.serviceWorker.addEventListener('message', (e) => {
+    if (e.data && e.data.type === 'cards-updated') $('#toast').hidden = false;
+  });
+}
 
 /* -------------------------------------------------------------------- boot */
 

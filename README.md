@@ -114,6 +114,36 @@ La progression vit dans le `localStorage` du navigateur, **jamais dans le
 repo** : renommer le titre d'une fiche remet sa progression à zéro, éditer son
 contenu ne change rien.
 
+## Hébergement
+
+Publié sur GitHub Pages par `.github/workflows/pages.yml` à chaque push sur
+`main` : le workflow recompile `cards/*.md` et sert `app/` comme racine du site.
+Le déploiement ne dépend donc pas d'un `app/cards.js` à jour dans le commit.
+
+Prérequis, une seule fois : **Settings → Pages → Source → « GitHub Actions »**.
+
+Attention : la progression étant dans le `localStorage`, elle est **cloisonnée
+par origine**. Ce que tu révises sur le site publié est invisible depuis un
+`app/index.html` ouvert en local. Mieux vaut s'en tenir à un seul des deux.
+
+## Hors-ligne et installation
+
+`app/sw.js` met l'app en cache : elle s'ouvre sans réseau et s'installe sur
+l'écran d'accueil d'un téléphone (`manifest.webmanifest`). Nécessite HTTPS ou
+localhost — en `file://` le worker ne s'enregistre pas, l'app fonctionne
+simplement sans.
+
+Stratégie *stale-while-revalidate* : la page s'affiche depuis le cache, puis se
+rafraîchit en arrière-plan. Quand `cards.js` a réellement changé, une bannière
+« Fiches mises à jour » propose de recharger — sinon les nouvelles fiches
+n'apparaîtraient qu'à l'ouverture suivante.
+
+Bump `VERSION` dans `app/sw.js` pour purger tous les caches précédents.
+
+L'icône est un SVG. Android l'accepte ; iOS ne sait pas s'en servir pour
+l'écran d'accueil et affichera une capture de la page à la place — déposer un
+`apple-touch-icon.png` de 180×180 dans `app/` suffit à corriger ça.
+
 ## Structure
 
 ```
@@ -122,6 +152,7 @@ build.mjs       compilateur + serveur de dev (Node natif, zéro dépendance)
 app/index.html  l'app
 app/style.css
 app/app.js      filtres, boîtes de Leitner, rendu Markdown
+app/sw.js       cache hors-ligne
 app/cards.js    généré — ne pas éditer
 ```
 

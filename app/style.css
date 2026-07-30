@@ -702,6 +702,40 @@ kbd {
   text-align: center;
 }
 
+/* -------------------------------------------------------------------- toast */
+
+.toast {
+  position: fixed;
+  z-index: 10;
+  right: clamp(0.75rem, 3vw, 1.5rem);
+  bottom: clamp(0.75rem, 3vw, 1.5rem);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.55rem 0.75rem 0.55rem 0.9rem;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  font-size: 0.8125rem;
+  animation: rise 0.25s ease-out;
+}
+.toast[hidden] {
+  display: none;
+}
+.toast button {
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: 0.2rem 0.5rem;
+  background: none;
+  color: var(--accent);
+  font-size: 0.78125rem;
+}
+.toast button:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
 /* ------------------------------------------------------------------- footer */
 
 .keys {
