@@ -358,6 +358,126 @@ window.CARDS = [
   "verso": "L'**automatisation rendrait l'abondance possible** : la productivité peut réduire massivement le temps de travail nécessaire.\n\nMais les rapports de production capitalistes ont besoin de **maintenir la rareté du temps de travail** — puisque c'est le travail qui reste la source de la valeur et la mesure de la richesse. Le capital mobilise toutes les puissances de la science tout en continuant à mesurer la richesse en temps de travail.\n\n→ D'où le paradoxe contemporain : gains de productivité massifs, durée du travail qui ne s'effondre pas."
  },
  {
+  "id": "la-gauche-drague-le-vote-musulman-par-electoralisme",
+  "file": "proces-en-electoralisme.md",
+  "title": "« La gauche drague le vote musulman par électoralisme »",
+  "type": "piege",
+  "tags": [
+   "politique",
+   "rhétorique"
+  ],
+  "source": "",
+  "recto": "Quelle est la **structure** de cette accusation — et pourquoi répondre « mais nous sommes sincères » est le pire réflexe ?",
+  "verso": "L'accusation ne discute **aucune** des positions attaquées (cause palestinienne, liberté de culte, lutte contre l'islamophobie). Elle les **remplace par un mobile inavoué** : le calcul d'un gain électoral communautaire.\n\nSa charpente :\n\n1. constater une **corrélation** entre une position affichée et un bénéfice de pouvoir possible ;\n2. en **déduire** que le bénéfice est la vraie cause de la position ;\n3. tenir l'idéologie affichée pour un **paravent**.\n\nProtester de sa sincérité ne marche pas : c'est **exactement ce que ferait un cynique**. L'accusation est construite pour qu'aucune réponse ne puisse la démentir — donc elle ne se réfute pas sur son terrain.\n\n→ Ne défends pas ta sincérité : **attaque le critère**. Tant qu'il n'est pas énoncé, il n'y a rien à réfuter."
+ },
+ {
+  "id": "l-ad-hominem-circonstanciel",
+  "file": "proces-en-electoralisme.md",
+  "title": "L'ad hominem circonstanciel",
+  "type": "concept",
+  "tags": [
+   "philosophie",
+   "politique",
+   "rhétorique"
+  ],
+  "source": "",
+  "recto": "Comment s'appelle le procédé qui consiste à expliquer une position par l'intérêt de celui qui la tient — et quand est-il *légitime* ?",
+  "verso": "**Ad hominem circonstanciel** : on ne réfute pas la thèse, on impute à son porteur un intérêt qui l'expliquerait. Famille du **sophisme génétique** (juger une idée par son origine plutôt que par son contenu).\n\nC. S. Lewis a nommé « **bulvérisme** » sa version généralisée : *supposer* l'adversaire dans l'erreur, puis expliquer *pourquoi* il s'y trouve — en sautant l'étape où l'on démontre qu'il a tort.\n\nLa nuance qui tient en débat : **le mobile n'est pas toujours hors sujet**. Il est pertinent pour évaluer une *expertise*, un *témoignage*, un *conflit d'intérêts* — soit quand la fiabilité du locuteur *est* la question. Mais il ne tranche **jamais** la vérité d'une position argumentée : une thèse défendue pour de mauvaises raisons peut être vraie.\n\n→ « Admettons le mobile. **En quoi la position devient-elle fausse ?** »"
+ },
+ {
+  "id": "le-miroir-et-le-vote-des-ultra-riches",
+  "file": "proces-en-electoralisme.md",
+  "title": "Le miroir : et le vote des ultra-riches ?",
+  "type": "argument",
+  "tags": [
+   "politique",
+   "rhétorique"
+  ],
+  "source": "",
+  "recto": "Comment retourner le procès en électoralisme, et sur quoi repose exactement la symétrie ?",
+  "verso": "Appliquer **la même grille de lecture** à l'autre camp :\n\n> « La droite ne défend pas les ultra-riches par conviction économique : elle calcule un gain via le **financement des campagnes** et le **soutien des grands groupes de presse**, dont beaucoup appartiennent à des milliardaires. »\n\nL'inférence est **structurellement identique** — même forme, même absence de preuve directe du mobile, même corrélation position / bénéfice de pouvoir tenue pour causale.\n\nEt le miroir est ici **plus facile à documenter** que l'original : la propriété des médias et les circuits de financement politique sont des faits publics, là où « le vote musulman » suppose un bloc électoral qui n'est même pas mesurable (voir la fiche sur la prémisse factuelle).\n\n→ Le but n'est pas de gagner l'échange de soupçons : c'est de rendre **le procédé lui-même** intenable pour les deux camps."
+ },
+ {
+  "id": "pourquoi-le-miroir-mord-l-asymetrie-de-la-sincerite",
+  "file": "proces-en-electoralisme.md",
+  "title": "Pourquoi le miroir mord : l'asymétrie de la sincérité",
+  "type": "argument",
+  "tags": [
+   "politique",
+   "rhétorique",
+   "sociologie"
+  ],
+  "source": "",
+  "recto": "Quel biais le miroir met-il au jour ?",
+  "verso": "Une **asymétrie dans l'attribution des motifs** : chacun s'accorde à soi-même le bénéfice du doute — *nous agissons par conviction* — et le refuse à l'adversaire — *ils agissent par calcul*.\n\nC'est le versant politique d'un biais documenté en psychologie sociale : on explique **ses propres** actes par les circonstances et **celles d'autrui** par leur nature ou leur intérêt (erreur fondamentale d'attribution, biais acteur-observateur).\n\nLe miroir ne dit donc pas « vous aussi vous êtes intéressés ». Il dit : **votre grille, appliquée sans exception, vous condamne aussi** — donc soit on la retire des deux côtés, soit on assume que plus personne n'a de convictions, y compris soi.\n\n→ Une règle qu'on ne s'applique pas à soi-même n'est pas un argument : c'est une **arme**."
+ },
+ {
+  "id": "le-miroir-ne-prouve-pas-la-sincerite-de-la-gauche",
+  "file": "proces-en-electoralisme.md",
+  "title": "Le miroir ne prouve pas la sincérité de la gauche",
+  "type": "piege",
+  "tags": [
+   "politique",
+   "rhétorique"
+  ],
+  "source": "",
+  "recto": "Quelle est la limite logique du miroir — celle qu'il faut poser *soi-même* avant qu'on te la serve ?",
+  "verso": "Le miroir est un **tu quoque**. Or « vous faites pareil » ne réfute rien : si le procès d'intention est un mauvais argument, il l'est **aussi** quand c'est toi qui le retournes.\n\nCe que le miroir établit exactement : le critère utilisé contre toi **ne discrimine pas**. Il « prouve » aussi bien la vénalité de l'autre camp — donc il ne prouve rien.\n\nCe qu'il n'établit pas : que la gauche est sincère. Cette question reste ouverte, et elle se tranche autrement — **antériorité** des positions (les tenait-on avant tout gain électoral supposé ?), **coût** politique assumé, **cohérence** avec le reste de la doctrine.\n\n→ Poser la limite toi-même te rend **plus crédible** que celui qui te l'aurait opposée."
+ },
+ {
+  "id": "mais-nous-c-est-une-vraie-doctrine-la-contre-attaque",
+  "file": "proces-en-electoralisme.md",
+  "title": "« Mais nous, c'est une vraie doctrine » : la contre-attaque",
+  "type": "piege",
+  "tags": [
+   "politique",
+   "rhétorique"
+  ],
+  "source": "",
+  "recto": "On te répond que la défense de la propriété et de la libre entreprise relève d'une tradition intellectuelle ancienne, pas d'un calcul. Que faire ?",
+  "verso": "**Accepter — immédiatement et sans réserve.** C'est vrai : libéralisme classique, école autrichienne, théories de l'incitation forment une tradition doctrinale réelle, défendue sincèrement par beaucoup.\n\nEt c'est précisément ce qui **verrouille** l'argument, parce que la symétrie est complète : l'anti-impérialisme, l'universalisme des droits et la défense des minorités sont **aussi** une tradition ancienne, antérieure de très loin à toute considération sur un électorat musulman en France.\n\nD'où la seule question qui reste : **pourquoi accorder à une tradition ce qu'on refuse à l'autre ?**\n\n→ Concéder la sincérité de l'adversaire n'affaiblit pas ta position : c'est **le mouvement qui referme le piège**."
+ },
+ {
+  "id": "le-test-de-symetrie",
+  "file": "proces-en-electoralisme.md",
+  "title": "Le test de symétrie",
+  "type": "question",
+  "tags": [
+   "politique",
+   "rhétorique"
+  ],
+  "source": "",
+  "recto": "Une seule question à poser pour désamorcer n'importe quel procès en électoralisme.",
+  "verso": "> « **Quel fait** observerais-tu si la position était sincère, qui ne s'observerait pas si elle était calculée ? »\n\nTrois issues, toutes bonnes :\n\n- **aucun critère** → l'accusation est infalsifiable, donc ce n'est pas un argument mais un procès d'intention ;\n- **un critère** → il est appliqué aux deux camps, et le débat redevient factuel ;\n- **un critère applicable seulement à la gauche** → l'asymétrie est explicite, et c'est elle qu'on discute désormais.\n\n→ Ne conteste pas la conclusion, **exige le critère**. C'est là que ce type d'accusation se casse."
+ },
+ {
+  "id": "le-vote-musulman-la-premisse-factuelle",
+  "file": "proces-en-electoralisme.md",
+  "title": "« Le vote musulman » : la prémisse factuelle",
+  "type": "piege",
+  "tags": [
+   "politique",
+   "rhétorique",
+   "sociologie"
+  ],
+  "source": "",
+  "recto": "Avant même la question du mobile — que suppose l'expression « aller chercher le vote musulman » ?",
+  "verso": "Trois présupposés, aucun établi :\n\n1. qu'il existe un **bloc** votant de façon homogène en raison de sa religion — alors que le vote se prédit bien mieux par la position sociale, l'âge, le territoire, le niveau de diplôme ;\n2. qu'on peut le **mesurer** — or en France les fichiers de données religieuses ou ethniques sont interdits sauf dérogation, et les estimations disponibles viennent d'enquêtes déclaratives par échantillon (INED, INSEE), pas d'un décompte électoral ;\n3. que le calcul serait **rentable** — un gain supposé dans un électorat minoritaire, contre un coût certain dans le reste du corps électoral et dans une grande partie des médias.\n\n→ L'accusation érige en fait acquis un objet qu'elle **n'a pas démontré** : demander à le voir suffit souvent."
+ },
+ {
+  "id": "qui-possede-les-grands-medias-francais",
+  "file": "proces-en-electoralisme.md",
+  "title": "Qui possède les grands médias français",
+  "type": "chiffre",
+  "tags": [
+   "politique",
+   "rhétorique"
+  ],
+  "source": "",
+  "recto": "Le socle factuel du miroir — à connaître de tête, et à vérifier avant usage.",
+  "verso": "- **Vincent Bolloré** (galaxie Vivendi / Canal+ / Louis Hachette Group) : CNews, C8, Canal+, Europe 1, *Le Journal du Dimanche*, *Paris Match*, Prisma Media.\n- **Bernard Arnault** (LVMH) : *Les Échos*, *Le Parisien*, Radio Classique.\n- **Rodolphe Saadé** (CMA CGM) : BFMTV, RMC — **rachetés à Patrick Drahi (Altice) en 2024** — ainsi que *La Provence*, *La Tribune*, et une participation dans M6.\n- **Xavier Niel** : coactionnaire du groupe Le Monde (*Le Monde*, *Télérama*, *Courrier international*, *L'Obs*), *Nice-Matin*.\n- **Daniel Křetínský** : *Marianne*, *Elle*, participation dans le groupe Le Monde.\n\n→ **Le capital circule** : Drahi a vendu BFMTV, *Libération* a quitté Altice en 2020. Citer un actionnariat périmé, c'est offrir à l'adversaire la sortie qu'il cherchait — vérifie avant de balancer un nom."
+ },
+ {
   "id": "critiquer-le-capitalisme-c-est-critiquer-le-marche",
   "file": "valeur-capitalisme-alternative.md",
   "title": "« Critiquer le capitalisme, c'est critiquer le marché »",
