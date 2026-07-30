@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "iron-ideas",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["build.mjs", "--watch"],
+      "port": 4321
+    }
+  ]
+}

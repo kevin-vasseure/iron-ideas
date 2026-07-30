@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Iron Ideas</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <h1 class="brand">Iron<span>Ideas</span></h1>
+      <nav class="tabs" id="tabs">
+        <button class="tab is-active" data-view="review">Réviser</button>
+        <button class="tab" data-view="browse">Parcourir</button>
+      </nav>
+      <p class="count" id="count"></p>
+    </header>
+
+    <details class="filters" id="filters">
+      <summary>
+        <span class="summary-label">Filtres</span>
+        <span class="summary-state" id="filter-state"></span>
+      </summary>
+      <div class="filters-body" id="filters-body"></div>
+    </details>
+
+    <main id="view"></main>
+
+    <footer class="keys" id="keys"></footer>
+
+    <script src="cards.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "name": "iron-ideas",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Fiches de révision pour concepts, argumentations et contre-arguments.",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node build.mjs --watch"
+  }
+}
