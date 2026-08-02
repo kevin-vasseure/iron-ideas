@@ -30,4 +30,4 @@ Il existe une **droite matérialiste biologisante** : psychologie évolutionnist
 
 Elle est matérialiste au sens strict — elle invoque bien des causes matérielles — mais **mécaniste et non dialectique** : elle fige la cause dans la biologie au lieu de la penser dans l'histoire et les rapports sociaux.
 
-→ Le clivage vraiment opératoire n'est pas matérialisme / idéalisme, mais **matérialisme historique et dialectique** vs **matérialisme mécaniste**.
+→ Le clivage vraiment opératoire (voir [[Le critère du clivage matérialisme / idéalisme|le critère du clivage]]) n'est pas matérialisme / idéalisme, mais **matérialisme historique et dialectique** vs **matérialisme mécaniste**.

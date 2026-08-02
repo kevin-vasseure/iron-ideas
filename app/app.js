@@ -139,15 +139,29 @@ const selected = () => CARDS.filter(matches);
 
 /* ---------------------------------------------------------- micro-markdown */
 
-const esc = (s) => s.replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' })[c]);
+// Le guillemet est échappé aussi : `esc` sert autant au texte qu'aux attributs.
+const esc = (s) =>
+  s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+
+/* Lien vers une autre fiche. build.mjs a déjà résolu le titre en identifiant :
+   ici on ne fait que câbler l'aperçu. Une cible inconnue (cards.js périmé)
+   retombe en texte simple. */
+const cardLink = (s) =>
+  s.replace(/\[\[([a-z0-9-]+)\|([^\]]+)\]\]/g, (_, id, label) =>
+    byId.has(id)
+      ? `<a class="cardlink" role="button" tabindex="0" data-act="peek" data-id="${id}" title="Voir « ${esc(byId.get(id).title)} »">${label}</a>`
+      : label,
+  );
 
 const inline = (s) =>
-  esc(s)
-    .replace(/`([^`]+)`/g, '<code>$1</code>')
-    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-    .replace(/\*([^*\n]+)\*/g, '<em>$1</em>')
-    .replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
-    .replace(/(^|\s)(→)/g, '$1<span class="arrow">$2</span>');
+  cardLink(
+    esc(s)
+      .replace(/`([^`]+)`/g, '<code>$1</code>')
+      .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*([^*\n]+)\*/g, '<em>$1</em>')
+      .replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
+      .replace(/(^|\s)(→)/g, '$1<span class="arrow">$2</span>'),
+  );
 
 function md(src) {
   if (!src) return '';
@@ -254,11 +268,14 @@ const levelBadge = (c, bare) => {
           </span>`;
 };
 
-const tagList = (c) =>
+/* Dans l'aperçu, les tags restent inertes : y filtrer viderait la session
+   en cours sous les pieds de qui voulait juste relire un concept. */
+const tagList = (c, interactive = true) =>
   `<ul class="tags">${c.tags
-    .map(
-      (t) =>
-        `<li><button data-act="tag" data-tag="${esc(t)}" title="Filtrer sur ce tag">${esc(t)}</button></li>`,
+    .map((t) =>
+      interactive
+        ? `<li><button data-act="tag" data-tag="${esc(t)}" title="Filtrer sur ce tag">${esc(t)}</button></li>`
+        : `<li><span>${esc(t)}</span></li>`,
     )
     .join('')}</ul>`;
 
@@ -274,6 +291,53 @@ function renderCard(c, revealed) {
           : ''
       }
     </article>`;
+}
+
+/* -------------------------------------------------------------- aperçu lié */
+
+/* Pile des fiches ouvertes en aperçu : un lien suivi depuis un aperçu empile,
+   « retour » dépile. Rendu hors de #view pour survivre à render(). */
+let peek = [];
+
+const openPeek = (id) => {
+  if (!byId.has(id) || peek[peek.length - 1] === id) return;
+  peek.push(id);
+  renderPeek();
+};
+const closePeek = () => {
+  if (!peek.length) return;
+  peek = [];
+  renderPeek();
+};
+
+function renderPeek() {
+  const $peek = $('#peek');
+  if (!peek.length) {
+    $peek.hidden = true;
+    $peek.innerHTML = '';
+    return;
+  }
+  const c = byId.get(peek[peek.length - 1]);
+  $peek.innerHTML = `
+    <div class="peek-box" role="dialog" aria-modal="true" aria-label="Fiche liée">
+      <div class="peek-bar">
+        ${
+          peek.length > 1
+            ? '<button class="link" data-act="peek-back">← retour</button>'
+            : '<span class="peek-tag">fiche liée</span>'
+        }
+        <button class="link" data-act="peek-close">fermer <kbd>esc</kbd></button>
+      </div>
+      <article class="card" data-n="${levelN(c)}">
+        <div class="card-head">${typeBadge(c)}${levelBadge(c)}<span class="card-file">${esc(c.file)}</span></div>
+        <h2 class="card-title">${inline(c.title)}</h2>
+        <div class="face recto">${md(c.recto)}</div>
+        <div class="face verso"><div class="verso-rule">verso</div>${md(c.verso)}</div>
+        ${tagList(c, false)}
+      </article>
+    </div>`;
+  $peek.hidden = false;
+  $peek.scrollTop = 0;
 }
 
 function renderReview() {
@@ -482,8 +546,15 @@ function render() {
 /* ------------------------------------------------------------------ events */
 
 document.addEventListener('click', (e) => {
+  // Cliquer le fond de l'aperçu (et non la fiche) ferme.
+  if (e.target.id === 'peek') {
+    closePeek();
+    return;
+  }
+
   const tab = e.target.closest('#tabs .tab');
   if (tab) {
+    closePeek();
     view = tab.dataset.view;
     // La recherche n'existe que dans « Parcourir » : la laisser active en
     // révision réduirait le paquet sans que rien ne le signale.
@@ -496,6 +567,16 @@ document.addEventListener('click', (e) => {
   if (!btn) return;
 
   switch (btn.dataset.act) {
+    case 'peek':
+      openPeek(btn.dataset.id);
+      break;
+    case 'peek-back':
+      peek.pop();
+      renderPeek();
+      break;
+    case 'peek-close':
+      closePeek();
+      break;
     case 'flip':
       session.revealed = true;
       render();
@@ -551,7 +632,34 @@ document.addEventListener('click', (e) => {
 
 document.addEventListener('keydown', (e) => {
   if (e.metaKey || e.ctrlKey || e.altKey) return;
+
+  // L'aperçu capture le clavier : `esc` le referme (une fiche à la fois) au
+  // lieu de quitter la session, et les notes ne partent pas dans le vide.
+  if (peek.length) {
+    if (e.key === 'Escape') {
+      e.preventDefault();
+      peek.pop();
+      renderPeek();
+    } else if (e.key === ' ' || e.key === 'Enter') {
+      const link = e.target.closest && e.target.closest('.cardlink');
+      if (link) {
+        e.preventDefault();
+        openPeek(link.dataset.id);
+      }
+    }
+    return;
+  }
+
   if (/^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName)) return;
+
+  // Un lien au clavier hors aperçu : `espace` ouvrirait le verso, on intercepte.
+  const link = e.target.closest && e.target.closest('.cardlink');
+  if (link && (e.key === ' ' || e.key === 'Enter')) {
+    e.preventDefault();
+    openPeek(link.dataset.id);
+    return;
+  }
+
   if (view !== 'review' || !session) return;
 
   const card = currentCard();

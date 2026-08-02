@@ -1,5 +1,7 @@
 # Iron Ideas
 
+<https://kevin-vasseure.github.io/iron-ideas/>
+
 Fiches de révision pour concepts, argumentations et contre-arguments — pour ne
 plus perdre ce qu'on a mis deux heures à formuler dans un débat.
 
@@ -27,6 +29,26 @@ npm run build
 `app/cards.js` est un artefact généré mais **commité** : après un `git clone`,
 tu peux ouvrir `app/index.html` directement dans un navigateur, sans rien
 lancer. Node n'est nécessaire que pour recompiler après édition des fiches.
+
+### Garder cards.js à jour
+
+Une fois après le clone :
+
+```bash
+git config core.hooksPath .githooks
+```
+
+`.githooks/pre-commit` recompile et joint `app/cards.js` au commit. Sans lui,
+un commit qui touche `cards/*.md` laisse le repo mentir sur son propre contenu
+— et c'est la promesse « cloner et ouvrir » ci-dessus qui tombe.
+
+Le **site publié**, lui, ne risque rien : la CI recompile avant de déployer.
+`git commit --no-verify` contourne le hook au cas par cas.
+
+En filet, le job `verifier-cards` du workflow échoue si `app/cards.js` ne
+correspond pas aux fiches — utile quand le hook n'a pas tourné (clone frais,
+édition depuis l'interface web de GitHub). Il tourne **à côté** du déploiement,
+pas devant : le site reste publié, seul le run passe au rouge.
 
 ## Écrire une fiche
 
@@ -71,6 +93,29 @@ Le Markdown reconnu dans le corps : `**gras**`, `*italique*`, `` `code` ``,
 listes `-` et `1.`, citations `>`, liens `[texte](url)`, sous-titres `###`.
 Une flèche `→` en début de phrase est mise en évidence — pratique pour la
 punchline à retenir.
+
+### Lier une fiche à une autre
+
+Quand une fiche cite un concept expliqué ailleurs, `[[Titre exact]]` renvoie
+vers cette fiche — tous fichiers confondus.
+
+```markdown
+On produit pour le profit : c'est la logique du [[A-M-A' : la définition du capital|A-M-A']].
+```
+
+La barre verticale donne un libellé différent du titre, ce dont on a presque
+toujours besoin en français (accord, article, phrase qui coule). Sans elle, le
+titre s'affiche tel quel.
+
+Cliquer ouvre la fiche liée **en aperçu**, par-dessus la session : recto et
+verso d'un coup, `esc` pour refermer et reprendre où on en était. La
+progression de la fiche visitée n'est pas touchée — un aperçu n'est pas une
+révision.
+
+La cible est résolue **à la compilation**, par le titre. Un titre inconnu ou
+une fiche qui se cite elle-même est signalé par `npm run build` et retombe en
+texte simple : pas de `[[…]]` affiché dans l'app. Renommer une fiche casse donc
+les liens qui pointaient vers elle — le build les liste.
 
 ### Types
 
@@ -139,6 +184,8 @@ contenu ne change rien.
 
 ## Hébergement
 
+En ligne : <https://kevin-vasseure.github.io/iron-ideas/>
+
 Publié sur GitHub Pages par `.github/workflows/pages.yml` à chaque push sur
 `main` : le workflow recompile `cards/*.md` et sert `app/` comme racine du site.
 Le déploiement ne dépend donc pas d'un `app/cards.js` à jour dans le commit.
@@ -181,7 +228,6 @@ app/cards.js    généré — ne pas éditer
 
 ## Pistes d'enrichissement
 
-- fiches liées (`voir: autre-titre`) pour naviguer d'un concept à son objection
 - un mode « débat » : tirage aléatoire des seuls `type: piège` et `argument`
 - export imprimable
 - champ `source:` exploité pour afficher la référence bibliographique

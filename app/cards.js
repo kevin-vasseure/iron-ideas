@@ -33,7 +33,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Le modèle base / superstructure passe pour un déterminisme économique à sens unique. Qu'est-ce qu'Engels y corrige dans les années 1890, dans quels textes — et pourquoi c'est l'objection à avoir prête en débat ?",
-  "verso": "Dans ses **lettres des années 1890** (à Conrad Schmidt, Franz Mehring, Borgius), Engels corrige le **déterminisme économique vulgaire** attribué au marxisme :\n\n- l'économique ne détermine qu'**« en dernière instance »** ;\n- la superstructure a une **autonomie relative** ;\n- elle **rétroagit** sur la base.\n\n→ C'est la réponse standard à « votre truc, c'est du déterminisme économique simpliste » : le modèle n'est pas une courroie de transmission à sens unique, c'est une **causalité réciproque avec un primat asymétrique**."
+  "verso": "Dans ses **lettres des années 1890** (à Conrad Schmidt, Franz Mehring, Borgius), Engels corrige la lecture mécaniste de [[marx-preface-de-1859|la Préface de 1859]] — le **déterminisme économique vulgaire** attribué au marxisme :\n\n- l'économique ne détermine qu'**« en dernière instance »** ;\n- la superstructure a une **autonomie relative** ;\n- elle **rétroagit** sur la base.\n\n→ C'est la réponse standard à « votre truc, c'est du déterminisme économique simpliste » : le modèle n'est pas une courroie de transmission à sens unique, c'est une **causalité réciproque avec un primat asymétrique**."
  },
  {
   "id": "gramsci-l-hegemonie",
@@ -51,7 +51,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Dans le modèle marxiste classique, la classe dominante tient le pouvoir par l'appareil d'État et sa coercition. Qu'est-ce que Gramsci ajoute, où cela se joue-t-il — et qu'est-ce que ça change à la nature de la domination ?",
-  "verso": "La bourgeoisie ne domine pas seulement par la **coercition étatique**, mais par le **consentement culturel** — obtenu dans la **société civile** : école, presse, églises, associations, sens commun.\n\nConséquence : on peut perdre le pouvoir culturel tout en tenant l'appareil d'État, et inversement. La domination est un **rapport à entretenir en permanence**, pas une possession acquise."
+  "verso": "La bourgeoisie ne domine pas seulement par la **coercition étatique**, mais par le **consentement culturel** — obtenu dans la **société civile** — l'arbitrage entre les deux voies se joue ensuite en [[guerre-de-position-guerre-de-mouvement|guerre de position ou de mouvement]] : école, presse, églises, associations, sens commun.\n\nConséquence : on peut perdre le pouvoir culturel tout en tenant l'appareil d'État, et inversement. La domination est un **rapport à entretenir en permanence**, pas une possession acquise."
  },
  {
   "id": "guerre-de-position-guerre-de-mouvement",
@@ -69,7 +69,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Que désignent ces deux termes empruntés au vocabulaire militaire, et lequel Gramsci juge-t-il être la voie dans les sociétés occidentales — pourquoi ?",
-  "verso": "- **Guerre de mouvement** : l'assaut frontal, la prise rapide du pouvoir d'État (modèle d'Octobre 1917).\n- **Guerre de position** : la **conquête lente des institutions culturelles** et du sens commun, tranchée par tranchée.\n\nDans les sociétés occidentales, où la société civile est dense et l'hégémonie profonde, Gramsci considère que **la guerre de position est la voie** : prendre l'État sans avoir gagné le terrain culturel ne tient pas."
+  "verso": "- **Guerre de mouvement** : l'assaut frontal, la prise rapide du pouvoir d'État (modèle d'Octobre 1917).\n- **Guerre de position** : la **conquête lente des institutions culturelles** et du sens commun, tranchée par tranchée.\n\nDans les sociétés occidentales, où la société civile est dense et l'[[gramsci-l-hegemonie|hégémonie]] profonde, Gramsci considère que **la guerre de position est la voie** : prendre l'État sans avoir gagné le terrain culturel ne tient pas."
  },
  {
   "id": "l-intellectuel-organique",
@@ -105,7 +105,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Quelle est la définition fonctionnaliste minimale de l'idéologie ? Un exemple. Sa limite ?",
-  "verso": "Un **système d'idées qui justifie des rapports de production**.\n\nExemple : la **méritocratie** — elle rend légitime une hiérarchie de positions et de revenus en la présentant comme le produit de l'effort et du talent individuels.\n\nPoint de départ solide, mais insuffisant : il ne dit ni *comment* l'idéologie s'installe, ni pourquoi elle est *crue*."
+  "verso": "Un **système d'idées qui justifie des rapports de production**.\n\nExemple : la **méritocratie** — elle rend légitime une hiérarchie de positions et de revenus en la présentant comme le produit de l'effort et du talent individuels.\n\nPoint de départ solide, mais insuffisant — il sera repris par [[ideologie-chez-marx-l-inversion|Marx]], [[ideologie-chez-gramsci-la-fonction-organisatrice|Gramsci]] et [[ideologie-chez-althusser-vecue-materiellement|Althusser]] : il ne dit ni *comment* l'idéologie s'installe, ni pourquoi elle est *crue*."
  },
  {
   "id": "ideologie-chez-marx-l-inversion",
@@ -139,7 +139,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Si l'idéologie n'était qu'un voile qui trompe, que manquerait-on ? Ce que Gramsci corrige dans cette conception — et la conséquence pratique quand on cherche à la démonter.",
-  "verso": "L'idéologie n'est pas seulement un voile qui trompe : elle a une **fonction organisatrice réelle**. Elle **cimente un bloc social**, elle donne un cadre pour agir, elle rend une coalition possible.\n\n→ Conséquence pratique : une idéologie qui ne servirait *à rien* ne tiendrait pas. Si elle dure, c'est qu'elle fait quelque chose — la démonter suppose donc d'offrir autre chose qui remplisse la même fonction."
+  "verso": "Réduire l'idéologie à [[ideologie-chez-marx-l-inversion|l'inversion]], c'est n'y voir qu'un voile qui trompe. Elle a aussi une **fonction organisatrice réelle** : elle **cimente un bloc social** — c'est le ressort de [[gramsci-l-hegemonie|l'hégémonie]] —, elle donne un cadre pour agir, elle rend une coalition possible.\n\n→ Conséquence pratique : une idéologie qui ne servirait *à rien* ne tiendrait pas. Si elle dure, c'est qu'elle fait quelque chose — la démonter suppose donc d'offrir autre chose qui remplisse la même fonction."
  },
  {
   "id": "ideologie-chez-althusser-vecue-materiellement",
@@ -174,7 +174,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Dans *La société ingouvernable* (2018), Grégoire Chamayou décrit une contre-offensive patronale : à quoi répond-elle, à quelle époque, quels en sont les volets — et qu'est-ce qui fait la valeur de la démonstration ?",
-  "verso": "**Années 1970**, en réponse à l'**indiscipline ouvrière post-68** (grèves sauvages, absentéisme, refus de la hiérarchie d'atelier) : le monde des affaires théorise explicitement une contre-offensive en plusieurs volets :\n\n- réduire les **filets de sécurité sociale** ;\n- **affaiblir les syndicats** ;\n- laisser jouer la **pression du chômage** à l'extérieur de l'entreprise.\n\n→ L'intérêt du livre : ce n'est pas reconstitué après coup, c'est **documenté dans leurs propres textes** — rapports, revues de management, notes de think tanks."
+  "verso": "**Années 1970**, en réponse à l'**indiscipline ouvrière post-68** (grèves sauvages, absentéisme, refus de la hiérarchie d'atelier) : le monde des affaires théorise explicitement une contre-offensive en plusieurs volets :\n\n- réduire les **filets de sécurité sociale** ;\n- **affaiblir les syndicats** ;\n- laisser jouer la **pression du chômage** à l'extérieur de l'entreprise — c'est [[l-armee-industrielle-de-reserve|l'armée industrielle de réserve]] remise au travail.\n\n→ L'intérêt du livre : ce n'est pas reconstitué après coup, c'est **documenté dans leurs propres textes** — rapports, revues de management, notes de think tanks."
  },
  {
   "id": "l-insecurite-sociale-le-mecanisme",
@@ -211,7 +211,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Pour illustrer un chômage de masse délibérément provoqué par la politique monétaire : quel épisode, quelles dates, sous quels présidents — et qu'avait fait Nixon en 1971, qu'on lui attribue à tort ?",
-  "verso": "Le **choc Volcker (1979-1982)** — Paul Volcker à la Fed, nommé sous **Carter**, poursuivi sous **Reagan** : taux d'intérêt portés à des niveaux extrêmes, récession et chômage de masse assumés pour casser l'inflation *et* le pouvoir de négociation salariale.\n\n**Pas Nixon** : lui avait fait l'inverse en 1971 — **contrôle des prix et des salaires** (plus la fin de la convertibilité en or).\n\n→ Erreur de date classique, et c'est le genre de faute qui fait perdre une argumentation par ailleurs juste."
+  "verso": "Le **choc Volcker (1979-1982)** — Paul Volcker à la Fed, nommé sous **Carter**, poursuivi sous **Reagan** : taux d'intérêt portés à des niveaux extrêmes, récession et chômage de masse assumés — [[l-insecurite-sociale-le-mecanisme|l'insécurité sociale]] par la voie monétaire pour casser l'inflation *et* le pouvoir de négociation salariale.\n\n**Pas Nixon** : lui avait fait l'inverse en 1971 — **contrôle des prix et des salaires** (plus la fin de la convertibilité en or).\n\n→ Erreur de date classique, et c'est le genre de faute qui fait perdre une argumentation par ailleurs juste."
  },
  {
   "id": "democratie-populaire-integrale-le-concept-officiel",
@@ -424,7 +424,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Quelle est la lecture marxiste/keynésienne de 1929, et quelle objection sérieuse lui est opposée ?",
-  "verso": "**Lecture marxiste/keynésienne classique** : **surproduction** + **sous-consommation ouvrière** — la capacité productive dépasse le pouvoir d'achat distribué.\n\n**Objection monétariste** (Friedman & Schwartz, *A Monetary History of the United States*, 1963) : l'effondrement vient surtout de la **contraction monétaire** — la Fed a laissé la masse monétaire chuter d'environ un tiers et n'a pas sauvé les banques. La crise n'était pas inévitable, elle a été aggravée par une erreur de politique.\n\n→ Position tenable : les deux niveaux ne s'excluent pas — déséquilibre structurel **et** gestion catastrophique."
+  "verso": "**Lecture marxiste/keynésienne classique** : [[crises-de-surproduction-le-paradoxe|**surproduction**]] + **sous-consommation ouvrière** — la capacité productive dépasse le pouvoir d'achat distribué.\n\n**Objection monétariste** (Friedman & Schwartz, *A Monetary History of the United States*, 1963) : l'effondrement vient surtout de la **contraction monétaire** — la Fed a laissé la masse monétaire chuter d'environ un tiers et n'a pas sauvé les banques. La crise n'était pas inévitable, elle a été aggravée par une erreur de politique.\n\n→ Position tenable : les deux niveaux ne s'excluent pas — déséquilibre structurel **et** gestion catastrophique."
  },
  {
   "id": "agricultural-adjustment-act-1933-les-chiffres",
@@ -440,7 +440,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "États-Unis, Grande Dépression : quels sont les deux chiffres à retenir de l'Agricultural Adjustment Act, et dans quel but ces destructions ?",
-  "verso": "L'**Agricultural Adjustment Act (1933)** :\n\n- **10,4 millions d'acres de coton** détruits ;\n- **6,4 millions de porcs** abattus.\n\nObjectif : **faire remonter les prix agricoles** en réduisant l'offre — pendant que des millions de personnes avaient faim."
+  "verso": "L'**Agricultural Adjustment Act (1933)** :\n\n- **10,4 millions d'acres de coton** détruits ;\n- **6,4 millions de porcs** abattus.\n\nObjectif : **faire remonter les prix agricoles** en réduisant l'offre — l'illustration de [[marx-la-destruction-forcee|la « destruction forcée »]] — pendant que des millions de personnes avaient faim."
  },
  {
   "id": "aaa-la-nuance-qui-rend-l-argument-solide",
@@ -474,7 +474,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Où Marx décrit-il la destruction massive de forces productives comme le mode de sortie de crise du capitalisme, en quelle année, et dans quels termes exacts ?",
-  "verso": "Dans le **Manifeste du parti communiste** (1848) : les crises se résolvent par la **« destruction forcée d'une masse de forces productives »**.\n\nAutrement dit, la destruction de valeur *est* le mode de sortie de crise du système — pas un accident de parcours.\n\n→ 1933 n'illustre pas une anomalie, il illustre le mécanisme."
+  "verso": "Dans le **Manifeste du parti communiste** (1848) : les crises se résolvent par la **« destruction forcée d'une masse de forces productives »**. Voir [[agricultural-adjustment-act-1933-les-chiffres|les chiffres de l'AAA]].\n\nAutrement dit, la destruction de valeur *est* le mode de sortie de crise du système — pas un accident de parcours.\n\n→ 1933 n'illustre pas une anomalie, il illustre le mécanisme."
  },
  {
   "id": "le-critere-du-clivage-materialisme-idealisme",
@@ -507,7 +507,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Où est l'erreur dans cette équivalence ?",
-  "verso": "Il existe une **droite matérialiste biologisante** : psychologie évolutionniste, *race science*, déterminismes génétiques.\n\nElle est matérialiste au sens strict — elle invoque bien des causes matérielles — mais **mécaniste et non dialectique** : elle fige la cause dans la biologie au lieu de la penser dans l'histoire et les rapports sociaux.\n\n→ Le clivage vraiment opératoire n'est pas matérialisme / idéalisme, mais **matérialisme historique et dialectique** vs **matérialisme mécaniste**."
+  "verso": "Il existe une **droite matérialiste biologisante** : psychologie évolutionniste, *race science*, déterminismes génétiques.\n\nElle est matérialiste au sens strict — elle invoque bien des causes matérielles — mais **mécaniste et non dialectique** : elle fige la cause dans la biologie au lieu de la penser dans l'histoire et les rapports sociaux.\n\n→ Le clivage vraiment opératoire (voir [[le-critere-du-clivage-materialisme-idealisme|le critère du clivage]]) n'est pas matérialisme / idéalisme, mais **matérialisme historique et dialectique** vs **matérialisme mécaniste**."
  },
  {
   "id": "la-penurie-organisee-est-elle-un-concept-de-marx",
@@ -524,7 +524,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Peut-on lui attribuer l'expression telle quelle — et sinon, sur quels mécanismes de son œuvre la fonder ?",
-  "verso": "**Le terme exact n'est pas de lui.** Mais **trois mécanismes** chez lui convergent vers l'idée :\n\n1. **L'armée industrielle de réserve** — *Le Capital* I, ch. 25\n2. **Les crises de surproduction**\n3. **Le fragment sur les machines** — *Grundrisse*\n\n→ En débat : « ce n'est pas sa formule, mais voici les trois mécanismes qui la fondent » est bien plus solide que de bluffer sur une citation."
+  "verso": "**Le terme exact n'est pas de lui.** Mais **trois mécanismes** chez lui convergent vers l'idée :\n\n1. **[[l-armee-industrielle-de-reserve|L'armée industrielle de réserve]]** — *Le Capital* I, ch. 25\n2. **[[crises-de-surproduction-le-paradoxe|Les crises de surproduction]]**\n3. **[[le-fragment-sur-les-machines|Le fragment sur les machines]]** — *Grundrisse*\n\n→ En débat : « ce n'est pas sa formule, mais voici les trois mécanismes qui la fondent » est bien plus solide que de bluffer sur une citation."
  },
  {
   "id": "l-armee-industrielle-de-reserve",
@@ -556,7 +556,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Quel paradoxe les crises de surproduction rendent-elles visible — et comment l'expliquer sans invoquer ni l'absurdité ni la malveillance ?",
-  "verso": "**Pénurie et abondance en même temps** : des marchandises invendues d'un côté, des besoins insatisfaits de l'autre.\n\nL'explication n'est ni l'absurdité ni la malveillance : on produit **pour le profit, pas pour l'usage**. Si la vente ne valide pas la valeur, la production s'arrête — indépendamment des besoins qui subsistent.\n\n→ C'est l'argument central contre l'idée que le marché alloue spontanément les ressources vers les besoins."
+  "verso": "**Pénurie et abondance en même temps** : des marchandises invendues d'un côté, des besoins insatisfaits de l'autre.\n\nL'explication n'est ni l'absurdité ni la malveillance : on produit **pour le profit, pas pour l'usage** — c'est la logique du [[a-m-a-la-definition-du-capital|A-M-A']]. Si la vente ne valide pas la valeur, la production s'arrête — indépendamment des besoins qui subsistent.\n\n→ C'est l'argument central contre l'idée que le marché alloue spontanément les ressources vers les besoins."
  },
  {
   "id": "le-fragment-sur-les-machines",
@@ -928,7 +928,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Que veut dire la formule A-M-A', en quoi renverse-t-elle le cycle M-A-M de la production marchande simple — et qu'est-ce que ce renversement change à la finalité de la production ?",
-  "verso": "Le **renversement de la formule** : **A-M-A'** — de l'argent avancé pour acheter, afin de revendre et récupérer **plus d'argent**.\n\nLa finalité n'est plus l'usage (qui clôt le cycle M-A-M) mais la **valorisation** : un mouvement sans terme, puisque A' redevient A.\n\n→ Le profit n'est pas un supplément ajouté au cycle : c'est **sa raison d'être**."
+  "verso": "Le **renversement** de [[critiquer-le-capitalisme-c-est-critiquer-le-marche|la formule M-A-M]] : **A-M-A'** — de l'argent avancé pour acheter, afin de revendre et récupérer **plus d'argent**.\n\nLa finalité n'est plus l'usage (qui clôt le cycle M-A-M) mais la **valorisation** : un mouvement sans terme, puisque A' redevient A.\n\n→ Le profit n'est pas un supplément ajouté au cycle : c'est **sa raison d'être**."
  },
  {
   "id": "le-critere-decisif-la-generalisation-du-salariat",
@@ -946,7 +946,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Au-delà de la circulation (A-M-A'), quel critère fait du capitalisme un mode de production à part entière ? Ce qu'il suppose — et pourquoi ce n'est ni le marché, ni la cupidité, ni l'inégalité.",
-  "verso": "La **généralisation du salariat** : la **force de travail elle-même devenue marchandise**.\n\nCela suppose une classe de producteurs **séparés des moyens de production** — dépossédés de la terre et de l'outil — donc contraints de vendre leur capacité de travail pour vivre.\n\n→ C'est ce critère, et non l'existence du marché, ni la cupidité, ni l'inégalité, qui fait la **spécificité historique** du capitalisme."
+  "verso": "La **généralisation du salariat** : la **force de travail elle-même devenue marchandise**.\n\nCela suppose une classe de producteurs **séparés des moyens de production** — dépossédés de la terre et de l'outil — donc contraints de vendre leur capacité de travail pour vivre.\n\n→ C'est ce critère, et non [[critiquer-le-capitalisme-c-est-critiquer-le-marche|l'existence du marché]], ni la cupidité, ni l'inégalité, qui fait la **spécificité historique** du capitalisme."
  },
  {
   "id": "pourquoi-marx-ne-decrit-pas-la-societe-future",
@@ -968,9 +968,9 @@ window.CARDS = [
   "verso": "Le refus est **assumé et argumenté**. Marx raille les « **recettes pour les marmites de l'avenir** » (Postface à la 2ᵉ édition du *Capital*, 1873) : prescrire d'avance l'organisation de la société future, c'est de l'utopisme — la forme concrète sera produite par les luttes réelles et les conditions de leur époque, pas par un plan écrit à l'avance.\n\n→ Ce n'est pas un trou dans la théorie, c'est une **position méthodologique** : analyser les tendances du présent plutôt que dessiner des plans."
  },
  {
-  "id": "les-elements-de-l-alternative-malgre-tout",
+  "id": "ce-que-marx-dit-de-la-societe-post-capitaliste",
   "file": "valeur-capitalisme-alternative.md",
-  "title": "Les éléments de l'alternative malgré tout",
+  "title": "Ce que Marx dit de la société post-capitaliste",
   "type": "concept",
   "tags": [
    "auteur:marx",
@@ -982,8 +982,8 @@ window.CARDS = [
    "source:débat-rn-confus"
   ],
   "source": "",
-  "recto": "Marx refuse d'écrire les « recettes pour les marmites de l'avenir ». Quels éléments positifs sur la société post-capitaliste peut-on malgré tout tirer de ses textes, dans quel ordre — et quel fil directeur les relie ?",
-  "verso": "1. **Abolition de la propriété privée des moyens de production** — pas des biens de consommation.\n2. **Phase de transition** : rétribution **selon la contribution en travail** — encore un principe d'équivalence, donc encore inégalitaire dans ses effets.\n3. **Communisme proprement dit** : « **de chacun selon ses capacités, à chacun selon ses besoins** » (*Critique du programme de Gotha*, 1875).\n\n→ Le fil directeur : remplacer la **régulation aveugle du marché** par une **planification consciente et collective**, orientée vers l'**usage** plutôt que l'**échange**."
+  "recto": "Marx [[pourquoi-marx-ne-decrit-pas-la-societe-future|refuse d'écrire les « recettes pour les marmites de l'avenir »]]. Quels éléments peut-on malgré tout tirer de ses textes, dans quel ordre — et quel fil directeur les relie ?",
+  "verso": "Refuser le plan détaillé n'est pas ne rien dire : trois éléments reviennent dans l'œuvre.\n\n1. **Abolition de la propriété privée des moyens de production** — pas des biens de consommation.\n2. **Phase de transition** : rétribution **selon la contribution en travail** — encore un principe d'équivalence, donc encore inégalitaire dans ses effets.\n3. **Communisme proprement dit** : « **de chacun selon ses capacités, à chacun selon ses besoins** » (*Critique du programme de Gotha*, 1875).\n\n→ Le fil directeur : remplacer la **régulation aveugle du marché** par une **planification consciente et collective**, orientée vers l'**usage** plutôt que l'**échange** — l'inverse de [[a-m-a-la-definition-du-capital|A-M-A']]."
  },
  {
   "id": "smith-le-castor-et-le-cerf",
@@ -1152,7 +1152,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "« La moïsation — acculer les *rouges-bruns* à choisir un camp — c'est une stratégie de LFI pour forcer les gens à se ranger. » Que répondre, et sur quel mécanisme s'appuyer ?",
-  "verso": "Selon Padu, non : ce n'est pas une stratégie délibérée mais **« le mouvement réel »**.\n\nLe mécanisme est l'**érosion structurelle du bloc central macroniste** : quand le centre se vide, le paysage se polarise *mécaniquement* et l'entre-deux devient intenable. La moïsation **nomme un effet de structure**, elle ne le produit pas.\n\n→ Réponse typiquement matérialiste : on renvoie l'explication aux conditions (recomposition du champ politique) plutôt qu'à l'intention d'un acteur."
+  "verso": "Selon Padu, non : ce n'est pas une stratégie délibérée mais **« le mouvement réel »**.\n\nLe mécanisme est l'**érosion structurelle du bloc central macroniste** : quand le centre se vide, le paysage se polarise *mécaniquement* et l'entre-deux devient intenable. La moïsation **nomme un effet de structure**, elle ne le produit pas.\n\n→ Réponse typiquement [[le-critere-du-clivage-materialisme-idealisme|matérialiste]] : on renvoie l'explication aux conditions (recomposition du champ politique) plutôt qu'à l'intention d'un acteur."
  },
  {
   "id": "la-penurie-chez-la-paduteam",
@@ -1169,6 +1169,6 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Existe-t-il, dans le vocabulaire de la PaduTeam, un néologisme dédié à « la pénurie » ? Sinon, sur quoi s'appuient-ils ?",
-  "verso": "**Non** — rien de dédié n'a été trouvé.\n\nCe qu'ils mobilisent, c'est le **cadre marxiste classique** : la rareté comme *base matérielle* des divisions sociales.\n\n→ Ne pas leur attribuer un concept qu'ils n'ont pas forgé : c'est le genre d'erreur qui coûte le crédit de tout le reste."
+  "verso": "**Non** — rien de dédié n'a été trouvé.\n\nCe qu'ils mobilisent, c'est le **cadre marxiste classique** (voir [[la-penurie-organisee-est-elle-un-concept-de-marx|les trois mécanismes chez Marx]]) : la rareté comme *base matérielle* des divisions sociales.\n\n→ Ne pas leur attribuer un concept qu'ils n'ont pas forgé : c'est le genre d'erreur qui coûte le crédit de tout le reste."
  }
 ];

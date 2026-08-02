@@ -25,7 +25,7 @@ Le modèle base / superstructure passe pour un déterminisme économique à sens
 
 ---
 
-Dans ses **lettres des années 1890** (à Conrad Schmidt, Franz Mehring, Borgius), Engels corrige le **déterminisme économique vulgaire** attribué au marxisme :
+Dans ses **lettres des années 1890** (à Conrad Schmidt, Franz Mehring, Borgius), Engels corrige la lecture mécaniste de [[Marx, Préface de 1859|la Préface de 1859]] — le **déterminisme économique vulgaire** attribué au marxisme :
 
 - l'économique ne détermine qu'**« en dernière instance »** ;
 - la superstructure a une **autonomie relative** ;
@@ -42,7 +42,7 @@ Dans le modèle marxiste classique, la classe dominante tient le pouvoir par l'a
 
 ---
 
-La bourgeoisie ne domine pas seulement par la **coercition étatique**, mais par le **consentement culturel** — obtenu dans la **société civile** : école, presse, églises, associations, sens commun.
+La bourgeoisie ne domine pas seulement par la **coercition étatique**, mais par le **consentement culturel** — obtenu dans la **société civile** — l'arbitrage entre les deux voies se joue ensuite en [[Guerre de position / guerre de mouvement|guerre de position ou de mouvement]] : école, presse, églises, associations, sens commun.
 
 Conséquence : on peut perdre le pouvoir culturel tout en tenant l'appareil d'État, et inversement. La domination est un **rapport à entretenir en permanence**, pas une possession acquise.
 
@@ -58,7 +58,7 @@ Que désignent ces deux termes empruntés au vocabulaire militaire, et lequel Gr
 - **Guerre de mouvement** : l'assaut frontal, la prise rapide du pouvoir d'État (modèle d'Octobre 1917).
 - **Guerre de position** : la **conquête lente des institutions culturelles** et du sens commun, tranchée par tranchée.
 
-Dans les sociétés occidentales, où la société civile est dense et l'hégémonie profonde, Gramsci considère que **la guerre de position est la voie** : prendre l'État sans avoir gagné le terrain culturel ne tient pas.
+Dans les sociétés occidentales, où la société civile est dense et l'[[Gramsci : l'hégémonie|hégémonie]] profonde, Gramsci considère que **la guerre de position est la voie** : prendre l'État sans avoir gagné le terrain culturel ne tient pas.
 
 
 ## L'intellectuel organique
@@ -90,7 +90,7 @@ Un **système d'idées qui justifie des rapports de production**.
 
 Exemple : la **méritocratie** — elle rend légitime une hiérarchie de positions et de revenus en la présentant comme le produit de l'effort et du talent individuels.
 
-Point de départ solide, mais insuffisant : il ne dit ni *comment* l'idéologie s'installe, ni pourquoi elle est *crue*.
+Point de départ solide, mais insuffisant — il sera repris par [[Idéologie chez Marx : l'inversion|Marx]], [[Idéologie chez Gramsci : la fonction organisatrice|Gramsci]] et [[Idéologie chez Althusser : vécue matériellement|Althusser]] : il ne dit ni *comment* l'idéologie s'installe, ni pourquoi elle est *crue*.
 
 
 ## Idéologie chez Marx : l'inversion
@@ -115,7 +115,7 @@ Si l'idéologie n'était qu'un voile qui trompe, que manquerait-on ? Ce que Gram
 
 ---
 
-L'idéologie n'est pas seulement un voile qui trompe : elle a une **fonction organisatrice réelle**. Elle **cimente un bloc social**, elle donne un cadre pour agir, elle rend une coalition possible.
+Réduire l'idéologie à [[Idéologie chez Marx : l'inversion|l'inversion]], c'est n'y voir qu'un voile qui trompe. Elle a aussi une **fonction organisatrice réelle** : elle **cimente un bloc social** — c'est le ressort de [[Gramsci : l'hégémonie|l'hégémonie]] —, elle donne un cadre pour agir, elle rend une coalition possible.
 
 → Conséquence pratique : une idéologie qui ne servirait *à rien* ne tiendrait pas. Si elle dure, c'est qu'elle fait quelque chose — la démonter suppose donc d'offrir autre chose qui remplisse la même fonction.
 

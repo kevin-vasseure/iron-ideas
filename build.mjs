@@ -24,6 +24,8 @@
  *
  * Le titre sert d'identifiant (pour la progression) : il doit être unique.
  * Un tag « ns:valeur » est regroupé sous le namespace « ns » dans l'interface.
+ * Dans le corps, « [[Titre exact]] » lie vers une autre fiche, tous fichiers
+ * confondus ; « [[Titre exact|texte affiché]] » quand la phrase l'exige.
  */
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { watch } from 'node:fs';
@@ -41,6 +43,12 @@ const PORT = 4321;
 const CARD_META = /^(type|tags|source|note)\s*:\s*(.*)$/i;
 /** Une ligne faite uniquement de `---` : frontmatter ou séparateur recto/verso. */
 const RULE = /^\s*---\s*$/;
+/**
+ * Lien vers une autre fiche, dans le corps : `[[Titre exact]]`, ou
+ * `[[Titre exact|texte affiché]]` quand la phrase demande un autre libellé
+ * (accord, inflexion). La cible est résolue par slug du titre, à la compilation.
+ */
+const CARD_LINK = /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g;
 
 const slug = (s) =>
   s
@@ -142,13 +150,42 @@ async function build() {
     }
   }
 
+  // Les `[[Titre]]` sont résolus ici, une fois toutes les fiches connues : un
+  // lien peut donc pointer vers n'importe quel fichier. L'app ne voit plus que
+  // des identifiants, jamais des titres — un lien mort est signalé à la
+  // compilation et retombe en texte simple plutôt que d'afficher `[[…]]`.
+  const ids = new Set(all.map((c) => c.id));
+  let links = 0;
+  const resolveLinks = (text, card) =>
+    text.replace(CARD_LINK, (_, target, label) => {
+      const title = target.trim();
+      const shown = (label ?? title).trim();
+      const id = slug(title);
+      if (id === card.id) {
+        console.warn(`  ⚠ lien vers elle-même : « ${card.title} » (${card.file})`);
+        return shown;
+      }
+      if (!ids.has(id)) {
+        console.warn(`  ⚠ lien mort : « ${title} » cité par « ${card.title} » (${card.file})`);
+        return shown;
+      }
+      links++;
+      return `[[${id}|${shown}]]`;
+    });
+  for (const c of all) {
+    c.recto = resolveLinks(c.recto, c);
+    c.verso = resolveLinks(c.verso, c);
+  }
+
   await writeFile(
     OUT,
     `// Généré par build.mjs — ne pas éditer à la main. Source : cards/*.md\n` +
       `window.CARDS = ${JSON.stringify(all, null, 1)};\n`,
   );
   const tags = new Set(all.flatMap((c) => c.tags));
-  console.log(`✓ ${all.length} fiches · ${tags.size} tags · ${files.length} fichiers → app/cards.js`);
+  console.log(
+    `✓ ${all.length} fiches · ${tags.size} tags · ${links} liens · ${files.length} fichiers → app/cards.js`,
+  );
 }
 
 /* -------------------------------------------------------------------- serve */

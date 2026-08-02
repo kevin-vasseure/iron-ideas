@@ -42,3 +42,26 @@ jobs:
 
       - id: deploy
         uses: actions/deploy-pages@v4
+
+  # Signale un app/cards.js périmé dans le commit. Volontairement un job à part,
+  # en parallèle du déploiement plutôt qu'une étape dedans : le site est juste
+  # de toute façon (il est recompilé ci-dessus), donc un artefact périmé ne doit
+  # pas empêcher de publier — sinon éditer une fiche depuis l'interface web de
+  # GitHub, où aucun hook ne tourne, bloquerait la mise en ligne à tous les coups.
+  # Ce qui casse alors, c'est la promesse « cloner et ouvrir app/index.html ».
+  verifier-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: cards.js correspond-il aux fiches ?
+        run: |
+          node build.mjs
+          git diff --exit-code -- app/cards.js || {
+            echo "::error::app/cards.js ne correspond pas à cards/*.md. Lance « npm run build » et commite le résultat (git config core.hooksPath .githooks l'automatise)."
+            exit 1
+          }

@@ -14,7 +14,7 @@ Dans *La société ingouvernable* (2018), Grégoire Chamayou décrit une contre-
 
 - réduire les **filets de sécurité sociale** ;
 - **affaiblir les syndicats** ;
-- laisser jouer la **pression du chômage** à l'extérieur de l'entreprise.
+- laisser jouer la **pression du chômage** à l'extérieur de l'entreprise — c'est [[L'armée industrielle de réserve|l'armée industrielle de réserve]] remise au travail.
 
 → L'intérêt du livre : ce n'est pas reconstitué après coup, c'est **documenté dans leurs propres textes** — rapports, revues de management, notes de think tanks.
 
@@ -42,7 +42,7 @@ Pour illustrer un chômage de masse délibérément provoqué par la politique m
 
 ---
 
-Le **choc Volcker (1979-1982)** — Paul Volcker à la Fed, nommé sous **Carter**, poursuivi sous **Reagan** : taux d'intérêt portés à des niveaux extrêmes, récession et chômage de masse assumés pour casser l'inflation *et* le pouvoir de négociation salariale.
+Le **choc Volcker (1979-1982)** — Paul Volcker à la Fed, nommé sous **Carter**, poursuivi sous **Reagan** : taux d'intérêt portés à des niveaux extrêmes, récession et chômage de masse assumés — [[« L'insécurité sociale » : le mécanisme|l'insécurité sociale]] par la voie monétaire pour casser l'inflation *et* le pouvoir de négociation salariale.
 
 **Pas Nixon** : lui avait fait l'inverse en 1971 — **contrôle des prix et des salaires** (plus la fin de la convertibilité en or).
 

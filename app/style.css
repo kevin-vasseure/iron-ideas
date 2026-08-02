@@ -664,6 +664,87 @@ main {
   color: var(--accent);
 }
 
+/* --------------------------------------------------------------- lien fiche */
+
+/* Un concept expliqué ailleurs : souligné en pointillé pour se distinguer d'un
+   lien externe, et lisible même à côté d'un `**gras**`. */
+.cardlink {
+  color: var(--accent);
+  text-decoration: underline dotted;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+.cardlink:hover,
+.cardlink:focus-visible {
+  background: var(--accent-soft);
+  text-decoration-style: solid;
+}
+
+/* ------------------------------------------------------------------- aperçu */
+
+.peek {
+  position: fixed;
+  z-index: 20;
+  inset: 0;
+  overflow-y: auto;
+  padding: clamp(0.75rem, 4vh, 3rem) clamp(0.75rem, 4vw, 1.5rem);
+  /* Voile franc dans les deux thèmes : la barre s'écrit en blanc par-dessus. */
+  background: rgb(29 27 24 / 60%);
+  animation: rise 0.15s ease-out;
+}
+.peek[hidden] {
+  display: none;
+}
+@media (prefers-color-scheme: dark) {
+  .peek {
+    background: rgb(0 0 0 / 60%);
+  }
+}
+
+.peek-box {
+  max-width: 46rem;
+  margin: 0 auto;
+}
+
+.peek-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+/* Le voile est sombre dans les deux thèmes : la barre s'écrit en clair fixe,
+   pas avec les variables de surface. */
+.peek-bar .link {
+  color: rgb(255 255 255 / 80%);
+  text-decoration-color: rgb(255 255 255 / 35%);
+}
+.peek-bar .link:hover {
+  color: #fff;
+  text-decoration-color: currentcolor;
+}
+.peek-bar kbd {
+  border-color: rgb(255 255 255 / 25%);
+  background: rgb(255 255 255 / 10%);
+  color: inherit;
+}
+.peek-tag {
+  font: 600 0.625rem/1 var(--sans);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgb(255 255 255 / 70%);
+}
+
+.peek .tags li span {
+  display: inline-block;
+  padding: 0.1rem 0.45rem;
+  border: 1px solid var(--rule-soft);
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 0.71875rem;
+}
+
 /* ------------------------------------------------------------------ actions */
 
 .actions {

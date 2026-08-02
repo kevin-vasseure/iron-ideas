@@ -10,7 +10,7 @@ Quelle est la lecture marxiste/keynésienne de 1929, et quelle objection sérieu
 
 ---
 
-**Lecture marxiste/keynésienne classique** : **surproduction** + **sous-consommation ouvrière** — la capacité productive dépasse le pouvoir d'achat distribué.
+**Lecture marxiste/keynésienne classique** : [[Crises de surproduction : le paradoxe|**surproduction**]] + **sous-consommation ouvrière** — la capacité productive dépasse le pouvoir d'achat distribué.
 
 **Objection monétariste** (Friedman & Schwartz, *A Monetary History of the United States*, 1963) : l'effondrement vient surtout de la **contraction monétaire** — la Fed a laissé la masse monétaire chuter d'environ un tiers et n'a pas sauvé les banques. La crise n'était pas inévitable, elle a été aggravée par une erreur de politique.
 
@@ -30,7 +30,7 @@ L'**Agricultural Adjustment Act (1933)** :
 - **10,4 millions d'acres de coton** détruits ;
 - **6,4 millions de porcs** abattus.
 
-Objectif : **faire remonter les prix agricoles** en réduisant l'offre — pendant que des millions de personnes avaient faim.
+Objectif : **faire remonter les prix agricoles** en réduisant l'offre — l'illustration de [[Marx : la « destruction forcée »|la « destruction forcée »]] — pendant que des millions de personnes avaient faim.
 
 
 ## AAA : la nuance qui rend l'argument solide
@@ -56,7 +56,7 @@ Où Marx décrit-il la destruction massive de forces productives comme le mode d
 
 ---
 
-Dans le **Manifeste du parti communiste** (1848) : les crises se résolvent par la **« destruction forcée d'une masse de forces productives »**.
+Dans le **Manifeste du parti communiste** (1848) : les crises se résolvent par la **« destruction forcée d'une masse de forces productives »**. Voir [[Agricultural Adjustment Act, 1933 : les chiffres|les chiffres de l'AAA]].
 
 Autrement dit, la destruction de valeur *est* le mode de sortie de crise du système — pas un accident de parcours.
 

@@ -25,7 +25,7 @@ Que veut dire la formule A-M-A', en quoi renverse-t-elle le cycle M-A-M de la pr
 
 ---
 
-Le **renversement de la formule** : **A-M-A'** — de l'argent avancé pour acheter, afin de revendre et récupérer **plus d'argent**.
+Le **renversement** de [[« Critiquer le capitalisme, c'est critiquer le marché »|la formule M-A-M]] : **A-M-A'** — de l'argent avancé pour acheter, afin de revendre et récupérer **plus d'argent**.
 
 La finalité n'est plus l'usage (qui clôt le cycle M-A-M) mais la **valorisation** : un mouvement sans terme, puisque A' redevient A.
 
@@ -44,7 +44,7 @@ La **généralisation du salariat** : la **force de travail elle-même devenue m
 
 Cela suppose une classe de producteurs **séparés des moyens de production** — dépossédés de la terre et de l'outil — donc contraints de vendre leur capacité de travail pour vivre.
 
-→ C'est ce critère, et non l'existence du marché, ni la cupidité, ni l'inégalité, qui fait la **spécificité historique** du capitalisme.
+→ C'est ce critère, et non [[« Critiquer le capitalisme, c'est critiquer le marché »|l'existence du marché]], ni la cupidité, ni l'inégalité, qui fait la **spécificité historique** du capitalisme.
 
 
 ## Pourquoi Marx ne décrit pas la société future
@@ -60,16 +60,18 @@ Le refus est **assumé et argumenté**. Marx raille les « **recettes pour les m
 → Ce n'est pas un trou dans la théorie, c'est une **position méthodologique** : analyser les tendances du présent plutôt que dessiner des plans.
 
 
-## Les éléments de l'alternative malgré tout
+## Ce que Marx dit de la société post-capitaliste
 type: concept
 tags: philosophie, niveau:3-avancé
 
-Marx refuse d'écrire les « recettes pour les marmites de l'avenir ». Quels éléments positifs sur la société post-capitaliste peut-on malgré tout tirer de ses textes, dans quel ordre — et quel fil directeur les relie ?
+Marx [[Pourquoi Marx ne décrit pas la société future|refuse d'écrire les « recettes pour les marmites de l'avenir »]]. Quels éléments peut-on malgré tout tirer de ses textes, dans quel ordre — et quel fil directeur les relie ?
 
 ---
+
+Refuser le plan détaillé n'est pas ne rien dire : trois éléments reviennent dans l'œuvre.
 
 1. **Abolition de la propriété privée des moyens de production** — pas des biens de consommation.
 2. **Phase de transition** : rétribution **selon la contribution en travail** — encore un principe d'équivalence, donc encore inégalitaire dans ses effets.
 3. **Communisme proprement dit** : « **de chacun selon ses capacités, à chacun selon ses besoins** » (*Critique du programme de Gotha*, 1875).
 
-→ Le fil directeur : remplacer la **régulation aveugle du marché** par une **planification consciente et collective**, orientée vers l'**usage** plutôt que l'**échange**.
+→ Le fil directeur : remplacer la **régulation aveugle du marché** par une **planification consciente et collective**, orientée vers l'**usage** plutôt que l'**échange** — l'inverse de [[A-M-A' : la définition du capital|A-M-A']].

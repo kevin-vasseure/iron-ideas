@@ -1,0 +1,14 @@
+#!/bin/sh
+# Recompile les fiches et joint le résultat au commit en cours.
+#
+# app/cards.js est généré mais commité (pour que `git clone` + ouvrir
+# app/index.html suffise). Sans ce hook, un commit qui touche cards/*.md laisse
+# le repo mentir sur son propre contenu — le site publié, lui, est recompilé
+# par la CI et reste juste.
+#
+# Activation, une fois après le clone :  git config core.hooksPath .githooks
+# Contournement ponctuel :                git commit --no-verify
+set -e
+
+node build.mjs
+git add app/cards.js

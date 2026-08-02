@@ -12,9 +12,9 @@ Peut-on lui attribuer l'expression telle quelle — et sinon, sur quels mécanis
 
 **Le terme exact n'est pas de lui.** Mais **trois mécanismes** chez lui convergent vers l'idée :
 
-1. **L'armée industrielle de réserve** — *Le Capital* I, ch. 25
-2. **Les crises de surproduction**
-3. **Le fragment sur les machines** — *Grundrisse*
+1. **[[L'armée industrielle de réserve]]** — *Le Capital* I, ch. 25
+2. **[[Crises de surproduction : le paradoxe|Les crises de surproduction]]**
+3. **[[Le fragment sur les machines]]** — *Grundrisse*
 
 → En débat : « ce n'est pas sa formule, mais voici les trois mécanismes qui la fondent » est bien plus solide que de bluffer sur une citation.
 
@@ -42,7 +42,7 @@ Quel paradoxe les crises de surproduction rendent-elles visible — et comment l
 
 **Pénurie et abondance en même temps** : des marchandises invendues d'un côté, des besoins insatisfaits de l'autre.
 
-L'explication n'est ni l'absurdité ni la malveillance : on produit **pour le profit, pas pour l'usage**. Si la vente ne valide pas la valeur, la production s'arrête — indépendamment des besoins qui subsistent.
+L'explication n'est ni l'absurdité ni la malveillance : on produit **pour le profit, pas pour l'usage** — c'est la logique du [[A-M-A' : la définition du capital|A-M-A']]. Si la vente ne valide pas la valeur, la production s'arrête — indépendamment des besoins qui subsistent.
 
 → C'est l'argument central contre l'idée que le marché alloue spontanément les ressources vers les besoins.
 
