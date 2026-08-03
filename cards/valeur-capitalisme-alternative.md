@@ -44,7 +44,7 @@ La **généralisation du salariat** : la **force de travail elle-même devenue m
 
 Cela suppose une classe de producteurs **séparés des moyens de production** — dépossédés de la terre et de l'outil — donc contraints de vendre leur capacité de travail pour vivre.
 
-→ C'est ce critère, et non [[« Critiquer le capitalisme, c'est critiquer le marché »|l'existence du marché]], ni la cupidité, ni l'inégalité, qui fait la **spécificité historique** du capitalisme.
+→ C'est ce critère, et non [[« Critiquer le capitalisme, c'est critiquer le marché »|l'existence du marché]], ni la cupidité, ni l'inégalité, qui fait la **spécificité historique** du capitalisme. Le [[Le marxisme politique : la dépendance au marché|marxisme politique]] le durcit encore : ce qui compte n'est pas d'avoir accès au marché, c'est de ne pas pouvoir s'en passer.
 
 
 ## Pourquoi Marx ne décrit pas la société future
