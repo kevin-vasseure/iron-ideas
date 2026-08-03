@@ -95,7 +95,7 @@ Les réponses sérieuses portent sur les **hypothèses**, jamais sur la conclusi
 - le **capital fixe** déjà installé ne se réévalue pas instantanément à la nouvelle norme ;
 - surtout, Okishio compare deux **équilibres**, alors que le processus est **temporel** — c'est l'axe de l'interprétation temporelle et à système unique.
 
-→ Objection que sort tout interlocuteur formé en économie. « Okishio suppose l'équilibre et un salaire réel figé » suffit à tenir la position ; l'ignorer coûte le débat.
+→ Objection que sort tout interlocuteur formé en économie, et une phrase suffit à tenir la position : **« Okishio suppose l'équilibre et un salaire réel figé »**.
 
 
 ## La baisse est-elle constatée dans les données ?

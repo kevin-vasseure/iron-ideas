@@ -146,7 +146,7 @@ Sur ceux que l'État chinois publie lui-même. La formule officielle **« 56789 
 
 À quoi s'ajoutent :
 
-- un **Gini** autour de **0,46-0,47** (Bureau national des statistiques) — nettement au-dessus de l'Europe de l'Ouest, dans la zone des États-Unis. Les comparaisons internationales de Gini sont fragiles : à prendre comme ordre de grandeur, pas comme classement ;
+- un **Gini** autour de **0,46-0,47** (Bureau national des statistiques) — nettement au-dessus de l'Europe de l'Ouest, dans la zone des États-Unis ;
 - l'un des plus grands contingents de milliardaires au monde ;
 - le **hukou**, qui institue une main-d'œuvre juridiquement stratifiée : **299,7 millions** de travailleurs migrants ruraux en 2024, salaire moyen ~4 961 yuans/mois, accès dégradé à l'école et à la santé hors de leur canton d'origine.
 

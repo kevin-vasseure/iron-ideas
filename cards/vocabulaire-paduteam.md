@@ -45,18 +45,3 @@ Selon Padu, non : ce n'est pas une stratégie délibérée mais **« le mouvemen
 Le mécanisme est l'**érosion structurelle du bloc central macroniste** : quand le centre se vide, le paysage se polarise *mécaniquement* et l'entre-deux devient intenable. La moïsation **nomme un effet de structure**, elle ne le produit pas.
 
 → Réponse typiquement [[Le critère du clivage matérialisme / idéalisme|matérialiste]] : on renvoie l'explication aux conditions (recomposition du champ politique) plutôt qu'à l'intention d'un acteur.
-
-
-## « La pénurie » chez la PaduTeam
-type: piège
-tags: marxisme, niveau:2-intermédiaire
-
-Existe-t-il, dans le vocabulaire de la PaduTeam, un néologisme dédié à « la pénurie » ? Sinon, sur quoi s'appuient-ils ?
-
----
-
-**Non** — rien de dédié n'a été trouvé.
-
-Ce qu'ils mobilisent, c'est le **cadre marxiste classique** (voir [[« La pénurie organisée » est-elle un concept de Marx ?|les trois mécanismes chez Marx]]) : la rareté comme *base matérielle* des divisions sociales.
-
-→ Ne pas leur attribuer un concept qu'ils n'ont pas forgé : c'est le genre d'erreur qui coûte le crédit de tout le reste.

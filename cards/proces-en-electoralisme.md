@@ -90,7 +90,7 @@ Ce que le miroir établit exactement : le critère utilisé contre toi **ne disc
 
 Ce qu'il n'établit pas : que la gauche est sincère. Cette question reste ouverte, et elle se tranche autrement — **antériorité** des positions (les tenait-on avant tout gain électoral supposé ?), **coût** politique assumé, **cohérence** avec le reste de la doctrine.
 
-→ Poser la limite toi-même te rend **plus crédible** que celui qui te l'aurait opposée.
+→ Le miroir est une arme **défensive** : il neutralise le critère, il n'établit rien. Pour établir, il faut passer aux trois preuves ci-dessus — et elles, on peut les produire.
 
 
 ## « Mais nous, c'est une vraie doctrine » : la contre-attaque

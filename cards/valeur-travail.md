@@ -212,4 +212,4 @@ Au livre I, les marchandises s'échangent à leur valeur. Au livre III, la concu
 
 Un siècle de réponses (Sraffa et les néo-ricardiens, l'interprétation temporelle et à système unique) n'a produit **aucune solution faisant consensus**.
 
-→ Reconnaître le problème coûte peu et rapporte beaucoup ; le nier fait perdre tout le reste. Même logique que pour [[AAA : la nuance qui rend l'argument solide|l'AAA de 1933]] ou pour [[« La pénurie organisée » est-elle un concept de Marx ?|« la pénurie organisée »]] : la nuance concédée est ce qui rend le fond crédible.
+→ Ce que le problème atteint exactement : la **quantification**, pas le mécanisme. Que la survaleur naisse du travail vivant ne dépend pas d'une procédure de conversion — l'exploitation reste démontrable sans que les totaux se recollent. C'est là qu'il faut replier la position, pas ailleurs.

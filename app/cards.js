@@ -348,7 +348,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Sur quels chiffres — chinois — la qualification de « socialiste » est-elle la plus difficile à tenir ?",
-  "verso": "Sur ceux que l'État chinois publie lui-même. La formule officielle **« 56789 »** résume le poids du secteur privé : plus de **50 %** des recettes fiscales, **60 %** du PIB, **70 %** de l'innovation technologique, **80 %** de l'emploi urbain, **90 %** des entreprises.\n\nÀ quoi s'ajoutent :\n\n- un **Gini** autour de **0,46-0,47** (Bureau national des statistiques) — nettement au-dessus de l'Europe de l'Ouest, dans la zone des États-Unis. Les comparaisons internationales de Gini sont fragiles : à prendre comme ordre de grandeur, pas comme classement ;\n- l'un des plus grands contingents de milliardaires au monde ;\n- le **hukou**, qui institue une main-d'œuvre juridiquement stratifiée : **299,7 millions** de travailleurs migrants ruraux en 2024, salaire moyen ~4 961 yuans/mois, accès dégradé à l'école et à la santé hors de leur canton d'origine.\n\n→ La critique la plus solide de la Chine ne vient pas de la droite américaine mais de **la gauche** : au [[le-critere-decisif-la-generalisation-du-salariat|critère décisif du salariat généralisé]], on a affaire à un État-parti qui préside à une économie de marché très inégalitaire, où le travail est segmenté par un statut administratif hérité à la naissance. C'est un argument que tu peux tenir sans emprunter un mot au Département d'État."
+  "verso": "Sur ceux que l'État chinois publie lui-même. La formule officielle **« 56789 »** résume le poids du secteur privé : plus de **50 %** des recettes fiscales, **60 %** du PIB, **70 %** de l'innovation technologique, **80 %** de l'emploi urbain, **90 %** des entreprises.\n\nÀ quoi s'ajoutent :\n\n- un **Gini** autour de **0,46-0,47** (Bureau national des statistiques) — nettement au-dessus de l'Europe de l'Ouest, dans la zone des États-Unis ;\n- l'un des plus grands contingents de milliardaires au monde ;\n- le **hukou**, qui institue une main-d'œuvre juridiquement stratifiée : **299,7 millions** de travailleurs migrants ruraux en 2024, salaire moyen ~4 961 yuans/mois, accès dégradé à l'école et à la santé hors de leur canton d'origine.\n\n→ La critique la plus solide de la Chine ne vient pas de la droite américaine mais de **la gauche** : au [[le-critere-decisif-la-generalisation-du-salariat|critère décisif du salariat généralisé]], on a affaire à un État-parti qui préside à une économie de marché très inégalitaire, où le travail est segmenté par un statut administratif hérité à la naissance. C'est un argument que tu peux tenir sans emprunter un mot au Département d'État."
  },
  {
   "id": "le-xinjiang-ce-qui-est-etabli-ce-qui-est-conteste",
@@ -662,7 +662,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Le miroir (« et vous, vous défendez les ultra-riches pour leur argent ») a une limite logique, à poser *soi-même* avant qu'on te la serve. Laquelle — ce qu'il établit vraiment, et ce qu'il reste à établir autrement ?",
-  "verso": "Le miroir est un **tu quoque**. Or « vous faites pareil » ne réfute rien : si le procès d'intention est un mauvais argument, il l'est **aussi** quand c'est toi qui le retournes.\n\nCe que le miroir établit exactement : le critère utilisé contre toi **ne discrimine pas**. Il « prouve » aussi bien la vénalité de l'autre camp — donc il ne prouve rien.\n\nCe qu'il n'établit pas : que la gauche est sincère. Cette question reste ouverte, et elle se tranche autrement — **antériorité** des positions (les tenait-on avant tout gain électoral supposé ?), **coût** politique assumé, **cohérence** avec le reste de la doctrine.\n\n→ Poser la limite toi-même te rend **plus crédible** que celui qui te l'aurait opposée."
+  "verso": "Le miroir est un **tu quoque**. Or « vous faites pareil » ne réfute rien : si le procès d'intention est un mauvais argument, il l'est **aussi** quand c'est toi qui le retournes.\n\nCe que le miroir établit exactement : le critère utilisé contre toi **ne discrimine pas**. Il « prouve » aussi bien la vénalité de l'autre camp — donc il ne prouve rien.\n\nCe qu'il n'établit pas : que la gauche est sincère. Cette question reste ouverte, et elle se tranche autrement — **antériorité** des positions (les tenait-on avant tout gain électoral supposé ?), **coût** politique assumé, **cohérence** avec le reste de la doctrine.\n\n→ Le miroir est une arme **défensive** : il neutralise le critère, il n'établit rien. Pour établir, il faut passer aux trois preuves ci-dessus — et elles, on peut les produire."
  },
  {
   "id": "mais-nous-c-est-une-vraie-doctrine-la-contre-attaque",
@@ -791,7 +791,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Quelle objection formelle la baisse tendancielle a-t-elle reçue en 1961, et que faut-il pouvoir répondre sans avoir à découvrir le nom en direct ?",
-  "verso": "**Okishio Nobuo, 1961.** Un capitaliste n'adopte une technique que si elle réduit ses coûts **aux prix courants**. Or, si le salaire réel reste constant, la généralisation d'une technique de ce type **fait monter** le taux de profit d'équilibre au lieu de le faire baisser. La mécanisation ne peut donc pas être, à elle seule, la cause de la baisse.\n\nLes réponses sérieuses portent sur les **hypothèses**, jamais sur la conclusion — le théorème est juste :\n\n- le salaire réel n'est pas constant : il monte avec la productivité ;\n- le **capital fixe** déjà installé ne se réévalue pas instantanément à la nouvelle norme ;\n- surtout, Okishio compare deux **équilibres**, alors que le processus est **temporel** — c'est l'axe de l'interprétation temporelle et à système unique.\n\n→ Objection que sort tout interlocuteur formé en économie. « Okishio suppose l'équilibre et un salaire réel figé » suffit à tenir la position ; l'ignorer coûte le débat."
+  "verso": "**Okishio Nobuo, 1961.** Un capitaliste n'adopte une technique que si elle réduit ses coûts **aux prix courants**. Or, si le salaire réel reste constant, la généralisation d'une technique de ce type **fait monter** le taux de profit d'équilibre au lieu de le faire baisser. La mécanisation ne peut donc pas être, à elle seule, la cause de la baisse.\n\nLes réponses sérieuses portent sur les **hypothèses**, jamais sur la conclusion — le théorème est juste :\n\n- le salaire réel n'est pas constant : il monte avec la productivité ;\n- le **capital fixe** déjà installé ne se réévalue pas instantanément à la nouvelle norme ;\n- surtout, Okishio compare deux **équilibres**, alors que le processus est **temporel** — c'est l'axe de l'interprétation temporelle et à système unique.\n\n→ Objection que sort tout interlocuteur formé en économie, et une phrase suffit à tenir la position : **« Okishio suppose l'équilibre et un salaire réel figé »**."
  },
  {
   "id": "la-baisse-est-elle-constatee-dans-les-donnees",
@@ -1181,7 +1181,7 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "Quel est le point faible le plus sérieux de l'édifice de Marx — et pourquoi vaut-il mieux le connaître avant qu'on te l'oppose ?",
-  "verso": "Le passage des **valeurs** aux **prix de production**.\n\nAu livre I, les marchandises s'échangent à leur valeur. Au livre III, la concurrence égalise le taux de profit entre branches, ce qui fait dévier les prix des valeurs **systématiquement**, et non par accident. Marx propose une procédure de conversion — et **Bortkiewicz montre en 1906-1907 qu'elle est incohérente** : Marx transforme les prix des produits sans transformer ceux des intrants, qui restent exprimés en valeurs.\n\nUn siècle de réponses (Sraffa et les néo-ricardiens, l'interprétation temporelle et à système unique) n'a produit **aucune solution faisant consensus**.\n\n→ Reconnaître le problème coûte peu et rapporte beaucoup ; le nier fait perdre tout le reste. Même logique que pour [[aaa-la-nuance-qui-rend-l-argument-solide|l'AAA de 1933]] ou pour [[la-penurie-organisee-est-elle-un-concept-de-marx|« la pénurie organisée »]] : la nuance concédée est ce qui rend le fond crédible."
+  "verso": "Le passage des **valeurs** aux **prix de production**.\n\nAu livre I, les marchandises s'échangent à leur valeur. Au livre III, la concurrence égalise le taux de profit entre branches, ce qui fait dévier les prix des valeurs **systématiquement**, et non par accident. Marx propose une procédure de conversion — et **Bortkiewicz montre en 1906-1907 qu'elle est incohérente** : Marx transforme les prix des produits sans transformer ceux des intrants, qui restent exprimés en valeurs.\n\nUn siècle de réponses (Sraffa et les néo-ricardiens, l'interprétation temporelle et à système unique) n'a produit **aucune solution faisant consensus**.\n\n→ Ce que le problème atteint exactement : la **quantification**, pas le mécanisme. Que la survaleur naisse du travail vivant ne dépend pas d'une procédure de conversion — l'exploitation reste démontrable sans que les totaux se recollent. C'est là qu'il faut replier la position, pas ailleurs."
  },
  {
   "id": "les-confus",
@@ -1231,22 +1231,5 @@ window.CARDS = [
   "source": "",
   "recto": "« La moïsation — acculer les *rouges-bruns* à choisir un camp — c'est une stratégie de LFI pour forcer les gens à se ranger. » Que répondre, et sur quel mécanisme s'appuyer ?",
   "verso": "Selon Padu, non : ce n'est pas une stratégie délibérée mais **« le mouvement réel »**.\n\nLe mécanisme est l'**érosion structurelle du bloc central macroniste** : quand le centre se vide, le paysage se polarise *mécaniquement* et l'entre-deux devient intenable. La moïsation **nomme un effet de structure**, elle ne le produit pas.\n\n→ Réponse typiquement [[le-critere-du-clivage-materialisme-idealisme|matérialiste]] : on renvoie l'explication aux conditions (recomposition du champ politique) plutôt qu'à l'intention d'un acteur."
- },
- {
-  "id": "la-penurie-chez-la-paduteam",
-  "file": "vocabulaire-paduteam.md",
-  "title": "« La pénurie » chez la PaduTeam",
-  "type": "piege",
-  "tags": [
-   "auteur:padu",
-   "marxisme",
-   "niveau:2-intermédiaire",
-   "politique",
-   "rhétorique",
-   "source:débat-rn-confus"
-  ],
-  "source": "",
-  "recto": "Existe-t-il, dans le vocabulaire de la PaduTeam, un néologisme dédié à « la pénurie » ? Sinon, sur quoi s'appuient-ils ?",
-  "verso": "**Non** — rien de dédié n'a été trouvé.\n\nCe qu'ils mobilisent, c'est le **cadre marxiste classique** (voir [[la-penurie-organisee-est-elle-un-concept-de-marx|les trois mécanismes chez Marx]]) : la rareté comme *base matérielle* des divisions sociales.\n\n→ Ne pas leur attribuer un concept qu'ils n'ont pas forgé : c'est le genre d'erreur qui coûte le crédit de tout le reste."
  }
 ];
