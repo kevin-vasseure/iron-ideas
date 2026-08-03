@@ -195,23 +195,41 @@ window.CARDS = [
   "verso": "Plus le salarié a à perdre en cas de licenciement, **moins il faut le contraindre au travail**.\n\nLa discipline est donc **externalisée** : au lieu de dispositifs coercitifs coûteux *dans* l'entreprise (contremaîtres, sanctions, surveillance), on laisse la peur du dehors faire le travail.\n\n→ L'affaiblissement de la protection sociale n'est pas seulement une économie budgétaire : c'est un **instrument de gouvernement du travail**."
  },
  {
-  "id": "chomage-delibere-volcker-pas-nixon",
+  "id": "le-choc-volcker-le-chomage-comme-instrument",
   "file": "chamayou-societe-ingouvernable.md",
-  "title": "Chômage délibéré : Volcker, pas Nixon",
-  "type": "piege",
+  "title": "Le choc Volcker : le chômage comme instrument",
+  "type": "argument",
   "tags": [
    "auteur:chamayou",
    "économie",
    "histoire",
    "niveau:2-intermédiaire",
    "politique",
+   "sociologie",
+   "source:débat-rn-confus"
+  ],
+  "source": "",
+  "recto": "Comment un chômage de masse a-t-il été délibérément produit aux États-Unis au tournant des années 1980 — par quel dispositif technique, et avec quels résultats chiffrés ?",
+  "verso": "**Le contexte.** Inflation autour de 13-14 %. Paul Volcker est nommé à la tête de la Fed par **Carter** en août 1979, maintenu sous **Reagan**.\n\n**Le dispositif — l'astuce est institutionnelle.** Le **6 octobre 1979**, à l'issue d'une réunion extraordinaire un samedi soir (le « *Saturday Night Special* »), la Fed change de **cible opérationnelle** : elle cesse de piloter le taux directeur au jour le jour et se met à piloter le **volume des réserves bancaires**.\n\nLe changement paraît technique ; il est politique. Les taux d'intérêt deviennent une **conséquence** et non plus une **décision**. La Fed peut les laisser monter à des niveaux qu'aucune institution n'aurait pu assumer publiquement, tout en répondant qu'elle se borne à tenir un agrégat monétaire. Le monétarisme sert ici de **paravent** — il sera d'ailleurs discrètement abandonné dès 1982, une fois le travail fait.\n\n**Les résultats.**\n\n- Taux des fonds fédéraux poussé jusqu'à **19-20 %** en 1981 ; taux de base bancaire à **21,5 %** fin 1980.\n- Chômage : **5,9 %** à l'arrivée de Volcker, **10,8 %** en novembre-décembre 1982 — le plus haut niveau depuis la Grande Dépression, et jamais atteint à nouveau avant 2020.\n- Inflation cassée : environ **13,5 % en 1980 → 3,2 % en 1983**.\n\n→ La récession n'est pas un raté de la politique : elle **est** la politique. Le canal par lequel un taux d'intérêt agit sur les prix passe par l'effondrement de l'activité, donc de l'emploi — [[l-insecurite-sociale-le-mecanisme|l'insécurité sociale]] produite par la voie monétaire. Personne à la Fed ne l'ignorait."
+ },
+ {
+  "id": "volcker-casser-l-inflation-ou-casser-les-salaires",
+  "file": "chamayou-societe-ingouvernable.md",
+  "title": "Volcker : casser l'inflation, ou casser les salaires ?",
+  "type": "piege",
+  "tags": [
+   "auteur:chamayou",
+   "économie",
+   "histoire",
+   "niveau:3-avancé",
+   "politique",
    "rhétorique",
    "sociologie",
    "source:débat-rn-confus"
   ],
   "source": "",
-  "recto": "Pour illustrer un chômage de masse délibérément provoqué par la politique monétaire : quel épisode, quelles dates, sous quels présidents — et qu'avait fait Nixon en 1971, qu'on lui attribue à tort ?",
-  "verso": "Le **choc Volcker (1979-1982)** — Paul Volcker à la Fed, nommé sous **Carter**, poursuivi sous **Reagan** : taux d'intérêt portés à des niveaux extrêmes, récession et chômage de masse assumés — [[l-insecurite-sociale-le-mecanisme|l'insécurité sociale]] par la voie monétaire pour casser l'inflation *et* le pouvoir de négociation salariale.\n\n**Pas Nixon** : lui avait fait l'inverse en 1971 — **contrôle des prix et des salaires** (plus la fin de la convertibilité en or).\n\n→ Erreur de date classique, et c'est le genre de faute qui fait perdre une argumentation par ailleurs juste."
+  "recto": "Le chômage de 1982 était-il l'objectif poursuivi ou un coût accepté ? Que peut-on affirmer sans se faire démonter ?",
+  "verso": "**Ce qui est documenté.** Le canal salarial était explicite, pas dissimulé. Volcker suivait de près les accords salariaux syndicaux et déclarait dès octobre 1979 que **« le niveau de vie de l'Américain moyen doit baisser — je ne pense pas qu'on puisse y échapper »**. Casser une spirale prix-salaires *suppose* de retirer aux salariés le pouvoir d'indexer leurs salaires, ce qui *suppose* du chômage. Le mécanisme était théorisé, pas découvert après coup.\n\n**La pièce la plus parlante.** Volcker a déclaré plus tard que l'action la plus importante de l'administration Reagan dans la lutte contre l'inflation avait été de **briser la grève des contrôleurs aériens** — les 11 345 grévistes de PATCO licenciés en août 1981. Un président de banque centrale qui désigne une défaite syndicale comme sa meilleure arme antiinflationniste dit quelque chose du mécanisme qu'il actionne.\n\n**Ce qui reste discuté.** Fin ou moyen : la désinflation est l'objectif affiché, et il a été atteint. Que la discipline salariale ait été le but ou l'instrument ne se tranche pas par des citations. Une partie de la littérature attribue d'ailleurs une part du succès à des facteurs extérieurs — contre-choc pétrolier de 1986, expansion budgétaire reaganienne.\n\nEt le mécanisme a été **institutionnalisé** depuis : le NAIRU, ce taux de chômage en dessous duquel l'inflation est censée s'accélérer, inscrit dans les modèles de banque centrale l'idée qu'un certain volume de chômage est nécessaire au bon fonctionnement du système. C'est [[l-armee-industrielle-de-reserve|l'armée industrielle de réserve]] énoncée en langage de politique monétaire.\n\n→ La formulation qui tient : **« le chômage n'était pas un effet secondaire imprévu, c'était le canal de transmission, connu et assumé »**. C'est plus modeste que « ils voulaient du chômage » — et c'est à peu près incontestable."
  },
  {
   "id": "democratie-populaire-integrale-le-concept-officiel",
