@@ -150,7 +150,7 @@ Sur ceux que l'État chinois publie lui-même. La formule officielle **« 56789 
 - l'un des plus grands contingents de milliardaires au monde ;
 - le **hukou**, qui institue une main-d'œuvre juridiquement stratifiée : **299,7 millions** de travailleurs migrants ruraux en 2024, salaire moyen ~4 961 yuans/mois, accès dégradé à l'école et à la santé hors de leur canton d'origine.
 
-→ La critique la plus solide de la Chine ne vient pas de la droite américaine mais de **la gauche** : un État-parti qui préside à une économie de marché très inégalitaire, où le travail est segmenté par un statut administratif hérité à la naissance. C'est un argument que tu peux tenir sans emprunter un mot au Département d'État.
+→ La critique la plus solide de la Chine ne vient pas de la droite américaine mais de **la gauche** : au [[Le critère décisif : la généralisation du salariat|critère décisif du salariat généralisé]], on a affaire à un État-parti qui préside à une économie de marché très inégalitaire, où le travail est segmenté par un statut administratif hérité à la naissance. C'est un argument que tu peux tenir sans emprunter un mot au Département d'État.
 
 
 ## Le Xinjiang : ce qui est établi, ce qui est contesté
@@ -230,7 +230,7 @@ Trois règles pour tenir une position nuancée sur la Chine sans basculer ni dan
 ---
 
 1. **Traite les sources avec la même rigueur des deux côtés.** Les statistiques officielles chinoises sont lissées — Chen, Chen, Hsieh et Song (*Brookings Papers*, 2019) estiment la croissance surévaluée d'environ 1,7 point par an entre 2008 et 2016 ; Li Keqiang lui-même disait suivre l'électricité, le fret ferroviaire et le crédit plutôt que le PIB. Et symétriquement, l'ASPI, très citée sur le Xinjiang, est financée notamment par des gouvernements et des industriels de la défense. **Le doute méthodique ne se dirige pas selon les sympathies.**
-2. **N'utilise la comparaison que pour tester un critère, jamais pour établir un fait.** « Et les prisons américaines ? » ne dit rien du Xinjiang ; ça teste seulement si ton interlocuteur applique son critère uniformément. Utile pour désarmer une indignation sélective, nul comme preuve — c'est le **test de symétrie**, pas un *tu quoque*.
+2. **N'utilise la comparaison que pour tester un critère, jamais pour établir un fait.** « Et les prisons américaines ? » ne dit rien du Xinjiang ; ça teste seulement si ton interlocuteur applique son critère uniformément. Utile pour désarmer une indignation sélective, nul comme preuve — c'est le [[Le test de symétrie|test de symétrie]], pas un *tu quoque*.
 3. **Sépare toujours trois questions** qu'on mélange en permanence : le **bilan matériel** (spectaculaire), la **nature du régime** (parti unique non révocable), et la **menace géopolitique** (question distincte des deux premières). La plupart des débats s'enlisent parce qu'un argument répondant à l'une est opposé à l'autre.
 
 → Le fond de l'affaire : on peut tenir en même temps que la Chine a réalisé la plus grande sortie de pauvreté de l'histoire et qu'elle n'est pas une démocratie. Refuser l'un des deux termes, c'est le réflexe de camp — et c'est ce qui se voit le plus vite en débat.

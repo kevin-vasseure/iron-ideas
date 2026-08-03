@@ -123,7 +123,7 @@ Pourquoi un capitaliste adopte-t-il une technique qui, une fois généralisée, 
 
 Parce que **le premier gagne, et que son gain disparaît quand les autres suivent**.
 
-Celui qui innove produit **en dessous du temps de travail socialement nécessaire** tout en vendant au prix social en vigueur. L'écart lui revient : c'est un **surprofit**, une rente technologique temporaire.
+Celui qui innove produit **en dessous du [[Le temps de travail socialement nécessaire|temps de travail socialement nécessaire]]** tout en vendant au prix social en vigueur. L'écart lui revient : c'est un **surprofit**, une rente technologique temporaire.
 
 Puis la technique se diffuse. Le temps socialement nécessaire s'aligne sur la nouvelle norme, la valeur unitaire tombe, le surprofit s'évapore. Ne reste que ce qui ne s'évapore pas : une **composition organique plus élevée** dans toute la branche, pour tout le monde.
 
@@ -157,13 +157,13 @@ Qu'est-ce que la théorie de la valeur prédit pour le prix des logiciels quand 
 
 ---
 
-La valeur d'une marchandise est le temps de travail socialement nécessaire à sa production. Le logiciel a déjà un coût de **reproduction** quasi nul : ce qui soutenait son prix, c'est le travail de sa **production initiale**, plus une barrière juridique.
+La [[Valeur, prix de production, prix de marché|valeur]] d'une marchandise est le temps de travail socialement nécessaire à sa production. Le logiciel a déjà un coût de **reproduction** quasi nul : ce qui soutenait son prix, c'est le travail de sa **production initiale**, plus une barrière juridique.
 
 Si l'IA divise par trois, par cinq, par dix le temps nécessaire pour produire un logiciel donné, la **norme sociale se déplace d'autant** et la valeur unitaire suit — mécaniquement, sans qu'aucune décision ne soit prise nulle part. Ce qui coûtait six mois d'équipe et se facturait en conséquence devient un week-end, et se facturera en conséquence.
 
 Et l'effet est **circulaire** : le logiciel est aussi un moyen de production pour toutes les autres branches. Son effondrement de prix, c'est du **capital constant devenu bon marché** — la plus puissante des contre-tendances du ch. 14. L'IA pousse donc le taux de profit dans les deux sens à la fois : elle gonfle `c` chez ceux qui l'achètent, et elle dégonfle la valeur de tout ce que `c` contient.
 
-→ Ne dis pas « les logiciels ne vaudront plus rien », dis « **le travail contenu dans un logiciel** ne vaudra plus grand-chose ». Ce qui restera au prix est d'une autre nature — voir « Ce qui restera : la rente, pas la valeur ».
+→ Ne dis pas « les logiciels ne vaudront plus rien », dis « **le travail contenu dans un logiciel** ne vaudra plus grand-chose ». Ce qui restera au prix est d'une autre nature : [[Un prix sans valeur|un prix sans valeur]], adossé à [[Ce qui restera : la rente, pas la valeur|la rente]].
 
 
 ## Ce qui restera : la rente, pas la valeur
@@ -193,7 +193,7 @@ Par quels mécanismes distincts le cadre marxien prédit-il une pression à la b
 Trois, qu'il vaut mieux ne pas mélanger :
 
 1. **Travail complexe ramené vers le travail simple.** Un salaire élevé rémunère un travail qui compte pour un **multiple** du travail simple : formation longue, compétence rare. Codifier le savoir-faire dans l'outil — la séparation de la conception et de l'exécution décrite par Braverman (*Travail et capital monopoliste*, 1974) — fait tomber ce multiplicateur, quel que soit le côté de la ligne où l'outil s'installe.
-2. **Armée industrielle de réserve.** À production donnée, il en faut moins ; la population disponible enfle, et c'est elle qui discipline les salaires — y compris ceux des gens en poste, qui n'ont rien demandé.
+2. **[[L'armée industrielle de réserve|Armée industrielle de réserve]].** À production donnée, il en faut moins ; la population disponible enfle, et c'est elle qui discipline les salaires — y compris ceux des gens en poste, qui n'ont rien demandé.
 3. **Valeur de la force de travail.** Elle est réglée par le coût de reproduction, historiquement et socialement déterminé. Une rareté qui disparaît fait tomber la **prime**, pas le coût de subsistance : le plancher tient, le sommet s'affaisse.
 
 → Le plus rapide est le deuxième, et de loin : il n'exige aucun licenciement, seulement l'arrêt des embauches et la fin du pouvoir de négociation. **Les salaires n'ont pas besoin de baisser pour que le rapport de force ait déjà changé — il suffit qu'ils cessent de monter.**
@@ -226,7 +226,7 @@ Poussons à la limite : une branche entièrement automatisée, sans un seul sala
 
 Il ne peut pas y être **produit**. Sans travail vivant, pas de survaleur : le profit d'une telle branche ne peut être qu'un **transfert** — une part de la survaleur produite ailleurs, captée par les prix, par la rente ou par la position de monopole.
 
-C'est très exactement la contradiction du **fragment sur les machines** : le capital « fait appel à toutes les puissances de la science » pour réduire le temps de travail, tout en continuant à mesurer la richesse en temps de travail. Il scie la branche sur laquelle il est assis — et il ne peut pas s'en empêcher, puisque celui qui n'automatise pas perd.
+C'est très exactement la contradiction du [[Le fragment sur les machines|fragment sur les machines]] : le capital « fait appel à toutes les puissances de la science » pour réduire le temps de travail, tout en continuant à mesurer la richesse en temps de travail. Il scie la branche sur laquelle il est assis — et il ne peut pas s'en empêcher, puisque celui qui n'automatise pas perd.
 
 Deux lectures, et il faut choisir en connaissance de cause :
 

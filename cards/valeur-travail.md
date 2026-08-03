@@ -65,7 +65,7 @@ Parce que les capitaux n'ont ni la même **composition** (part des machines cont
 
 Ricardo le sait et le concède. Il cherchera jusqu'à sa mort (1823) un **« étalon invariable de la valeur »** qu'il ne trouvera jamais. Stigler a résumé le résultat d'une formule restée célèbre : une « théorie de la valeur travail **à 93 %** » — le travail explique l'essentiel des prix relatifs, pas leur totalité.
 
-→ C'est ce trou précis que Marx tentera de combler au livre III avec les prix de production. Et c'est là que la controverse rebondira (fiche « Le problème de la transformation »).
+→ C'est ce trou précis que Marx tentera de combler au livre III avec les prix de production. Et c'est là que la controverse rebondira — voir [[Le problème de la transformation|le problème de la transformation]].
 
 
 ## Marx : le déplacement décisif
@@ -120,11 +120,11 @@ On emploie « valeur » et « prix » comme des synonymes. Combien de niveaux di
 
 Trois étages, à ne jamais écraser l'un sur l'autre :
 
-1. **La valeur** — le temps de travail socialement nécessaire. Grandeur **sociale et non observable** : elle ne se lit sur aucune étiquette, elle ne se mesure pas marchandise par marchandise. C'est le livre I.
+1. **La valeur** — le [[Le temps de travail socialement nécessaire|temps de travail socialement nécessaire]]. Grandeur **sociale et non observable** : elle ne se lit sur aucune étiquette, elle ne se mesure pas marchandise par marchandise. C'est le livre I.
 2. **Le prix de production** — le coût plus le **profit moyen**. La concurrence des capitaux égalise le taux de profit entre branches, ce qui écarte les prix des valeurs **systématiquement** : au-dessus dans les branches très mécanisées, en dessous dans celles à forte main-d'œuvre. C'est le livre III.
 3. **Le prix de marché** — ce qui se paie effectivement tel jour. Il **oscille** autour du prix de production, au gré de l'offre, de la demande, de la spéculation, de la fiscalité, du monopole.
 
-Marx pose que les **totaux** coïncident à l'échelle du système — somme des valeurs = somme des prix, survaleur totale = profit total. C'est précisément ce que le problème de la transformation met en cause.
+Marx pose que les **totaux** coïncident à l'échelle du système — somme des valeurs = somme des prix, survaleur totale = profit total. C'est précisément ce que met en cause [[Le problème de la transformation|le problème de la transformation]].
 
 → La quasi-totalité des objections à la valeur travail visent l'étage 3 en croyant viser l'étage 1. « Ce tableau s'est vendu 40 millions » ne réfute rien : c'est un prix de marché, et personne n'a prétendu qu'il mesurait un temps de travail.
 
@@ -160,7 +160,7 @@ Le prix est la **forme monétaire** de la valeur, et une forme peut être rempli
 
 Ce que ça débloque : tout ce qui se paie sans être produit — **rente foncière, brevet, marque, quota d'émission, position de monopole, données exclusives**. Ces prix ne mesurent aucun travail : ils mesurent un **droit d'exclure**.
 
-→ C'est la clé de la fiche « Ce qui restera : la rente, pas la valeur ». Quand le travail contenu dans un logiciel tombe à presque rien, ce qui subsiste au prix n'est pas de la valeur mal mesurée : c'est un prix **sans** valeur, adossé au droit d'auteur et au verrouillage.
+→ C'est la clé de [[Ce qui restera : la rente, pas la valeur|ce qui restera au prix du logiciel]]. Quand le travail contenu dans un logiciel tombe à presque rien, ce qui subsiste au prix n'est pas de la valeur mal mesurée : c'est un prix **sans** valeur, adossé au droit d'auteur et au verrouillage.
 
 
 ## La valeur n'est pas le « juste prix »
@@ -212,4 +212,4 @@ Au livre I, les marchandises s'échangent à leur valeur. Au livre III, la concu
 
 Un siècle de réponses (Sraffa et les néo-ricardiens, l'interprétation temporelle et à système unique) n'a produit **aucune solution faisant consensus**.
 
-→ Reconnaître le problème coûte peu et rapporte beaucoup ; le nier fait perdre tout le reste. Même logique que pour l'AAA de 1933 ou pour « la pénurie organisée » : la nuance concédée est ce qui rend le fond crédible.
+→ Reconnaître le problème coûte peu et rapporte beaucoup ; le nier fait perdre tout le reste. Même logique que pour [[AAA : la nuance qui rend l'argument solide|l'AAA de 1933]] ou pour [[« La pénurie organisée » est-elle un concept de Marx ?|« la pénurie organisée »]] : la nuance concédée est ce qui rend le fond crédible.

@@ -54,7 +54,7 @@ Appliquer **la même grille de lecture** à l'autre camp :
 
 L'inférence est **structurellement identique** — même forme, même absence de preuve directe du mobile, même corrélation position / bénéfice de pouvoir tenue pour causale.
 
-Et le miroir est ici **plus facile à documenter** que l'original : la propriété des médias et les circuits de financement politique sont des faits publics, là où « le vote musulman » suppose un bloc électoral qui n'est même pas mesurable (voir la fiche sur la prémisse factuelle).
+Et le miroir est ici **plus facile à documenter** que l'original : la propriété des médias et les circuits de financement politique sont des faits publics, là où « le vote musulman » suppose un bloc électoral qui n'est même pas mesurable — voir [[« Le vote musulman » : la prémisse factuelle|la prémisse factuelle]].
 
 → Le but n'est pas de gagner l'échange de soupçons : c'est de rendre **le procédé lui-même** intenable pour les deux camps.
 
