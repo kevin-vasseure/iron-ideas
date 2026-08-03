@@ -110,6 +110,57 @@ C'est ce qui rend le pouvoir capitaliste économe en moyens : il n'a besoin ni d
 → La formule à retenir : le capitalisme est le premier mode de production où l'on **extrait un surplus sans commander à personne**. Et c'est pour ça qu'il est le premier à pouvoir se présenter comme un régime de liberté sans mentir sur le plan juridique.
 
 
+## L'accumulation primitive
+type: concept
+tags: auteur:marx, économie, niveau:2-intermédiaire
+
+D'où viennent, au départ, les deux termes du rapport capitaliste — une masse de gens sans moyens de production et une masse d'argent disponible ? Où Marx traite-t-il la question, et contre quel récit ?
+
+---
+
+*Le Capital*, livre I, **section VIII** (ch. 26 à 33).
+
+**Contre le récit de l'épargne.** Chez Smith, une « accumulation préalable » explique tout : certains ont travaillé et économisé, d'autres ont dilapidé, d'où la séparation initiale. Marx traite ce récit de conte pour enfants — une **théologie du péché originel** transposée en économie.
+
+**Ce qui s'est passé à la place.** Une expropriation, et elle est documentée : enclosures des terres communes, dissolution des suites féodales, confiscation des biens d'Église, législation sanglante contre le vagabondage qui criminalise ceux qu'on vient de chasser. À quoi s'ajoutent, au ch. 31, le système colonial, la traite, la dette publique et le protectionnisme. L'histoire de cette expropriation est « écrite dans les annales de l'humanité en lettres de sang et de feu ».
+
+→ Le point n'est pas moral, il est logique : la [[Le critère décisif : la généralisation du salariat|séparation des producteurs d'avec leurs moyens de production]] ne peut pas être le produit du marché, puisqu'elle en est la **condition**. Il a fallu la produire par la contrainte — le marché ne pouvait pas s'engendrer lui-même.
+
+
+## Les trois issues du XIVᵉ siècle
+type: argument
+tags: auteur:brenner, histoire, niveau:3-avancé
+
+Un même choc démographique, trois trajectoires opposées. Lesquelles — et qu'est-ce que cette divergence réfute ?
+
+---
+
+Après la peste noire, l'Europe perd entre un tiers et la moitié de sa population. Le rapport de force devrait basculer partout dans le même sens — la main-d'œuvre devient rare. Or les issues divergent :
+
+- **Angleterre** : le servage se dissout, mais les paysans perdent la propriété. Il en sort une structure triangulaire propriétaire / fermier capitaliste / ouvrier agricole, et le capitalisme agraire.
+- **France** : les paysans arrachent la sécurité de leur tenure. La petite propriété se consolide, et le surplus est capté par un **État absolutiste fiscal**, par l'impôt et la vénalité des offices.
+- **À l'est de l'Elbe** : loin de se dissoudre, le servage est **réimposé** — le « second servage », plus dur que le premier.
+
+**Ce que ça réfute.** Les modèles qui font dépendre l'issue d'une cause unique et extérieure : la démographie, ou l'extension du commerce. La même cause ne peut pas produire trois effets contraires. Ce qui varie d'un cas à l'autre, ce sont les **rapports de propriété** et l'issue des luttes qui les fixent.
+
+→ D'où l'inversion de Brenner par rapport à la lecture canonique de la [[Forces productives contre rapports de production|contradiction forces / rapports]] : ce sont les rapports de propriété qui commandent le développement des forces productives, et non l'inverse.
+
+
+## « Le commerce a dissous le féodalisme »
+type: piège
+tags: histoire, rhétorique, niveau:2-intermédiaire
+
+Le développement des échanges suffit-il à faire tomber un mode de production ? Deux contre-exemples qui règlent la question.
+
+---
+
+**L'Italie du Nord.** Florence, Venise, Gênes : les économies les plus commercialisées d'Europe, avec banque, manufacture textile, comptabilité en partie double, réseaux marchands intercontinentaux. Aucune transition au capitalisme n'en sort. Le commerce y a produit de la richesse marchande, pas un nouveau mode de production.
+
+**Le marché céréalier de la Baltique.** Au XVIᵉ siècle, la demande des villes occidentales en blé enrichit les seigneuries à l'est de l'Elbe. Résultat : les seigneurs **renforcent** le servage pour produire plus. Le même marché qui accompagne le salariat à l'ouest consolide le travail forcé à l'est.
+
+→ Le commerce n'est pas dissolvant en soi : il **amplifie le rapport de production existant** au lieu de le remplacer. Un seigneur qui veut vendre davantage n'invente pas le salariat, il alourdit la corvée. C'est le versant historique de la [[Le marxisme politique : la dépendance au marché|dépendance au marché]] : il faut être *contraint* de vendre pour subsister, pas simplement pouvoir vendre.
+
+
 ## Le marxisme politique : la dépendance au marché
 type: argument
 tags: auteur:brenner, auteur:wood, histoire, niveau:3-avancé

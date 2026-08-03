@@ -495,6 +495,83 @@ window.CARDS = [
   "verso": "Dans le **Manifeste du parti communiste** (1848) : les crises se résolvent par la **« destruction forcée d'une masse de forces productives »**. Voir [[agricultural-adjustment-act-1933-les-chiffres|les chiffres de l'AAA]].\n\nAutrement dit, la destruction de valeur *est* le mode de sortie de crise du système — pas un accident de parcours.\n\n→ 1933 n'illustre pas une anomalie, il illustre le mécanisme."
  },
  {
+  "id": "les-trois-registres-de-la-critique-marxienne",
+  "file": "critiques-du-capitalisme.md",
+  "title": "Les trois registres de la critique marxienne",
+  "type": "concept",
+  "tags": [
+   "auteur:marx",
+   "marxisme",
+   "niveau:2-intermédiaire",
+   "philosophie",
+   "rhétorique"
+  ],
+  "source": "",
+  "recto": "Sur combien de plans distincts la critique du capitalisme opère-t-elle chez Marx — et qu'est-ce qu'aucun des trois n'est ?",
+  "verso": "Trois registres, qu'il vaut mieux ne pas mélanger parce qu'on ne les défend pas de la même manière :\n\n1. **L'exploitation** — le salarié est payé à la valeur de sa force de travail, échange parfaitement équitable, mais [[marx-le-deplacement-decisif|l'usage de cette force produit plus qu'elle ne coûte]]. Registre *structurel*.\n2. **L'aliénation et le fétichisme** — [[l-alienation-les-quatre-dimensions|dépossession du produit, du processus, de l'activité et des autres]], et [[le-fetichisme-de-la-marchandise|des rapports entre personnes qui prennent la forme de rapports entre choses]]. Registre *phénoménologique*.\n3. **Les contradictions dynamiques** — concentration du capital, [[crises-de-surproduction-le-paradoxe|crises de surproduction]], [[le-taux-de-profit-la-formule|baisse tendancielle du taux de profit]], [[l-armee-industrielle-de-reserve|armée industrielle de réserve]]. Registre *tendanciel*, où la critique et le simple constat se confondent.\n\n**Ce qu'aucun des trois n'est : une dénonciation morale.** Il n'y a chez Marx ni escroc, ni méchant, ni règle violée. Tout se passe conformément aux règles — c'est ce qui fait la force de l'analyse et [[la-valeur-n-est-pas-le-juste-prix|ce qui interdit de la lire comme un cri d'indignation]].\n\n→ En débat, sache lequel des trois tu utilises. On répond à l'exploitation par des chiffres, à l'aliénation par de l'expérience vécue, aux contradictions par de l'histoire économique. Les mélanger, c'est se retrouver à défendre trois choses à la fois sans en établir une seule."
+ },
+ {
+  "id": "l-alienation-les-quatre-dimensions",
+  "file": "critiques-du-capitalisme.md",
+  "title": "L'aliénation : les quatre dimensions",
+  "type": "concept",
+  "tags": [
+   "auteur:marx",
+   "marxisme",
+   "niveau:2-intermédiaire",
+   "philosophie"
+  ],
+  "source": "",
+  "recto": "Dans quel texte Marx développe-t-il l'aliénation du travail, et de quoi le travailleur est-il séparé — en combien de sens distincts ?",
+  "verso": "Les **Manuscrits économico-philosophiques de 1844**, texte de jeunesse resté inédit jusqu'en 1932. Quatre séparations emboîtées :\n\n1. **Du produit** — l'objet fabriqué lui échappe, devient propriété d'un autre, et lui revient comme une puissance étrangère qui le domine. Plus il produit, plus le monde des objets qui lui font face est puissant.\n2. **De l'acte de production** — le travail n'est pas l'expression de ce qu'il est mais un moyen de subsister. Il ne s'y sent lui-même que hors du travail, et hors de lui-même dans le travail.\n3. **De son être générique** (*Gattungswesen*) — ce qui distingue l'humain, produire librement et universellement, au-delà du besoin immédiat, devient un simple moyen de survie individuelle.\n4. **Des autres** — chacun devient à l'autre un concurrent ou un moyen, et le rapport social se vit comme une extériorité hostile.\n\n→ Registre différent de celui de l'exploitation, et à ne pas y ramener : l'exploitation se mesure, l'aliénation se décrit. Un salarié bien payé peut être pleinement aliéné — c'est même le cas normal."
+ },
+ {
+  "id": "le-fetichisme-de-la-marchandise",
+  "file": "critiques-du-capitalisme.md",
+  "title": "Le fétichisme de la marchandise",
+  "type": "concept",
+  "tags": [
+   "auteur:marx",
+   "marxisme",
+   "niveau:3-avancé",
+   "philosophie",
+   "sociologie"
+  ],
+  "source": "",
+  "recto": "Qu'est-ce que Marx appelle exactement « fétichisme », où — et pourquoi ce n'est pas une illusion qu'on pourrait dissiper par l'explication ?",
+  "verso": "*Le Capital*, livre I, **ch. 1 § 4**. Dans une société de producteurs privés, les rapports entre les personnes n'apparaissent pas comme tels : ils **prennent la forme d'un rapport entre les choses**. On dit que l'or *est* précieux, que l'action *rapporte*, que le marché *veut* — comme si des propriétés sociales étaient des propriétés physiques des objets.\n\n**Pourquoi ce n'est pas une erreur de perception.** L'apparence est **exacte** au niveau où elle se produit. Les producteurs ne se coordonnent effectivement pas entre eux : [[le-travail-n-est-valide-qu-apres-coup|ils ne se rencontrent qu'à travers leurs produits]], sur le marché, après coup. Ce sont donc réellement les choses qui règlent leurs rapports. L'apparence est produite par la structure, pas par l'ignorance.\n\n**Conséquence.** Le système se présente comme une **nature** — avec ses lois, ses fatalités, son « on ne peut rien contre les marchés ». Une histoire particulière prend l'allure d'un ordre physique.\n\n→ D'où l'échec de la pédagogie seule, exactement comme chez [[ideologie-chez-althusser-vecue-materiellement|Althusser]] : expliquer à quelqu'un que le prix n'est pas une propriété de l'objet ne change rien au fait qu'il continuera de se comporter, chaque jour, dans un monde où il l'est."
+ },
+ {
+  "id": "la-rupture-metabolique",
+  "file": "critiques-du-capitalisme.md",
+  "title": "La rupture métabolique",
+  "type": "concept",
+  "tags": [
+   "auteur:marx",
+   "écologie",
+   "marxisme",
+   "niveau:3-avancé"
+  ],
+  "source": "",
+  "recto": "Que dit Marx du rapport à la nature, sous quel nom, et pourquoi ce point marginal est-il devenu central ?",
+  "verso": "Le **métabolisme** (*Stoffwechsel*) entre l'homme et la terre, et sa **rupture**. Passages dispersés — livre I ch. 15, livre III ch. 47 — sans jamais former une section.\n\nLe cas concret est celui de la chimie des sols de Liebig : l'agriculture capitaliste expédie vers les villes les nutriments prélevés au sol sous forme de nourriture et de fibres, et ceux-ci n'y retournent pas — ils finissent en déchets urbains. Le cycle est rompu **par la séparation ville / campagne**, non par la technique agricole en elle-même. D'où la course aux fertilisants importés, le guano péruvien pillé au XIXᵉ siècle, puis les engrais de synthèse.\n\nLa formule qui résume tout : la production capitaliste « ne développe la technique qu'en ruinant les deux sources d'où jaillit toute richesse — la terre et le travailleur ».\n\n**Pourquoi c'est devenu central.** Cette veine marginale a été reprise et systématisée par l'écomarxisme contemporain — John Bellamy Foster (*Marx's Ecology*, 2000), puis Kohei Saito — précisément parce qu'elle offre une critique écologique qui ne repose pas sur la sobriété individuelle mais sur un **rapport de production**.\n\n→ Ce qui rend le concept utile en débat : il déplace la question de « nos comportements » vers la structure qui les rend obligatoires. Le fermier qui n'épuise pas son sol perd face à celui qui l'épuise — même mécanisme que [[le-surprofit-d-innovation-le-moteur|le surprofit d'innovation]], appliqué au vivant."
+ },
+ {
+  "id": "l-etat-chez-marx-le-livre-jamais-ecrit",
+  "file": "critiques-du-capitalisme.md",
+  "title": "L'État chez Marx : le livre jamais écrit",
+  "type": "piege",
+  "tags": [
+   "auteur:marx",
+   "marxisme",
+   "niveau:3-avancé",
+   "politique"
+  ],
+  "source": "",
+  "recto": "Quelle est la théorie marxienne de l'État — et quel est le problème avec cette question ?",
+  "verso": "**Le problème, c'est qu'elle n'existe pas sous forme systématique.** Le plan en six livres que Marx s'était donné prévoyait un volume sur l'État. Il n'a jamais été écrit. Ce qui reste tient en deux registres mal raccordés :\n\n- une **formule instrumentale**, celle du *Manifeste* : le gouvernement moderne n'est qu'« un comité qui gère les affaires communes de la classe bourgeoise » ;\n- des **analyses concrètes** bien plus fines, où l'État n'obéit à personne mécaniquement — *Le 18 Brumaire* (1852), où l'exécutif s'autonomise, et *La Guerre civile en France* (1871) sur la Commune.\n\nLe désaccord a été rejoué un siècle plus tard entre **Miliband et Poulantzas** (1969-1970) : l'État comme instrument occupé par des gens de la même classe, ou comme structure dotée d'une **autonomie relative**, qui sert le capital d'autant mieux qu'elle ne lui obéit pas au doigt et à l'œil.\n\n→ Ne jamais dire « pour Marx, l'État c'est le comité de la bourgeoisie » comme si c'était sa théorie : c'est une phrase de pamphlet de 1848, contredite par ses propres analyses ultérieures. C'est le même geste que l'[[engels-et-en-derniere-instance|« en dernière instance »]] d'Engels — refuser la courroie de transmission à sens unique."
+ },
+ {
   "id": "le-critere-du-clivage-materialisme-idealisme",
   "file": "materialisme-idealisme.md",
   "title": "Le critère du clivage matérialisme / idéalisme",
@@ -619,6 +696,52 @@ window.CARDS = [
   "source": "",
   "recto": "Qu'est-ce qui distingue l'extraction du surplus sous le féodalisme et sous le capitalisme — et pourquoi cette différence rend-elle la seconde plus difficile à voir ?",
   "verso": "**Sous le féodalisme, l'extraction est visible et juridique.** Le serf produit sa propre subsistance sur sa tenure ; rien dans l'économie n'oblige à lui prendre quoi que ce soit. Le surplus ne part que parce qu'une **contrainte extra-économique** l'y force : corvée, banalités, statut personnel, justice seigneuriale, violence armée. On voit qui prend, quand, et en vertu de quel droit.\n\n**Sous le capitalisme, l'extraction est purement économique.** Le salarié est juridiquement libre et l'égal de son employeur devant la loi. Aucune corvée, aucun droit de propriété sur sa personne. Mais il est [[le-critere-decisif-la-generalisation-du-salariat|séparé des moyens de production]] — il n'a rien d'autre à vendre. La contrainte est passée du **statut** à la **situation**.\n\nC'est ce qui rend le pouvoir capitaliste économe en moyens : il n'a besoin ni de fouet ni de titre de noblesse, seulement que l'alternative soit pire. D'où l'importance de [[l-armee-industrielle-de-reserve|l'armée industrielle de réserve]] et de [[l-insecurite-sociale-le-mecanisme|l'insécurité sociale]] — ce sont les dispositifs qui entretiennent l'écart.\n\n→ La formule à retenir : le capitalisme est le premier mode de production où l'on **extrait un surplus sans commander à personne**. Et c'est pour ça qu'il est le premier à pouvoir se présenter comme un régime de liberté sans mentir sur le plan juridique."
+ },
+ {
+  "id": "l-accumulation-primitive",
+  "file": "modes-de-production.md",
+  "title": "L'accumulation primitive",
+  "type": "concept",
+  "tags": [
+   "auteur:marx",
+   "économie",
+   "histoire",
+   "marxisme",
+   "niveau:2-intermédiaire"
+  ],
+  "source": "",
+  "recto": "D'où viennent, au départ, les deux termes du rapport capitaliste — une masse de gens sans moyens de production et une masse d'argent disponible ? Où Marx traite-t-il la question, et contre quel récit ?",
+  "verso": "*Le Capital*, livre I, **section VIII** (ch. 26 à 33).\n\n**Contre le récit de l'épargne.** Chez Smith, une « accumulation préalable » explique tout : certains ont travaillé et économisé, d'autres ont dilapidé, d'où la séparation initiale. Marx traite ce récit de conte pour enfants — une **théologie du péché originel** transposée en économie.\n\n**Ce qui s'est passé à la place.** Une expropriation, et elle est documentée : enclosures des terres communes, dissolution des suites féodales, confiscation des biens d'Église, législation sanglante contre le vagabondage qui criminalise ceux qu'on vient de chasser. À quoi s'ajoutent, au ch. 31, le système colonial, la traite, la dette publique et le protectionnisme. L'histoire de cette expropriation est « écrite dans les annales de l'humanité en lettres de sang et de feu ».\n\n→ Le point n'est pas moral, il est logique : la [[le-critere-decisif-la-generalisation-du-salariat|séparation des producteurs d'avec leurs moyens de production]] ne peut pas être le produit du marché, puisqu'elle en est la **condition**. Il a fallu la produire par la contrainte — le marché ne pouvait pas s'engendrer lui-même."
+ },
+ {
+  "id": "les-trois-issues-du-xiv-siecle",
+  "file": "modes-de-production.md",
+  "title": "Les trois issues du XIVᵉ siècle",
+  "type": "argument",
+  "tags": [
+   "auteur:brenner",
+   "histoire",
+   "marxisme",
+   "niveau:3-avancé"
+  ],
+  "source": "",
+  "recto": "Un même choc démographique, trois trajectoires opposées. Lesquelles — et qu'est-ce que cette divergence réfute ?",
+  "verso": "Après la peste noire, l'Europe perd entre un tiers et la moitié de sa population. Le rapport de force devrait basculer partout dans le même sens — la main-d'œuvre devient rare. Or les issues divergent :\n\n- **Angleterre** : le servage se dissout, mais les paysans perdent la propriété. Il en sort une structure triangulaire propriétaire / fermier capitaliste / ouvrier agricole, et le capitalisme agraire.\n- **France** : les paysans arrachent la sécurité de leur tenure. La petite propriété se consolide, et le surplus est capté par un **État absolutiste fiscal**, par l'impôt et la vénalité des offices.\n- **À l'est de l'Elbe** : loin de se dissoudre, le servage est **réimposé** — le « second servage », plus dur que le premier.\n\n**Ce que ça réfute.** Les modèles qui font dépendre l'issue d'une cause unique et extérieure : la démographie, ou l'extension du commerce. La même cause ne peut pas produire trois effets contraires. Ce qui varie d'un cas à l'autre, ce sont les **rapports de propriété** et l'issue des luttes qui les fixent.\n\n→ D'où l'inversion de Brenner par rapport à la lecture canonique de la [[forces-productives-contre-rapports-de-production|contradiction forces / rapports]] : ce sont les rapports de propriété qui commandent le développement des forces productives, et non l'inverse."
+ },
+ {
+  "id": "le-commerce-a-dissous-le-feodalisme",
+  "file": "modes-de-production.md",
+  "title": "« Le commerce a dissous le féodalisme »",
+  "type": "piege",
+  "tags": [
+   "histoire",
+   "marxisme",
+   "niveau:2-intermédiaire",
+   "rhétorique"
+  ],
+  "source": "",
+  "recto": "Le développement des échanges suffit-il à faire tomber un mode de production ? Deux contre-exemples qui règlent la question.",
+  "verso": "**L'Italie du Nord.** Florence, Venise, Gênes : les économies les plus commercialisées d'Europe, avec banque, manufacture textile, comptabilité en partie double, réseaux marchands intercontinentaux. Aucune transition au capitalisme n'en sort. Le commerce y a produit de la richesse marchande, pas un nouveau mode de production.\n\n**Le marché céréalier de la Baltique.** Au XVIᵉ siècle, la demande des villes occidentales en blé enrichit les seigneuries à l'est de l'Elbe. Résultat : les seigneurs **renforcent** le servage pour produire plus. Le même marché qui accompagne le salariat à l'ouest consolide le travail forcé à l'est.\n\n→ Le commerce n'est pas dissolvant en soi : il **amplifie le rapport de production existant** au lieu de le remplacer. Un seigneur qui veut vendre davantage n'invente pas le salariat, il alourdit la corvée. C'est le versant historique de la [[le-marxisme-politique-la-dependance-au-marche|dépendance au marché]] : il faut être *contraint* de vendre pour subsister, pas simplement pouvoir vendre."
  },
  {
   "id": "le-marxisme-politique-la-dependance-au-marche",
@@ -1113,6 +1236,59 @@ window.CARDS = [
   "verso": "Refuser le plan détaillé n'est pas ne rien dire : trois éléments reviennent dans l'œuvre.\n\n1. **Abolition de la propriété privée des moyens de production** — pas des biens de consommation.\n2. **Phase de transition** : rétribution **selon la contribution en travail** — encore un principe d'équivalence, donc encore inégalitaire dans ses effets.\n3. **Communisme proprement dit** : « **de chacun selon ses capacités, à chacun selon ses besoins** » (*Critique du programme de Gotha*, 1875).\n\n→ Le fil directeur : remplacer la **régulation aveugle du marché** par une **planification consciente et collective**, orientée vers l'**usage** plutôt que l'**échange** — l'inverse de [[a-m-a-la-definition-du-capital|A-M-A']]."
  },
  {
+  "id": "le-surtravail-ne-disparait-pas",
+  "file": "valeur-capitalisme-alternative.md",
+  "title": "Le surtravail ne disparaît pas",
+  "type": "piege",
+  "tags": [
+   "auteur:marx",
+   "économie",
+   "marxisme",
+   "niveau:2-intermédiaire",
+   "philosophie",
+   "politique",
+   "source:débat-rn-confus"
+  ],
+  "source": "",
+  "recto": "« Dans votre société, plus personne ne travaille au-delà de ses besoins. » Marx dit-il ça — et qu'est-ce qui disparaît alors, exactement ?",
+  "verso": "**Non, et il est explicite là-dessus** dans la *Critique du programme de Gotha* (1875). Avant toute répartition, il faut prélever sur le produit social :\n\n- le remplacement des moyens de production usés ;\n- la part destinée à **étendre** la production ;\n- un fonds de **réserve** contre les accidents et les mauvaises récoltes ;\n- les frais généraux d'administration ;\n- les écoles, la santé, les services collectifs ;\n- de quoi faire vivre **ceux qui ne peuvent pas travailler**.\n\nAutrement dit : le travailleur ne touchera jamais « le produit intégral de son travail », et Marx raille ce mot d'ordre. Le surtravail est une nécessité de toute société qui veut se reproduire, se prémunir et prendre soin de ses membres.\n\n→ Ce qui disparaît n'est pas le surtravail, c'est son **appropriation privée** — donc la survaleur comme **forme sociale**. La différence n'est pas dans la quantité d'effort fourni, elle est dans **qui décide de son affectation**. C'est la réponse à « il faudra bien que quelqu'un travaille » : oui, et personne n'a jamais dit le contraire."
+ },
+ {
+  "id": "la-valeur-disparait-pas-la-richesse",
+  "file": "valeur-capitalisme-alternative.md",
+  "title": "La valeur disparaît, pas la richesse",
+  "type": "argument",
+  "tags": [
+   "auteur:marx",
+   "économie",
+   "marxisme",
+   "niveau:3-avancé",
+   "philosophie",
+   "politique",
+   "source:débat-rn-confus"
+  ],
+  "source": "",
+  "recto": "Que devient la valeur dans une société post-capitaliste — et qu'est-ce qui subsiste à sa place comme instrument de mesure ?",
+  "verso": "**La valeur disparaît**, et pour une raison logique, pas volontariste. Elle est [[le-travail-n-est-valide-qu-apres-coup|la forme que prend le travail quand il est privé et validé après coup par l'échange]]. Si le travail est réparti consciemment *avant* d'être effectué, il est **directement social** dès le départ : il n'y a plus rien à valider rétroactivement, donc plus de valeur. Restent la **richesse** et la **valeur d'usage**, qui n'ont jamais eu besoin du capitalisme pour exister.\n\n**Ce qui subsiste : le temps de travail comme mesure.** Marx envisage des **bons de travail** — un certificat attestant tant d'heures fournies, échangeable contre des biens coûtant autant d'heures. Ils ne sont pas de la monnaie : ils **ne circulent pas** et **ne s'accumulent pas**, ils s'annulent à l'usage. Il les compare ailleurs à un billet de théâtre. C'est de la **comptabilité**, pas un moyen de paiement.\n\n**Et Marx critique lui-même ce dispositif.** Rétribuer selon la contribution en travail reste un **principe d'équivalence**, donc « un droit encore bourgeois » : il traite comme égaux des gens inégalement dotés en force, en santé, en charges familiales. Ce n'est dépassé qu'en phase supérieure — « de chacun selon ses capacités, à chacun selon ses besoins ».\n\n→ La distinction à tenir : abolir la valeur n'est pas abolir la mesure. On continue de compter des heures ; ce qu'on cesse de faire, c'est de laisser le marché décider **après coup** lesquelles comptaient."
+ },
+ {
+  "id": "le-capital-est-un-rapport-social-pas-une-chose",
+  "file": "valeur-capitalisme-alternative.md",
+  "title": "Le capital est un rapport social, pas une chose",
+  "type": "concept",
+  "tags": [
+   "auteur:marx",
+   "économie",
+   "marxisme",
+   "niveau:2-intermédiaire",
+   "politique",
+   "source:débat-rn-confus"
+  ],
+  "source": "",
+  "recto": "Quelle est la rupture de Marx avec les classiques sur la nature même du capital — et quel exemple la rend indiscutable ?",
+  "verso": "**Chez les classiques**, le capital est une **chose** : un stock d'outils, de machines, d'avances. Comme les outils existent depuis la préhistoire, le capital devient une catégorie éternelle, et le capitalisme une donnée naturelle de l'économie.\n\n**Chez Marx**, le capital est un **rapport social**, et il est **daté**. « Une machine à filer le coton est une machine à filer le coton. Ce n'est que dans certains rapports qu'elle devient du capital. Arrachée à ces rapports, elle n'est pas plus du capital que l'or n'est en soi de la monnaie. »\n\n**La démonstration par l'absurde**, au dernier chapitre du livre I. Un certain M. Peel emporte en Australie 50 000 livres sterling et trois mille ouvriers. Arrivé sur place, il se retrouve sans un domestique pour faire son lit : la terre étant libre, ses ouvriers sont partis s'établir. Il avait tous les **moyens de production** et tout l'**argent** ; il n'avait plus le **rapport**. Donc plus de capital.\n\n**Détail qui va avec** : Marx n'écrit presque jamais « capitalisme ». Il écrit « mode de production capitaliste ». Le substantif existait déjà en français (Louis Blanc, Proudhon) mais c'est Sombart, en 1902, qui le popularise.\n\n→ C'est ce qui permet de [[la-liste-des-modes-de-production|dater]] le capitalisme au lieu de le naturaliser — et c'est exactement ce que fait perdre l'expression « le capital » employée comme synonyme d'« argent »."
+ },
+ {
   "id": "smith-le-castor-et-le-cerf",
   "file": "valeur-travail.md",
   "title": "Smith : le castor et le cerf",
@@ -1200,7 +1376,54 @@ window.CARDS = [
   ],
   "source": "",
   "recto": "« Si la valeur vient du travail, l'ouvrier lent produit une marchandise plus chère, et un objet inutile bricolé pendant dix ans vaut une fortune. » Que répondre ?",
-  "verso": "L'objection porte contre une version que Marx écarte **dès le premier chapitre**. La valeur n'est pas le temps effectivement passé, mais le **temps de travail socialement nécessaire** : celui qu'exige la production « dans des conditions normales, avec le degré moyen d'habileté et d'intensité » de l'époque.\n\nDeux conséquences immédiates :\n\n- le travailleur lent ne crée pas plus de valeur, il en **gaspille** ;\n- rien ne vaut si personne n'en veut : le travail privé ne devient social qu'en étant **validé par la vente**. Un travail que le marché refuse n'a produit aucune valeur.\n\nEt le travail qui compte est le **travail abstrait** — du temps de travail humain indifférencié — et non le geste concret du tisserand ou du forgeron.\n\n→ La valeur n'est pas une propriété physique de l'objet : c'est un **rapport social qui prend l'apparence** d'une propriété de l'objet. C'est tout le sens du mot « fétichisme »."
+  "verso": "L'objection porte contre une version que Marx écarte **dès le premier chapitre**. La valeur n'est pas le temps effectivement passé, mais le **temps de travail socialement nécessaire** : celui qu'exige la production « dans des conditions normales, avec le degré moyen d'habileté et d'intensité » de l'époque.\n\nDeux conséquences immédiates :\n\n- le travailleur lent ne crée pas plus de valeur, il en **gaspille** ;\n- rien ne vaut si personne n'en veut — le travail privé n'est [[le-travail-n-est-valide-qu-apres-coup|validé comme social qu'après coup, par la vente]].\n\nEt le travail qui compte est le [[le-double-caractere-du-travail|travail abstrait]], non le geste concret du tisserand ou du forgeron.\n\n→ Ce qui est mesuré est une **moyenne**, et une moyenne se déplace. Produire au-dessus du temps social, c'est être détruit ; produire en dessous, c'est déplacer la norme et détruire les autres. La contrainte productiviste n'est pas une dérive du système : elle est inscrite dans la définition même de la valeur."
+ },
+ {
+  "id": "le-double-caractere-du-travail",
+  "file": "valeur-travail.md",
+  "title": "Le double caractère du travail",
+  "type": "concept",
+  "tags": [
+   "auteur:marx",
+   "économie",
+   "marxisme",
+   "niveau:3-avancé",
+   "philosophie"
+  ],
+  "source": "",
+  "recto": "Quelle découverte Marx tenait-il pour la sienne propre, et en quel sens l'abstraction qu'elle suppose n'est-elle **pas** une opération de l'esprit ?",
+  "verso": "Le **double caractère du travail** représenté dans la marchandise. Marx en fait le pivot du livre I ch. 1, et l'annonce à Engels comme l'un des deux meilleurs points de son livre.\n\n- **Travail concret** — la couture, le tissage, le code. Il produit des **valeurs d'usage**, il est qualitativement différent d'un métier à l'autre, et il existe dans **toutes** les sociétés. Transhistorique.\n- **Travail abstrait** — la même dépense d'énergie humaine considérée indépendamment de sa forme, purement quantitative, mesurée en temps. C'est la **substance de la valeur**, et elle n'existe que dans un type de société précis.\n\n**Le point difficile, et le plus important.** Cette abstraction n'est pas un procédé de l'analyste qui laisserait de côté les différences pour ranger les métiers dans une case commune. Elle est **réellement opérée par la société** : c'est l'échange généralisé qui égalise effectivement une heure de couture et une heure de codage, en les rendant commensurables sur le marché. Le concept ne fait qu'enregistrer une abstraction qui a lieu **dans les faits** — c'est la lecture qu'en donne Rubin (*Essais sur la théorie de la valeur*, 1928).\n\n→ Conséquence directe : le travail abstrait n'est pas une propriété du travail humain en général, c'est ce que **devient** le travail sous des rapports sociaux déterminés. Le nier revient à faire de la valeur une catégorie naturelle — l'erreur exacte de [[les-deux-theories-de-la-valeur-chez-smith|Smith]] et de [[ricardo-ce-qu-il-corrige-chez-smith|Ricardo]]."
+ },
+ {
+  "id": "le-travail-n-est-valide-qu-apres-coup",
+  "file": "valeur-travail.md",
+  "title": "Le travail n'est validé qu'après coup",
+  "type": "argument",
+  "tags": [
+   "auteur:marx",
+   "économie",
+   "marxisme",
+   "niveau:3-avancé",
+   "sociologie"
+  ],
+  "source": "",
+  "recto": "Dans une société de producteurs privés, à quel moment un travail devient-il social — et pourquoi cette question décide-t-elle du statut de la valeur ?",
+  "verso": "**Pas au moment où il s'exerce.** Chacun produit isolément, sur décision privée, sans savoir si la société a besoin de ce qu'il fait. Le travail ne devient social **qu'à la vente**, et rétroactivement.\n\nCe qui reste invendu n'est donc pas « du travail social mal payé » : c'est du travail qui, *rétrospectivement*, n'était pas du travail social du tout. Aucune valeur n'a été créée. L'effort a eu lieu, la peine a été réelle, et elle ne compte pour rien.\n\nC'est ce qui rend le système à la fois aveugle et impitoyable : la coordination existe, mais elle s'effectue **après** la production, par la sanction, et jamais avant, par la décision.\n\n→ La valeur n'est donc pas une propriété des choses ni une qualité du travail : c'est la **forme que prend le travail** quand il est privé, divisé et coordonné après coup par l'échange. Elle a une date de naissance et elle peut avoir une fin — [[la-valeur-disparait-pas-la-richesse|si le travail devient directement social, il n'y a plus rien à valider]]."
+ },
+ {
+  "id": "valeur-valeur-d-echange-prix-substance-et-formes",
+  "file": "valeur-travail.md",
+  "title": "Valeur, valeur d'échange, prix : substance et formes",
+  "type": "piege",
+  "tags": [
+   "auteur:marx",
+   "économie",
+   "marxisme",
+   "niveau:2-intermédiaire"
+  ],
+  "source": "",
+  "recto": "Trois termes qu'on emploie l'un pour l'autre. Que désigne chacun — et « valeur-travail », c'est lequel ?",
+  "verso": "Trois **niveaux d'apparition** du même contenu, à ne pas confondre avec les [[valeur-prix-de-production-prix-de-marche|trois étages de la détermination]] :\n\n1. **La valeur** — la *substance*. Du travail abstrait cristallisé, mesuré en temps social. Elle ne se voit pas.\n2. **La valeur d'échange** — la *forme de manifestation*. Une proportion : tant de blé contre tant de fer. C'est la seule façon dont la valeur peut se montrer — jamais directement, toujours dans le corps d'une autre marchandise.\n3. **Le prix** — l'*expression monétaire* de cette forme, une fois qu'une marchandise particulière joue le rôle d'équivalent général. Et il [[le-probleme-de-la-transformation|diverge structurellement de la valeur]], ce qui n'est pas un défaut du système mais son fonctionnement normal.\n\n**Et « valeur-travail » ?** Ce n'est aucun des trois. Ce n'est pas une quatrième sorte de valeur : c'est le **nom de la théorie** qui affirme que la substance du premier niveau est du travail. Dire « la valeur-travail de cet objet est de 3 heures » n'a aucun sens.\n\n→ La distinction substance / forme est ce qui permet de comprendre pourquoi la valeur ne peut apparaître qu'en se déguisant en autre chose — et donc pourquoi [[le-fetichisme-de-la-marchandise|un rapport entre personnes finit par se présenter comme un rapport entre choses]]."
  },
  {
   "id": "valeur-prix-de-production-prix-de-marche",

@@ -103,11 +103,65 @@ L'objection porte contre une version que Marx écarte **dès le premier chapitre
 Deux conséquences immédiates :
 
 - le travailleur lent ne crée pas plus de valeur, il en **gaspille** ;
-- rien ne vaut si personne n'en veut : le travail privé ne devient social qu'en étant **validé par la vente**. Un travail que le marché refuse n'a produit aucune valeur.
+- rien ne vaut si personne n'en veut — le travail privé n'est [[Le travail n'est validé qu'après coup|validé comme social qu'après coup, par la vente]].
 
-Et le travail qui compte est le **travail abstrait** — du temps de travail humain indifférencié — et non le geste concret du tisserand ou du forgeron.
+Et le travail qui compte est le [[Le double caractère du travail|travail abstrait]], non le geste concret du tisserand ou du forgeron.
 
-→ La valeur n'est pas une propriété physique de l'objet : c'est un **rapport social qui prend l'apparence** d'une propriété de l'objet. C'est tout le sens du mot « fétichisme ».
+→ Ce qui est mesuré est une **moyenne**, et une moyenne se déplace. Produire au-dessus du temps social, c'est être détruit ; produire en dessous, c'est déplacer la norme et détruire les autres. La contrainte productiviste n'est pas une dérive du système : elle est inscrite dans la définition même de la valeur.
+
+
+## Le double caractère du travail
+type: concept
+tags: auteur:marx, philosophie, niveau:3-avancé
+
+Quelle découverte Marx tenait-il pour la sienne propre, et en quel sens l'abstraction qu'elle suppose n'est-elle **pas** une opération de l'esprit ?
+
+---
+
+Le **double caractère du travail** représenté dans la marchandise. Marx en fait le pivot du livre I ch. 1, et l'annonce à Engels comme l'un des deux meilleurs points de son livre.
+
+- **Travail concret** — la couture, le tissage, le code. Il produit des **valeurs d'usage**, il est qualitativement différent d'un métier à l'autre, et il existe dans **toutes** les sociétés. Transhistorique.
+- **Travail abstrait** — la même dépense d'énergie humaine considérée indépendamment de sa forme, purement quantitative, mesurée en temps. C'est la **substance de la valeur**, et elle n'existe que dans un type de société précis.
+
+**Le point difficile, et le plus important.** Cette abstraction n'est pas un procédé de l'analyste qui laisserait de côté les différences pour ranger les métiers dans une case commune. Elle est **réellement opérée par la société** : c'est l'échange généralisé qui égalise effectivement une heure de couture et une heure de codage, en les rendant commensurables sur le marché. Le concept ne fait qu'enregistrer une abstraction qui a lieu **dans les faits** — c'est la lecture qu'en donne Rubin (*Essais sur la théorie de la valeur*, 1928).
+
+→ Conséquence directe : le travail abstrait n'est pas une propriété du travail humain en général, c'est ce que **devient** le travail sous des rapports sociaux déterminés. Le nier revient à faire de la valeur une catégorie naturelle — l'erreur exacte de [[Les deux théories de la valeur chez Smith|Smith]] et de [[Ricardo : ce qu'il corrige chez Smith|Ricardo]].
+
+
+## Le travail n'est validé qu'après coup
+type: argument
+tags: auteur:marx, sociologie, niveau:3-avancé
+
+Dans une société de producteurs privés, à quel moment un travail devient-il social — et pourquoi cette question décide-t-elle du statut de la valeur ?
+
+---
+
+**Pas au moment où il s'exerce.** Chacun produit isolément, sur décision privée, sans savoir si la société a besoin de ce qu'il fait. Le travail ne devient social **qu'à la vente**, et rétroactivement.
+
+Ce qui reste invendu n'est donc pas « du travail social mal payé » : c'est du travail qui, *rétrospectivement*, n'était pas du travail social du tout. Aucune valeur n'a été créée. L'effort a eu lieu, la peine a été réelle, et elle ne compte pour rien.
+
+C'est ce qui rend le système à la fois aveugle et impitoyable : la coordination existe, mais elle s'effectue **après** la production, par la sanction, et jamais avant, par la décision.
+
+→ La valeur n'est donc pas une propriété des choses ni une qualité du travail : c'est la **forme que prend le travail** quand il est privé, divisé et coordonné après coup par l'échange. Elle a une date de naissance et elle peut avoir une fin — [[La valeur disparaît, pas la richesse|si le travail devient directement social, il n'y a plus rien à valider]].
+
+
+## Valeur, valeur d'échange, prix : substance et formes
+type: piège
+tags: auteur:marx, niveau:2-intermédiaire
+
+Trois termes qu'on emploie l'un pour l'autre. Que désigne chacun — et « valeur-travail », c'est lequel ?
+
+---
+
+Trois **niveaux d'apparition** du même contenu, à ne pas confondre avec les [[Valeur, prix de production, prix de marché|trois étages de la détermination]] :
+
+1. **La valeur** — la *substance*. Du travail abstrait cristallisé, mesuré en temps social. Elle ne se voit pas.
+2. **La valeur d'échange** — la *forme de manifestation*. Une proportion : tant de blé contre tant de fer. C'est la seule façon dont la valeur peut se montrer — jamais directement, toujours dans le corps d'une autre marchandise.
+3. **Le prix** — l'*expression monétaire* de cette forme, une fois qu'une marchandise particulière joue le rôle d'équivalent général. Et il [[Le problème de la transformation|diverge structurellement de la valeur]], ce qui n'est pas un défaut du système mais son fonctionnement normal.
+
+**Et « valeur-travail » ?** Ce n'est aucun des trois. Ce n'est pas une quatrième sorte de valeur : c'est le **nom de la théorie** qui affirme que la substance du premier niveau est du travail. Dire « la valeur-travail de cet objet est de 3 heures » n'a aucun sens.
+
+→ La distinction substance / forme est ce qui permet de comprendre pourquoi la valeur ne peut apparaître qu'en se déguisant en autre chose — et donc pourquoi [[Le fétichisme de la marchandise|un rapport entre personnes finit par se présenter comme un rapport entre choses]].
 
 
 ## Valeur, prix de production, prix de marché
