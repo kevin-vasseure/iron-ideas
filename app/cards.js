@@ -1076,6 +1076,66 @@ window.CARDS = [
   "verso": "L'objection porte contre une version que Marx écarte **dès le premier chapitre**. La valeur n'est pas le temps effectivement passé, mais le **temps de travail socialement nécessaire** : celui qu'exige la production « dans des conditions normales, avec le degré moyen d'habileté et d'intensité » de l'époque.\n\nDeux conséquences immédiates :\n\n- le travailleur lent ne crée pas plus de valeur, il en **gaspille** ;\n- rien ne vaut si personne n'en veut : le travail privé ne devient social qu'en étant **validé par la vente**. Un travail que le marché refuse n'a produit aucune valeur.\n\nEt le travail qui compte est le **travail abstrait** — du temps de travail humain indifférencié — et non le geste concret du tisserand ou du forgeron.\n\n→ La valeur n'est pas une propriété physique de l'objet : c'est un **rapport social qui prend l'apparence** d'une propriété de l'objet. C'est tout le sens du mot « fétichisme »."
  },
  {
+  "id": "valeur-prix-de-production-prix-de-marche",
+  "file": "valeur-travail.md",
+  "title": "Valeur, prix de production, prix de marché",
+  "type": "concept",
+  "tags": [
+   "auteur:marx",
+   "économie",
+   "marxisme",
+   "niveau:2-intermédiaire"
+  ],
+  "source": "",
+  "recto": "On emploie « valeur » et « prix » comme des synonymes. Combien de niveaux distincts faut-il tenir, et que règle chacun ?",
+  "verso": "Trois étages, à ne jamais écraser l'un sur l'autre :\n\n1. **La valeur** — le temps de travail socialement nécessaire. Grandeur **sociale et non observable** : elle ne se lit sur aucune étiquette, elle ne se mesure pas marchandise par marchandise. C'est le livre I.\n2. **Le prix de production** — le coût plus le **profit moyen**. La concurrence des capitaux égalise le taux de profit entre branches, ce qui écarte les prix des valeurs **systématiquement** : au-dessus dans les branches très mécanisées, en dessous dans celles à forte main-d'œuvre. C'est le livre III.\n3. **Le prix de marché** — ce qui se paie effectivement tel jour. Il **oscille** autour du prix de production, au gré de l'offre, de la demande, de la spéculation, de la fiscalité, du monopole.\n\nMarx pose que les **totaux** coïncident à l'échelle du système — somme des valeurs = somme des prix, survaleur totale = profit total. C'est précisément ce que le problème de la transformation met en cause.\n\n→ La quasi-totalité des objections à la valeur travail visent l'étage 3 en croyant viser l'étage 1. « Ce tableau s'est vendu 40 millions » ne réfute rien : c'est un prix de marché, et personne n'a prétendu qu'il mesurait un temps de travail."
+ },
+ {
+  "id": "ce-sont-l-offre-et-la-demande-qui-font-les-prix",
+  "file": "valeur-travail.md",
+  "title": "« Ce sont l'offre et la demande qui font les prix »",
+  "type": "piege",
+  "tags": [
+   "économie",
+   "marxisme",
+   "niveau:2-intermédiaire",
+   "rhétorique"
+  ],
+  "source": "",
+  "recto": "Objection la plus fréquente contre toute théorie de la valeur. Quelle question la retourne — et quelle contre-attaque faut-il avoir prévue ?",
+  "verso": "La question : **que reste-t-il quand l'offre et la demande s'équilibrent ?**\n\nÀ ce moment précis, elles cessent par construction d'expliquer quoi que ce soit — et pourtant un prix subsiste, qui n'est ni nul ni arbitraire. Elles expliquent les **écarts**, pas le **niveau** autour duquel les écarts se produisent : pourquoi un masque chirurgical a décuplé en mars 2020, non pourquoi il vaut quelques centimes et une voiture quelques dizaines de milliers d'euros quand tout est calme. D'où l'image classique du **centre de gravité** — le prix oscille, et il oscille autour de quelque chose.\n\n**La contre-attaque à connaître** : un économiste formé répondra que ce ne sont pas les *quantités* offertes et demandées qui déterminent le prix, mais les **courbes** — et qu'à l'équilibre le prix égalise coût marginal et utilité marginale. C'est juste. Le débat se déplace alors sur ce qui détermine la **forme de la courbe d'offre sur longue période**, et l'on retombe sur les conditions de production, donc sur le travail.\n\n→ Ne conteste jamais que l'offre et la demande jouent : elles jouent en permanence. Conteste qu'elles **suffisent**, et exige ce qui reste quand elles s'annulent."
+ },
+ {
+  "id": "un-prix-sans-valeur",
+  "file": "valeur-travail.md",
+  "title": "Un prix sans valeur",
+  "type": "piege",
+  "tags": [
+   "auteur:marx",
+   "économie",
+   "marxisme",
+   "niveau:3-avancé"
+  ],
+  "source": "",
+  "recto": "Marx admet-il que des choses sans aucun travail incorporé aient un prix — et qu'est-ce que cette concession débloque aujourd'hui ?",
+  "verso": "Oui, explicitement, dès le livre I, ch. 3 : **« une chose peut, formellement, avoir un prix sans avoir de valeur »**. Ses exemples : la terre non travaillée, la conscience, l'honneur — vendables sans qu'une heure de travail y soit incorporée.\n\nLe prix est la **forme monétaire** de la valeur, et une forme peut être remplie par autre chose que son contenu habituel. Marx parle d'une **contradiction qualitative logée dans la forme-prix** — ce n'est pas une exception embarrassante, c'est une propriété du dispositif.\n\nCe que ça débloque : tout ce qui se paie sans être produit — **rente foncière, brevet, marque, quota d'émission, position de monopole, données exclusives**. Ces prix ne mesurent aucun travail : ils mesurent un **droit d'exclure**.\n\n→ C'est la clé de la fiche « Ce qui restera : la rente, pas la valeur ». Quand le travail contenu dans un logiciel tombe à presque rien, ce qui subsiste au prix n'est pas de la valeur mal mesurée : c'est un prix **sans** valeur, adossé au droit d'auteur et au verrouillage."
+ },
+ {
+  "id": "la-valeur-n-est-pas-le-juste-prix",
+  "file": "valeur-travail.md",
+  "title": "La valeur n'est pas le « juste prix »",
+  "type": "piege",
+  "tags": [
+   "économie",
+   "marxisme",
+   "niveau:2-intermédiaire",
+   "philosophie"
+  ],
+  "source": "",
+  "recto": "« La valeur travail dit que le travailleur devrait toucher l'intégralité de ce qu'il produit. » Marx dit-il cela ?",
+  "verso": "**Non — et il combat explicitement l'idée.** Deux raisons distinctes :\n\n- Sa démonstration **suppose** que tout s'échange à sa valeur, force de travail comprise. Le capitaliste ne triche pas : il achète une marchandise à son prix et en tire plus qu'elle ne lui coûte. Poser un vol ferait perdre la démonstration, qui vaut justement parce qu'elle n'en a **pas besoin**.\n- Dans la *Critique du programme de Gotha* (1875), Marx raille le mot d'ordre du « produit intégral du travail » : il faut de toute façon prélever de quoi remplacer les moyens de production, financer les écoles, les hôpitaux, et faire vivre ceux qui ne travaillent pas.\n\nLa valeur est une catégorie **descriptive** — une grandeur sociale — et non un **étalon de justice**. « Ce prix est inférieur à la valeur » ne signifie pas « ce prix est injuste ».\n\n→ Le glissement moral est ce qui décrédibilise le plus vite la valeur travail en débat : il transforme une théorie de la reproduction du système en indignation, et l'adversaire n'a plus qu'à discuter l'indignation."
+ },
+ {
   "id": "la-valeur-travail-est-refutee-depuis-le-marginalisme",
   "file": "valeur-travail.md",
   "title": "« La valeur travail est réfutée depuis le marginalisme »",
