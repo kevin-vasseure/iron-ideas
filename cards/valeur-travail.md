@@ -235,6 +235,41 @@ La valeur est une catégorie **descriptive** — une grandeur sociale — et non
 → Le glissement moral est ce qui décrédibilise le plus vite la valeur travail en débat : il transforme une théorie de la reproduction du système en indignation, et l'adversaire n'a plus qu'à discuter l'indignation.
 
 
+## « L'eau dans le désert, le tableau à 40 millions »
+type: piège
+tags: rhétorique, niveau:2-intermédiaire
+
+Les contre-exemples classiques : l'eau qui vaut une fortune dans le désert, l'œuvre d'art hors de prix, le sac de luxe. Comment y répondre **sans** bricoler une exception à chaque fois ?
+
+---
+
+**Une seule réponse, à énoncer avant d'examiner les cas.** La théorie porte sur les marchandises **reproductibles**, **produites pour l'échange**, dans des branches où les capitaux peuvent circuler. Ce n'est pas un repli inventé sous la pression : Ricardo l'écrit dans les premières pages de son chapitre 1, avant toute objection — les biens dont le travail ne peut pas augmenter la quantité, « statues et tableaux rares, livres et monnaies rares, vins d'une qualité particulière », sont réglés par **la rareté seule**, et il les met hors du champ.
+
+Les cas, un par un :
+
+- **L'eau dans le désert.** Prix de marché sous effondrement local de l'offre — [[Valeur, prix de production, prix de marché|un écart au centre de gravité]], soit exactement ce que la théorie prévoit. Le test est ce qui se passe ensuite : dès qu'on peut en acheminer, le prix retombe vers le coût de l'acheminement. Et le paradoxe se retourne — si l'eau est quasi gratuite en conditions normales **alors qu'elle est vitale**, c'est bien que son prix n'est pas réglé par son utilité.
+- **Le tableau à 40 millions.** Non reproductible : aucune quantité de travail ne produira un second *Salvator Mundi*. Le prix est un **prix de monopole**, [[Un prix sans valeur|un prix sans valeur]], réglé par ce que des acheteurs peuvent payer. Vérification immédiate : dès que la reproduction devient possible — tirages, impressions, copies — le prix retombe au coût de reproduction.
+- **Le sac de luxe.** Même mécanisme, adossé cette fois à un droit : la marque est une **rente**, elle fait payer l'exclusion et non la couture. Le temps de travail y explique le coût de fabrication, jamais le prix affiché.
+- **L'objet inutile fabriqué pendant dix ans.** Autre famille : ce n'est pas la reproductibilité qui manque mais la validation. Voir [[Le temps de travail socialement nécessaire]].
+
+→ La réponse tient en une phrase : **ces objets ont un prix, ils n'ont pas de valeur** — et la théorie le disait avant qu'on l'attaque. Le vrai aveu de faiblesse serait d'essayer de faire entrer un tableau de Léonard dans du temps de travail.
+
+
+## La valeur travail est-elle vérifiable ?
+type: piège
+tags: économie, niveau:3-avancé
+
+Existe-t-il un test empirique de la théorie, que donne-t-il — et pourquoi ne pas dégainer le chiffre trop vite ?
+
+---
+
+**Le test existe.** À partir des tableaux entrées-sorties, on calcule pour chaque branche le contenu total en travail — direct et indirect — puis on le compare aux prix. Shaikh, Ochoa, Cockshott et Cottrell trouvent des corrélations élevées, de l'ordre de **0,9 et plus** selon les pays et les périodes. À première vue, c'est écrasant.
+
+**L'objection méthodologique.** Les deux séries comparées sont des **totaux sectoriels** : une branche énorme a beaucoup de travail incorporé *et* un gros chiffre d'affaires, une petite branche peu des deux. La corrélation mesure donc en partie la **taille des secteurs**. Quand on cherche à neutraliser cet effet, elle baisse nettement — objection portée notamment par Kliman, à laquelle il a été répondu, sans que le débat soit tranché.
+
+→ Et l'objection de fond est ailleurs : même parfaite, cette corrélation ne dit rien du **sens de la causalité**. Une économie où les coûts de production sont dominés par les salaires produirait exactement la même courbe **sans qu'aucune théorie de la valeur soit vraie**. Ce que ces travaux établissent au mieux, c'est que le contenu en travail prédit bien les prix relatifs ; ce qu'ils n'établissent pas, c'est qu'il les explique.
+
+
 ## « La valeur travail est réfutée depuis le marginalisme »
 type: piège
 tags: rhétorique, niveau:3-avancé
@@ -243,7 +278,7 @@ On t'oppose que la révolution marginaliste des années 1870 a réglé la questi
 
 ---
 
-**Concéder d'abord ce qui est vrai.** Jevons, Menger et Walras (1871-1874) expliquent bien mieux que Smith la **formation des prix à la marge** et l'allocation de ressources rares ; le paradoxe de l'eau et du diamant, que Smith posait sans le résoudre, se dissout dans l'utilité marginale.
+**Concéder d'abord ce qui est vrai.** Jevons, Menger et Walras (1871-1874) expliquent bien mieux que Smith la **formation des prix à la marge** et l'allocation de ressources rares ; le paradoxe de l'eau et du diamant, que Smith posait sans le résoudre, se dissout dans l'utilité marginale — ce qui ne règle pas pour autant [[« L'eau dans le désert, le tableau à 40 millions »|les contre-exemples qu'on en tire]].
 
 **Puis déplacer.** Les deux théories ne répondent pas à la même question : le marginalisme explique **comment un prix se forme** à l'équilibre, en prenant préférences et dotations comme données ; la valeur travail cherche **d'où vient le surplus** et ce qui règle la reproduction du système sur la longue période. Le marginalisme ne pose pas cette question — il ne peut donc pas y avoir répondu.
 
